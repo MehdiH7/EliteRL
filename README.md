@@ -1,17 +1,39 @@
-# Reinforcement Learning for Team Ranking in Eliteserien
+# EliteRL: Reinforcement Learning for Football Rankings
 
-This project implements a reinforcement learning approach to rank football teams in the Norwegian Eliteserien league using pairwise comparisons within a dueling bandit framework.
+A machine learning project that uses reinforcement learning techniques to predict and rank football teams in the Norwegian Eliteserien league. This project compares the performance of a dueling bandit reinforcement learning approach against traditional models like Bradley-Terry, Logistic Regression, and Random Forest.
 
-## Project Overview
+## Overview
 
-The goal is to recover the true ranking of teams in the Eliteserien football league using historical match data from 2019-2023, and evaluate the model's predictions against the actual 2024 season results.
+This project implements and evaluates several approaches to ranking football teams based on match outcomes:
 
-## Key Features
+- **Dueling Bandit Reinforcement Learning**: An enhanced RL model that learns team strengths through pairwise comparisons
+- **Bradley-Terry Model**: A traditional statistical model for pairwise comparisons
+- **Logistic Regression**: A machine learning approach using team features
+- **Random Forest**: An ensemble learning method for match outcome prediction
 
-- Implements a dueling bandit RL model for team ranking
-- Handles promotion/relegation dynamics in the league
-- Compares RL performance against traditional ranking models
-- Evaluates ranking accuracy against actual 2024 standings
+The models are trained on Eliteserien data from 2019-2023 and evaluated on the 2024 season.
+
+## Features
+
+- Data processing pipeline for real football match data
+- Implementation of multiple ranking algorithms
+- Comprehensive evaluation metrics (prediction accuracy, ranking correlation)
+- Visualization tools for comparing model performance
+- Feature importance analysis
+
+## Results
+
+The models are evaluated based on their ability to predict match outcomes and produce rankings that correlate with actual season standings. Performance metrics include prediction accuracy, Kendall's Tau correlation, and average rank distance.
+
+## Requirements
+
+- Python 3.8+
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+- Seaborn
+- tqdm
 
 ## Project Structure
 
