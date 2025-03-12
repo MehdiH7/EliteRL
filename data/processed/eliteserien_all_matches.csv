@@ -1,0 +1,1441 @@
+season,round,date,home_team,away_team,home_goals,away_goals,home_win,draw,away_win
+2022,1,02.04.2022,HamKam,Lillestrøm,2,2,0,1,0
+2022,1,02.04.2022,Molde,Vålerenga,1,0,1,0,0
+2022,1,03.04.2022,Aalesund,Kristiansund,1,0,1,0,0
+2022,1,03.04.2022,Haugesund,Sandefjord Fotball,1,3,0,0,1
+2022,1,03.04.2022,Jerv,Strømsgodset,1,0,1,0,0
+2022,1,03.04.2022,Sarpsborg 08,Viking,0,1,0,0,1
+2022,1,03.04.2022,Odd,Tromsø,2,0,1,0,0
+2022,1,03.04.2022,Bodø/Glimt,Rosenborg,2,2,0,1,0
+2022,2,09.04.2022,Lillestrøm,Jerv,4,0,1,0,0
+2022,2,10.04.2022,Vålerenga,Haugesund,2,1,1,0,0
+2022,2,10.04.2022,Tromsø,HamKam,2,1,1,0,0
+2022,2,10.04.2022,Sandefjord Fotball,Bodø/Glimt,1,2,0,0,1
+2022,2,10.04.2022,Rosenborg,Odd,1,0,1,0,0
+2022,2,10.04.2022,Strømsgodset,Molde,1,3,0,0,1
+2022,2,10.04.2022,Kristiansund,Sarpsborg 08,2,3,0,0,1
+2022,2,10.04.2022,Viking,Aalesund,1,0,1,0,0
+2022,3,18.04.2022,Aalesund,Tromsø,2,2,0,1,0
+2022,3,18.04.2022,HamKam,Sandefjord Fotball,3,0,1,0,0
+2022,3,18.04.2022,Haugesund,Strømsgodset,0,1,0,0,1
+2022,3,18.04.2022,Jerv,Kristiansund,1,0,1,0,0
+2022,3,18.04.2022,Molde,Lillestrøm,1,2,0,0,1
+2022,3,18.04.2022,Sarpsborg 08,Rosenborg,1,1,0,1,0
+2022,3,18.04.2022,Odd,Viking,2,1,1,0,0
+2022,3,18.04.2022,Bodø/Glimt,Vålerenga,5,1,1,0,0
+2022,4,23.04.2022,Odd,Aalesund,2,3,0,0,1
+2022,4,23.04.2022,Strømsgodset,Sandefjord Fotball,0,5,0,0,1
+2022,4,24.04.2022,Kristiansund,HamKam,2,2,0,1,0
+2022,4,24.04.2022,Lillestrøm,Haugesund,1,0,1,0,0
+2022,4,24.04.2022,Tromsø,Sarpsborg 08,2,5,0,0,1
+2022,4,24.04.2022,Viking,Bodø/Glimt,2,0,1,0,0
+2022,4,24.04.2022,Vålerenga,Jerv,1,0,1,0,0
+2022,4,24.04.2022,Rosenborg,Molde,0,0,0,1,0
+2022,5,07.05.2022,Sarpsborg 08,Odd,1,0,1,0,0
+2022,5,07.05.2022,Molde,Viking,3,4,0,0,1
+2022,5,08.05.2022,Bodø/Glimt,Lillestrøm,1,1,0,1,0
+2022,5,08.05.2022,Haugesund,Kristiansund,2,0,1,0,0
+2022,5,08.05.2022,Jerv,Tromsø,1,1,0,1,0
+2022,5,08.05.2022,Strømsgodset,Rosenborg,3,0,1,0,0
+2022,5,08.05.2022,Sandefjord Fotball,Vålerenga,1,3,0,0,1
+2022,5,08.05.2022,HamKam,Aalesund,0,0,0,1,0
+2022,6,16.05.2022,Aalesund,Molde,0,2,0,0,1
+2022,6,16.05.2022,Bodø/Glimt,Tromsø,1,1,0,1,0
+2022,6,16.05.2022,Kristiansund,Strømsgodset,0,3,0,0,1
+2022,6,16.05.2022,Lillestrøm,Sarpsborg 08,1,0,1,0,0
+2022,6,16.05.2022,Rosenborg,Sandefjord Fotball,3,0,1,0,0
+2022,6,16.05.2022,Odd,Haugesund,0,4,0,0,1
+2022,6,16.05.2022,Viking,Jerv,3,0,1,0,0
+2022,6,16.05.2022,Vålerenga,HamKam,1,1,0,1,0
+2022,7,21.05.2022,Sandefjord Fotball,Lillestrøm,1,4,0,0,1
+2022,7,21.05.2022,Molde,Kristiansund,2,1,1,0,0
+2022,7,22.05.2022,Haugesund,Bodø/Glimt,1,4,0,0,1
+2022,7,22.05.2022,Jerv,Odd,0,1,0,0,1
+2022,7,22.05.2022,Strømsgodset,Vålerenga,3,2,1,0,0
+2022,7,22.05.2022,Sarpsborg 08,Aalesund,1,2,0,0,1
+2022,7,22.05.2022,Tromsø,Viking,1,1,0,1,0
+2022,7,22.05.2022,HamKam,Rosenborg,1,1,0,1,0
+2022,8,25.05.2022,Aalesund,Jerv,2,1,1,0,0
+2022,8,25.05.2022,Bodø/Glimt,Strømsgodset,2,2,0,1,0
+2022,8,25.05.2022,Odd,Sandefjord Fotball,0,1,0,0,1
+2022,8,25.05.2022,Viking,HamKam,1,1,0,1,0
+2022,8,25.05.2022,Lillestrøm,Vålerenga,2,0,1,0,0
+2022,8,26.05.2022,Rosenborg,Haugesund,3,3,0,1,0
+2022,8,26.05.2022,Sarpsborg 08,Molde,1,2,0,0,1
+2022,8,03.08.2022,Kristiansund,Tromsø,1,1,0,1,0
+2022,9,28.05.2022,HamKam,Odd,1,2,0,0,1
+2022,9,28.05.2022,Strømsgodset,Viking,3,2,1,0,0
+2022,9,29.05.2022,Haugesund,Aalesund,2,2,0,1,0
+2022,9,29.05.2022,Jerv,Sarpsborg 08,0,5,0,0,1
+2022,9,29.05.2022,Molde,Bodø/Glimt,3,1,1,0,0
+2022,9,29.05.2022,Tromsø,Lillestrøm,2,2,0,1,0
+2022,9,29.05.2022,Vålerenga,Rosenborg,0,4,0,0,1
+2022,9,27.07.2022,Sandefjord Fotball,Kristiansund,2,0,1,0,0
+2022,10,18.06.2022,Sarpsborg 08,Strømsgodset,5,1,1,0,0
+2022,10,18.06.2022,Kristiansund,Bodø/Glimt,0,2,0,0,1
+2022,10,19.06.2022,Jerv,HamKam,1,2,0,0,1
+2022,10,19.06.2022,Lillestrøm,Rosenborg,3,1,1,0,0
+2022,10,19.06.2022,Odd,Molde,1,2,0,0,1
+2022,10,19.06.2022,Tromsø,Haugesund,1,1,0,1,0
+2022,10,19.06.2022,Viking,Sandefjord Fotball,1,2,0,0,1
+2022,10,19.06.2022,Aalesund,Vålerenga,2,2,0,1,0
+2022,11,25.06.2022,Haugesund,Viking,4,2,1,0,0
+2022,11,25.06.2022,Rosenborg,Kristiansund,3,1,1,0,0
+2022,11,26.06.2022,Bodø/Glimt,Aalesund,2,0,1,0,0
+2022,11,26.06.2022,HamKam,Sarpsborg 08,3,2,1,0,0
+2022,11,26.06.2022,Strømsgodset,Lillestrøm,3,0,1,0,0
+2022,11,26.06.2022,Sandefjord Fotball,Tromsø,2,2,0,1,0
+2022,11,26.06.2022,Vålerenga,Odd,0,1,0,0,1
+2022,11,06.07.2022,Molde,Jerv,1,1,0,1,0
+2022,12,12.05.2022,Tromsø,Vålerenga,1,0,1,0,0
+2022,12,02.07.2022,Jerv,Haugesund,1,0,1,0,0
+2022,12,02.07.2022,Odd,Bodø/Glimt,3,2,1,0,0
+2022,12,03.07.2022,Aalesund,Strømsgodset,1,0,1,0,0
+2022,12,03.07.2022,HamKam,Molde,0,0,0,1,0
+2022,12,03.07.2022,Kristiansund,Lillestrøm,1,3,0,0,1
+2022,12,03.07.2022,Sarpsborg 08,Sandefjord Fotball,4,3,1,0,0
+2022,12,03.07.2022,Viking,Rosenborg,1,1,0,1,0
+2022,13,09.07.2022,Bodø/Glimt,Sarpsborg 08,4,1,1,0,0
+2022,13,09.07.2022,Strømsgodset,Odd,0,0,0,1,0
+2022,13,10.07.2022,Lillestrøm,Viking,0,1,0,0,1
+2022,13,10.07.2022,Molde,Tromsø,5,1,1,0,0
+2022,13,10.07.2022,Rosenborg,Jerv,3,2,1,0,0
+2022,13,10.07.2022,Vålerenga,Kristiansund,3,0,1,0,0
+2022,13,10.07.2022,Haugesund,HamKam,1,1,0,1,0
+2022,13,12.07.2022,Sandefjord Fotball,Aalesund,2,2,0,1,0
+2022,14,16.07.2022,Jerv,Sandefjord Fotball,1,2,0,0,1
+2022,14,16.07.2022,HamKam,Bodø/Glimt,0,2,0,0,1
+2022,14,17.07.2022,Molde,Haugesund,1,0,1,0,0
+2022,14,17.07.2022,Sarpsborg 08,Vålerenga,0,1,0,0,1
+2022,14,17.07.2022,Odd,Lillestrøm,1,2,0,0,1
+2022,14,17.07.2022,Viking,Kristiansund,2,1,1,0,0
+2022,14,17.07.2022,Aalesund,Rosenborg,0,0,0,1,0
+2022,14,31.08.2022,Tromsø,Strømsgodset,1,0,1,0,0
+2022,15,28.04.2022,Lillestrøm,Aalesund,2,0,1,0,0
+2022,15,23.07.2022,Bodø/Glimt,Jerv,5,0,1,0,0
+2022,15,23.07.2022,Rosenborg,Tromsø,3,0,1,0,0
+2022,15,24.07.2022,Haugesund,Sarpsborg 08,3,1,1,0,0
+2022,15,24.07.2022,Kristiansund,Odd,2,2,0,1,0
+2022,15,24.07.2022,Sandefjord Fotball,Molde,2,3,0,0,1
+2022,15,24.07.2022,Vålerenga,Viking,4,2,1,0,0
+2022,15,24.07.2022,Strømsgodset,HamKam,1,1,0,1,0
+2022,16,30.04.2022,Viking,Haugesund,5,1,1,0,0
+2022,16,30.07.2022,Aalesund,Bodø/Glimt,1,2,0,0,1
+2022,16,30.07.2022,HamKam,Kristiansund,0,1,0,0,1
+2022,16,30.07.2022,Odd,Rosenborg,2,3,0,0,1
+2022,16,30.07.2022,Tromsø,Sandefjord Fotball,3,0,1,0,0
+2022,16,30.07.2022,Jerv,Vålerenga,2,5,0,0,1
+2022,16,31.07.2022,Molde,Strømsgodset,3,0,1,0,0
+2022,16,31.07.2022,Sarpsborg 08,Lillestrøm,0,2,0,0,1
+2022,17,06.08.2022,Bodø/Glimt,Odd,7,0,1,0,0
+2022,17,06.08.2022,Rosenborg,HamKam,2,1,1,0,0
+2022,17,07.08.2022,Haugesund,Jerv,3,1,1,0,0
+2022,17,07.08.2022,Kristiansund,Molde,2,3,0,0,1
+2022,17,07.08.2022,Lillestrøm,Tromsø,1,1,0,1,0
+2022,17,07.08.2022,Strømsgodset,Sarpsborg 08,3,1,1,0,0
+2022,17,07.08.2022,Sandefjord Fotball,Viking,2,2,0,1,0
+2022,17,07.08.2022,Vålerenga,Aalesund,4,0,1,0,0
+2022,18,11.05.2022,Molde,Odd,3,0,1,0,0
+2022,18,12.05.2022,Viking,Strømsgodset,0,0,0,1,0
+2022,18,12.08.2022,Sandefjord Fotball,Rosenborg,2,5,0,0,1
+2022,18,12.08.2022,Sarpsborg 08,Bodø/Glimt,1,4,0,0,1
+2022,18,13.08.2022,Aalesund,Haugesund,1,2,0,0,1
+2022,18,14.08.2022,Jerv,Lillestrøm,1,0,1,0,0
+2022,18,14.08.2022,Tromsø,Kristiansund,2,1,1,0,0
+2022,18,14.08.2022,HamKam,Vålerenga,1,1,0,1,0
+2022,19,20.08.2022,Bodø/Glimt,HamKam,2,2,0,1,0
+2022,19,20.08.2022,Odd,Sarpsborg 08,1,0,1,0,0
+2022,19,21.08.2022,Haugesund,Molde,0,1,0,0,1
+2022,19,21.08.2022,Lillestrøm,Sandefjord Fotball,3,0,1,0,0
+2022,19,21.08.2022,Strømsgodset,Jerv,6,0,1,0,0
+2022,19,21.08.2022,Vålerenga,Tromsø,1,0,1,0,0
+2022,19,21.08.2022,Rosenborg,Aalesund,2,1,1,0,0
+2022,19,31.08.2022,Kristiansund,Viking,2,1,1,0,0
+2022,20,27.08.2022,Jerv,Bodø/Glimt,0,2,0,0,1
+2022,20,27.08.2022,Sandefjord Fotball,Strømsgodset,2,2,0,1,0
+2022,20,28.08.2022,Aalesund,Odd,1,1,0,1,0
+2022,20,28.08.2022,HamKam,Haugesund,1,0,1,0,0
+2022,20,28.08.2022,Lillestrøm,Kristiansund,1,1,0,1,0
+2022,20,28.08.2022,Molde,Sarpsborg 08,4,1,1,0,0
+2022,20,28.08.2022,Viking,Vålerenga,1,2,0,0,1
+2022,20,28.08.2022,Tromsø,Rosenborg,4,3,1,0,0
+2022,21,03.09.2022,Bodø/Glimt,Molde,1,4,0,0,1
+2022,21,04.09.2022,Haugesund,Tromsø,2,1,1,0,0
+2022,21,04.09.2022,Kristiansund,Sandefjord Fotball,3,1,1,0,0
+2022,21,04.09.2022,Strømsgodset,Aalesund,1,2,0,0,1
+2022,21,04.09.2022,Rosenborg,Viking,4,1,1,0,0
+2022,21,04.09.2022,Sarpsborg 08,HamKam,2,1,1,0,0
+2022,21,04.09.2022,Odd,Jerv,2,1,1,0,0
+2022,21,04.09.2022,Vålerenga,Lillestrøm,3,1,1,0,0
+2022,22,10.09.2022,Sandefjord Fotball,Odd,1,3,0,0,1
+2022,22,10.09.2022,Lillestrøm,Strømsgodset,2,1,1,0,0
+2022,22,11.09.2022,Aalesund,Sarpsborg 08,1,3,0,0,1
+2022,22,11.09.2022,HamKam,Viking,1,2,0,0,1
+2022,22,11.09.2022,Jerv,Molde,2,4,0,0,1
+2022,22,11.09.2022,Kristiansund,Vålerenga,3,2,1,0,0
+2022,22,11.09.2022,Tromsø,Bodø/Glimt,3,2,1,0,0
+2022,22,11.09.2022,Haugesund,Rosenborg,2,1,1,0,0
+2022,23,17.09.2022,Odd,HamKam,2,0,1,0,0
+2022,23,18.09.2022,Bodø/Glimt,Haugesund,1,1,0,1,0
+2022,23,18.09.2022,Strømsgodset,Kristiansund,4,1,1,0,0
+2022,23,18.09.2022,Rosenborg,Lillestrøm,3,1,1,0,0
+2022,23,18.09.2022,Sarpsborg 08,Jerv,4,3,1,0,0
+2022,23,18.09.2022,Viking,Tromsø,2,2,0,1,0
+2022,23,18.09.2022,Vålerenga,Sandefjord Fotball,4,0,1,0,0
+2022,23,18.09.2022,Molde,Aalesund,3,0,1,0,0
+2022,24,01.10.2022,Tromsø,Molde,0,1,0,0,1
+2022,24,01.10.2022,Lillestrøm,Bodø/Glimt,1,4,0,0,1
+2022,24,01.10.2022,Vålerenga,Strømsgodset,4,0,1,0,0
+2022,24,02.10.2022,Aalesund,Viking,2,1,1,0,0
+2022,24,02.10.2022,HamKam,Jerv,2,1,1,0,0
+2022,24,02.10.2022,Haugesund,Odd,2,2,0,1,0
+2022,24,02.10.2022,Sandefjord Fotball,Sarpsborg 08,1,1,0,1,0
+2022,24,02.10.2022,Kristiansund,Rosenborg,4,4,0,1,0
+2022,25,08.10.2022,Sarpsborg 08,Haugesund,4,0,1,0,0
+2022,25,09.10.2022,Bodø/Glimt,Sandefjord Fotball,4,1,1,0,0
+2022,25,09.10.2022,Molde,HamKam,5,0,1,0,0
+2022,25,09.10.2022,Strømsgodset,Tromsø,1,2,0,0,1
+2022,25,09.10.2022,Odd,Kristiansund,1,1,0,1,0
+2022,25,09.10.2022,Viking,Lillestrøm,0,3,0,0,1
+2022,25,09.10.2022,Rosenborg,Vålerenga,3,0,1,0,0
+2022,25,19.10.2022,Jerv,Aalesund,0,1,0,0,1
+2022,26,15.10.2022,Tromsø,Odd,3,2,1,0,0
+2022,26,15.10.2022,Rosenborg,Strømsgodset,3,0,1,0,0
+2022,26,16.10.2022,Aalesund,HamKam,0,0,0,1,0
+2022,26,16.10.2022,Kristiansund,Haugesund,0,1,0,0,1
+2022,26,16.10.2022,Sandefjord Fotball,Jerv,1,2,0,0,1
+2022,26,16.10.2022,Viking,Sarpsborg 08,0,1,0,0,1
+2022,26,16.10.2022,Vålerenga,Bodø/Glimt,0,6,0,0,1
+2022,26,16.10.2022,Lillestrøm,Molde,0,1,0,0,1
+2022,27,22.10.2022,HamKam,Strømsgodset,1,1,0,1,0
+2022,27,22.10.2022,Odd,Vålerenga,2,1,1,0,0
+2022,27,23.10.2022,Aalesund,Sandefjord Fotball,1,0,1,0,0
+2022,27,23.10.2022,Bodø/Glimt,Kristiansund,5,0,1,0,0
+2022,27,23.10.2022,Haugesund,Lillestrøm,0,1,0,0,1
+2022,27,23.10.2022,Jerv,Viking,2,2,0,1,0
+2022,27,23.10.2022,Sarpsborg 08,Tromsø,1,1,0,1,0
+2022,27,23.10.2022,Molde,Rosenborg,2,1,1,0,0
+2022,28,29.10.2022,Strømsgodset,Haugesund,1,2,0,0,1
+2022,28,29.10.2022,Vålerenga,Sarpsborg 08,3,3,0,1,0
+2022,28,30.10.2022,Kristiansund,Aalesund,4,0,1,0,0
+2022,28,30.10.2022,Lillestrøm,Odd,0,2,0,0,1
+2022,28,30.10.2022,Rosenborg,Bodø/Glimt,3,2,1,0,0
+2022,28,30.10.2022,Sandefjord Fotball,HamKam,1,2,0,0,1
+2022,28,30.10.2022,Tromsø,Jerv,2,2,0,1,0
+2022,28,30.10.2022,Viking,Molde,1,4,0,0,1
+2022,29,06.11.2022,Aalesund,Lillestrøm,2,1,1,0,0
+2022,29,06.11.2022,Bodø/Glimt,Viking,5,4,1,0,0
+2022,29,06.11.2022,HamKam,Tromsø,1,2,0,0,1
+2022,29,06.11.2022,Haugesund,Vålerenga,1,1,0,1,0
+2022,29,06.11.2022,Jerv,Rosenborg,2,4,0,0,1
+2022,29,06.11.2022,Molde,Sandefjord Fotball,2,1,1,0,0
+2022,29,06.11.2022,Sarpsborg 08,Kristiansund,2,2,0,1,0
+2022,29,06.11.2022,Odd,Strømsgodset,5,1,1,0,0
+2022,30,13.11.2022,Kristiansund,Jerv,1,1,0,1,0
+2022,30,13.11.2022,Lillestrøm,HamKam,3,1,1,0,0
+2022,30,13.11.2022,Strømsgodset,Bodø/Glimt,2,4,0,0,1
+2022,30,13.11.2022,Rosenborg,Sarpsborg 08,2,3,0,0,1
+2022,30,13.11.2022,Sandefjord Fotball,Haugesund,2,2,0,1,0
+2022,30,13.11.2022,Tromsø,Aalesund,2,2,0,1,0
+2022,30,13.11.2022,Viking,Odd,1,1,0,1,0
+2022,30,13.11.2022,Vålerenga,Molde,1,2,0,0,1
+2023,1,10.04.2023,Rosenborg,Viking,1,0,1,0,0
+2023,1,10.04.2023,Aalesund,Vålerenga,0,1,0,0,1
+2023,1,10.04.2023,HamKam,Sandefjord Fotball,2,0,1,0,0
+2023,1,10.04.2023,Sarpsborg 08,Bodø/Glimt,0,2,0,0,1
+2023,1,10.04.2023,Stabæk,Odd,0,0,0,1,0
+2023,1,10.04.2023,Tromsø,Molde,1,0,1,0,0
+2023,1,10.04.2023,Brann,Haugesund,3,0,1,0,0
+2023,1,19.04.2023,Lillestrøm,Strømsgodset,4,3,1,0,0
+2023,2,15.04.2023,Viking,Lillestrøm,2,0,1,0,0
+2023,2,16.04.2023,Bodø/Glimt,Stabæk,4,0,1,0,0
+2023,2,16.04.2023,Haugesund,HamKam,3,2,1,0,0
+2023,2,16.04.2023,Molde,Rosenborg,1,1,0,1,0
+2023,2,16.04.2023,Odd,Brann,2,0,1,0,0
+2023,2,16.04.2023,Sandefjord Fotball,Tromsø,0,0,0,1,0
+2023,2,16.04.2023,Strømsgodset,Aalesund,1,0,1,0,0
+2023,2,16.04.2023,Vålerenga,Sarpsborg 08,0,2,0,0,1
+2023,3,22.04.2023,Brann,Vålerenga,3,1,1,0,0
+2023,3,23.04.2023,Aalesund,Bodø/Glimt,0,3,0,0,1
+2023,3,23.04.2023,HamKam,Strømsgodset,2,0,1,0,0
+2023,3,23.04.2023,Rosenborg,Sandefjord Fotball,1,1,0,1,0
+2023,3,23.04.2023,Sarpsborg 08,Odd,0,0,0,1,0
+2023,3,23.04.2023,Stabæk,Haugesund,3,0,1,0,0
+2023,3,23.04.2023,Tromsø,Viking,1,1,0,1,0
+2023,3,23.04.2023,Lillestrøm,Molde,2,1,1,0,0
+2023,4,29.04.2023,Bodø/Glimt,Brann,2,2,0,1,0
+2023,4,30.04.2023,Haugesund,Sarpsborg 08,0,0,0,1,0
+2023,4,30.04.2023,Molde,Stabæk,2,3,0,0,1
+2023,4,30.04.2023,Sandefjord Fotball,Aalesund,4,0,1,0,0
+2023,4,30.04.2023,Strømsgodset,Tromsø,0,1,0,0,1
+2023,4,30.04.2023,Viking,HamKam,7,3,1,0,0
+2023,4,30.04.2023,Odd,Rosenborg,0,0,0,1,0
+2023,4,01.05.2023,Vålerenga,Lillestrøm,3,4,0,0,1
+2023,5,06.05.2023,Rosenborg,Vålerenga,1,3,0,0,1
+2023,5,07.05.2023,Aalesund,Haugesund,0,0,0,1,0
+2023,5,07.05.2023,HamKam,Molde,0,4,0,0,1
+2023,5,07.05.2023,Stabæk,Sarpsborg 08,1,1,0,1,0
+2023,5,07.05.2023,Tromsø,Odd,0,1,0,0,1
+2023,5,07.05.2023,Viking,Strømsgodset,1,1,0,1,0
+2023,5,07.05.2023,Lillestrøm,Bodø/Glimt,1,2,0,0,1
+2023,5,08.05.2023,Brann,Sandefjord Fotball,0,0,0,1,0
+2023,6,12.05.2023,Odd,Lillestrøm,0,1,0,0,1
+2023,6,13.05.2023,Bodø/Glimt,Rosenborg,3,2,1,0,0
+2023,6,13.05.2023,HamKam,Tromsø,1,2,0,0,1
+2023,6,13.05.2023,Molde,Strømsgodset,3,2,1,0,0
+2023,6,13.05.2023,Sandefjord Fotball,Viking,1,2,0,0,1
+2023,6,13.05.2023,Sarpsborg 08,Brann,2,1,1,0,0
+2023,6,13.05.2023,Stabæk,Aalesund,1,0,1,0,0
+2023,6,13.05.2023,Haugesund,Vålerenga,1,1,0,1,0
+2023,7,16.05.2023,Aalesund,Molde,3,1,1,0,0
+2023,7,16.05.2023,Brann,Stabæk,4,1,1,0,0
+2023,7,16.05.2023,Lillestrøm,Sarpsborg 08,1,2,0,0,1
+2023,7,16.05.2023,Rosenborg,Haugesund,1,0,1,0,0
+2023,7,16.05.2023,Strømsgodset,Sandefjord Fotball,1,0,1,0,0
+2023,7,16.05.2023,Tromsø,Bodø/Glimt,2,3,0,0,1
+2023,7,16.05.2023,Viking,Odd,3,2,1,0,0
+2023,7,16.05.2023,Vålerenga,HamKam,3,0,1,0,0
+2023,8,29.05.2023,Bodø/Glimt,Viking,5,1,1,0,0
+2023,8,29.05.2023,Brann,Rosenborg,3,1,1,0,0
+2023,8,29.05.2023,Haugesund,Tromsø,1,2,0,0,1
+2023,8,29.05.2023,Molde,Sandefjord Fotball,5,0,1,0,0
+2023,8,29.05.2023,Odd,Strømsgodset,1,1,0,1,0
+2023,8,29.05.2023,Sarpsborg 08,Aalesund,3,1,1,0,0
+2023,8,29.05.2023,Stabæk,Vålerenga,2,1,1,0,0
+2023,8,29.05.2023,HamKam,Lillestrøm,0,0,0,1,0
+2023,9,04.06.2023,Aalesund,Brann,1,3,0,0,1
+2023,9,04.06.2023,Lillestrøm,Stabæk,3,1,1,0,0
+2023,9,04.06.2023,Rosenborg,HamKam,4,0,1,0,0
+2023,9,04.06.2023,Sandefjord Fotball,Odd,4,1,1,0,0
+2023,9,04.06.2023,Strømsgodset,Haugesund,1,2,0,0,1
+2023,9,04.06.2023,Tromsø,Sarpsborg 08,2,1,1,0,0
+2023,9,04.06.2023,Vålerenga,Bodø/Glimt,1,3,0,0,1
+2023,9,04.06.2023,Viking,Molde,3,4,0,0,1
+2023,10,11.06.2023,Aalesund,Tromsø,2,3,0,0,1
+2023,10,11.06.2023,Bodø/Glimt,HamKam,3,0,1,0,0
+2023,10,11.06.2023,Haugesund,Sandefjord Fotball,3,2,1,0,0
+2023,10,11.06.2023,Odd,Molde,1,0,1,0,0
+2023,10,11.06.2023,Sarpsborg 08,Viking,1,3,0,0,1
+2023,10,11.06.2023,Stabæk,Rosenborg,2,2,0,1,0
+2023,10,11.06.2023,Vålerenga,Strømsgodset,0,1,0,0,1
+2023,10,11.06.2023,Brann,Lillestrøm,2,2,0,1,0
+2023,11,24.06.2023,Viking,Brann,3,1,1,0,0
+2023,11,25.06.2023,HamKam,Odd,0,1,0,0,1
+2023,11,25.06.2023,Molde,Haugesund,1,0,1,0,0
+2023,11,25.06.2023,Rosenborg,Sarpsborg 08,0,3,0,0,1
+2023,11,25.06.2023,Tromsø,Stabæk,2,1,1,0,0
+2023,11,25.06.2023,Strømsgodset,Bodø/Glimt,2,0,1,0,0
+2023,11,19.07.2023,Lillestrøm,Aalesund,5,1,1,0,0
+2023,11,01.10.2023,Sandefjord Fotball,Vålerenga,1,2,0,0,1
+2023,12,01.07.2023,Vålerenga,Viking,1,2,0,0,1
+2023,12,02.07.2023,Aalesund,Rosenborg,1,0,1,0,0
+2023,12,02.07.2023,Brann,HamKam,2,1,1,0,0
+2023,12,02.07.2023,Haugesund,Odd,2,1,1,0,0
+2023,12,02.07.2023,Lillestrøm,Tromsø,0,1,0,0,1
+2023,12,02.07.2023,Sarpsborg 08,Sandefjord Fotball,6,1,1,0,0
+2023,12,02.07.2023,Bodø/Glimt,Molde,2,2,0,1,0
+2023,12,03.07.2023,Stabæk,Strømsgodset,0,1,0,0,1
+2023,13,07.07.2023,HamKam,Aalesund,2,1,1,0,0
+2023,13,08.07.2023,Viking,Haugesund,2,0,1,0,0
+2023,13,09.07.2023,Odd,Bodø/Glimt,0,2,0,0,1
+2023,13,09.07.2023,Rosenborg,Lillestrøm,1,2,0,0,1
+2023,13,09.07.2023,Sandefjord Fotball,Stabæk,0,0,0,1,0
+2023,13,09.07.2023,Strømsgodset,Sarpsborg 08,5,2,1,0,0
+2023,13,09.07.2023,Tromsø,Vålerenga,0,0,0,1,0
+2023,13,09.07.2023,Molde,Brann,2,0,1,0,0
+2023,14,15.07.2023,Vålerenga,Molde,0,4,0,0,1
+2023,14,16.07.2023,Aalesund,Odd,0,3,0,0,1
+2023,14,16.07.2023,Bodø/Glimt,Haugesund,2,1,1,0,0
+2023,14,16.07.2023,Lillestrøm,Sandefjord Fotball,4,2,1,0,0
+2023,14,16.07.2023,Rosenborg,Tromsø,2,1,1,0,0
+2023,14,16.07.2023,Sarpsborg 08,HamKam,2,3,0,0,1
+2023,14,16.07.2023,Stabæk,Viking,0,1,0,0,1
+2023,14,16.07.2023,Brann,Strømsgodset,1,0,1,0,0
+2023,15,22.07.2023,Molde,Sarpsborg 08,5,1,1,0,0
+2023,15,23.07.2023,HamKam,Stabæk,3,2,1,0,0
+2023,15,23.07.2023,Haugesund,Lillestrøm,1,0,1,0,0
+2023,15,23.07.2023,Odd,Vålerenga,2,1,1,0,0
+2023,15,23.07.2023,Sandefjord Fotball,Bodø/Glimt,2,5,0,0,1
+2023,15,23.07.2023,Tromsø,Brann,3,1,1,0,0
+2023,15,23.07.2023,Strømsgodset,Rosenborg,0,1,0,0,1
+2023,15,24.07.2023,Viking,Aalesund,3,1,1,0,0
+2023,16,29.07.2023,Vålerenga,Sandefjord Fotball,2,3,0,0,1
+2023,16,29.07.2023,Stabæk,Molde,0,1,0,0,1
+2023,16,30.07.2023,Aalesund,Strømsgodset,1,0,1,0,0
+2023,16,30.07.2023,Brann,Viking,0,2,0,0,1
+2023,16,30.07.2023,Lillestrøm,HamKam,3,1,1,0,0
+2023,16,30.07.2023,Rosenborg,Odd,3,2,1,0,0
+2023,16,30.07.2023,Sarpsborg 08,Haugesund,2,1,1,0,0
+2023,16,30.07.2023,Bodø/Glimt,Tromsø,0,2,0,0,1
+2023,17,03.05.2023,Molde,Aalesund,3,0,1,0,0
+2023,17,05.08.2023,Strømsgodset,Vålerenga,1,3,0,0,1
+2023,17,06.08.2023,HamKam,Brann,0,2,0,0,1
+2023,17,06.08.2023,Haugesund,Rosenborg,1,2,0,0,1
+2023,17,06.08.2023,Odd,Stabæk,4,0,1,0,0
+2023,17,06.08.2023,Sandefjord Fotball,Sarpsborg 08,5,1,1,0,0
+2023,17,06.08.2023,Tromsø,Lillestrøm,3,1,1,0,0
+2023,17,06.08.2023,Viking,Bodø/Glimt,3,2,1,0,0
+2023,18,03.05.2023,Bodø/Glimt,Odd,2,0,1,0,0
+2023,18,03.05.2023,Rosenborg,Brann,0,2,0,0,1
+2023,18,12.08.2023,Sandefjord Fotball,Molde,2,2,0,1,0
+2023,18,12.08.2023,Sarpsborg 08,Strømsgodset,1,2,0,0,1
+2023,18,13.08.2023,Aalesund,HamKam,0,2,0,0,1
+2023,18,13.08.2023,Lillestrøm,Viking,1,3,0,0,1
+2023,18,13.08.2023,Vålerenga,Haugesund,1,1,0,1,0
+2023,18,30.09.2023,Stabæk,Tromsø,0,1,0,0,1
+2023,19,19.08.2023,Molde,Vålerenga,0,0,0,1,0
+2023,19,19.08.2023,Odd,Sarpsborg 08,0,3,0,0,1
+2023,19,20.08.2023,Brann,Aalesund,5,1,1,0,0
+2023,19,20.08.2023,HamKam,Rosenborg,3,0,1,0,0
+2023,19,20.08.2023,Haugesund,Bodø/Glimt,1,3,0,0,1
+2023,19,20.08.2023,Tromsø,Sandefjord Fotball,1,0,1,0,0
+2023,19,20.08.2023,Viking,Stabæk,1,0,1,0,0
+2023,19,20.08.2023,Strømsgodset,Lillestrøm,1,2,0,0,1
+2023,20,26.08.2023,Sarpsborg 08,Tromsø,4,0,1,0,0
+2023,20,27.08.2023,Sandefjord Fotball,Haugesund,0,0,0,1,0
+2023,20,27.08.2023,Vålerenga,Odd,2,2,0,1,0
+2023,20,27.08.2023,Rosenborg,Aalesund,4,0,1,0,0
+2023,20,01.10.2023,Lillestrøm,Brann,0,2,0,0,1
+2023,20,01.10.2023,Molde,Viking,4,0,1,0,0
+2023,20,01.10.2023,Bodø/Glimt,Strømsgodset,2,0,1,0,0
+2023,20,04.10.2023,Stabæk,HamKam,5,2,1,0,0
+2023,21,02.09.2023,Viking,Vålerenga,1,1,0,1,0
+2023,21,03.09.2023,Aalesund,Lillestrøm,1,1,0,1,0
+2023,21,03.09.2023,Brann,Sarpsborg 08,1,0,1,0,0
+2023,21,03.09.2023,Haugesund,Molde,1,2,0,0,1
+2023,21,03.09.2023,Odd,Sandefjord Fotball,3,2,1,0,0
+2023,21,03.09.2023,Strømsgodset,Stabæk,2,1,1,0,0
+2023,21,03.09.2023,Tromsø,Rosenborg,3,1,1,0,0
+2023,21,03.09.2023,HamKam,Bodø/Glimt,4,4,0,1,0
+2023,22,16.09.2023,Haugesund,Viking,0,2,0,0,1
+2023,22,16.09.2023,Molde,Odd,4,1,1,0,0
+2023,22,16.09.2023,Sandefjord Fotball,Strømsgodset,2,0,1,0,0
+2023,22,17.09.2023,Rosenborg,Bodø/Glimt,1,1,0,1,0
+2023,22,17.09.2023,Sarpsborg 08,Lillestrøm,3,1,1,0,0
+2023,22,17.09.2023,Stabæk,Brann,0,1,0,0,1
+2023,22,17.09.2023,Tromsø,HamKam,2,1,1,0,0
+2023,22,17.09.2023,Vålerenga,Aalesund,3,1,1,0,0
+2023,23,23.09.2023,Aalesund,Stabæk,1,1,0,1,0
+2023,23,24.09.2023,Bodø/Glimt,Vålerenga,4,2,1,0,0
+2023,23,24.09.2023,HamKam,Sarpsborg 08,1,1,0,1,0
+2023,23,24.09.2023,Lillestrøm,Rosenborg,3,0,1,0,0
+2023,23,24.09.2023,Odd,Haugesund,1,1,0,1,0
+2023,23,24.09.2023,Strømsgodset,Molde,1,1,0,1,0
+2023,23,24.09.2023,Viking,Sandefjord Fotball,4,3,1,0,0
+2023,23,24.09.2023,Brann,Tromsø,2,1,1,0,0
+2023,24,07.10.2023,Odd,Viking,1,1,0,1,0
+2023,24,08.10.2023,Haugesund,Strømsgodset,1,0,1,0,0
+2023,24,08.10.2023,Molde,Bodø/Glimt,1,3,0,0,1
+2023,24,08.10.2023,Sandefjord Fotball,HamKam,0,1,0,0,1
+2023,24,08.10.2023,Sarpsborg 08,Rosenborg,5,2,1,0,0
+2023,24,08.10.2023,Stabæk,Lillestrøm,1,0,1,0,0
+2023,24,08.10.2023,Tromsø,Aalesund,1,2,0,0,1
+2023,24,08.10.2023,Vålerenga,Brann,1,2,0,0,1
+2023,25,21.10.2023,Bodø/Glimt,Sandefjord Fotball,4,3,1,0,0
+2023,25,21.10.2023,Brann,Molde,3,2,1,0,0
+2023,25,22.10.2023,Lillestrøm,Vålerenga,2,0,1,0,0
+2023,25,22.10.2023,Aalesund,Sarpsborg 08,3,2,1,0,0
+2023,25,22.10.2023,HamKam,Haugesund,0,3,0,0,1
+2023,25,22.10.2023,Rosenborg,Stabæk,1,1,0,1,0
+2023,25,22.10.2023,Strømsgodset,Odd,3,1,1,0,0
+2023,25,22.10.2023,Viking,Tromsø,3,4,0,0,1
+2023,26,28.10.2023,Haugesund,Aalesund,6,1,1,0,0
+2023,26,29.10.2023,Odd,HamKam,2,0,1,0,0
+2023,26,29.10.2023,Sandefjord Fotball,Brann,1,1,0,1,0
+2023,26,29.10.2023,Sarpsborg 08,Stabæk,2,2,0,1,0
+2023,26,29.10.2023,Strømsgodset,Viking,1,0,1,0,0
+2023,26,29.10.2023,Vålerenga,Rosenborg,1,3,0,0,1
+2023,26,30.10.2023,Bodø/Glimt,Lillestrøm,3,1,1,0,0
+2023,26,30.10.2023,Molde,Tromsø,1,4,0,0,1
+2023,27,04.11.2023,HamKam,Viking,3,0,1,0,0
+2023,27,05.11.2023,Brann,Odd,2,1,1,0,0
+2023,27,05.11.2023,Lillestrøm,Haugesund,1,0,1,0,0
+2023,27,05.11.2023,Rosenborg,Molde,3,1,1,0,0
+2023,27,05.11.2023,Sarpsborg 08,Vålerenga,3,2,1,0,0
+2023,27,05.11.2023,Stabæk,Bodø/Glimt,0,4,0,0,1
+2023,27,05.11.2023,Tromsø,Strømsgodset,0,1,0,0,1
+2023,27,06.11.2023,Aalesund,Sandefjord Fotball,0,3,0,0,1
+2023,28,11.11.2023,Haugesund,Brann,0,2,0,0,1
+2023,28,12.11.2023,Bodø/Glimt,Aalesund,1,0,1,0,0
+2023,28,12.11.2023,Odd,Tromsø,1,2,0,0,1
+2023,28,12.11.2023,Sandefjord Fotball,Rosenborg,3,2,1,0,0
+2023,28,12.11.2023,Strømsgodset,HamKam,0,1,0,0,1
+2023,28,12.11.2023,Viking,Sarpsborg 08,2,1,1,0,0
+2023,28,12.11.2023,Vålerenga,Stabæk,0,0,0,1,0
+2023,28,12.11.2023,Molde,Lillestrøm,4,0,1,0,0
+2023,29,26.11.2023,Aalesund,Viking,0,4,0,0,1
+2023,29,26.11.2023,Brann,Bodø/Glimt,4,2,1,0,0
+2023,29,26.11.2023,HamKam,Vålerenga,0,2,0,0,1
+2023,29,26.11.2023,Lillestrøm,Odd,4,4,0,1,0
+2023,29,26.11.2023,Rosenborg,Strømsgodset,1,3,0,0,1
+2023,29,26.11.2023,Sarpsborg 08,Molde,1,3,0,0,1
+2023,29,26.11.2023,Stabæk,Sandefjord Fotball,2,1,1,0,0
+2023,29,26.11.2023,Tromsø,Haugesund,2,1,1,0,0
+2023,30,03.12.2023,Bodø/Glimt,Sarpsborg 08,2,0,1,0,0
+2023,30,03.12.2023,Haugesund,Stabæk,3,0,1,0,0
+2023,30,03.12.2023,Molde,HamKam,1,1,0,1,0
+2023,30,03.12.2023,Odd,Aalesund,4,1,1,0,0
+2023,30,03.12.2023,Sandefjord Fotball,Lillestrøm,1,0,1,0,0
+2023,30,03.12.2023,Strømsgodset,Brann,3,0,1,0,0
+2023,30,03.12.2023,Viking,Rosenborg,1,5,0,0,1
+2023,30,03.12.2023,Vålerenga,Tromsø,1,1,0,1,0
+2021,1,09.05.2021,Bodø/Glimt,Tromsø,3,0,1,0,0
+2021,1,09.05.2021,Molde,Kristiansund,2,0,1,0,0
+2021,1,09.05.2021,Viking,Brann,3,1,1,0,0
+2021,1,09.05.2021,Vålerenga,Rosenborg,1,1,0,1,0
+2021,1,21.07.2021,Strømsgodset,Odd,3,0,1,0,0
+2021,1,21.07.2021,Sandefjord Fotball,Haugesund,1,1,0,1,0
+2021,1,21.07.2021,Sarpsborg 08,Mjøndalen,1,1,0,1,0
+2021,1,21.07.2021,Stabæk,Lillestrøm,2,3,0,0,1
+2021,2,12.05.2021,Kristiansund,Bodø/Glimt,0,2,0,0,1
+2021,2,12.05.2021,Brann,Vålerenga,0,3,0,0,1
+2021,2,13.05.2021,Tromsø,Molde,3,3,0,1,0
+2021,2,13.05.2021,Rosenborg,Viking,5,0,1,0,0
+2021,2,28.07.2021,Haugesund,Strømsgodset,2,1,1,0,0
+2021,2,28.07.2021,Lillestrøm,Sarpsborg 08,2,0,1,0,0
+2021,2,28.07.2021,Mjøndalen,Stabæk,1,2,0,0,1
+2021,2,28.07.2021,Odd,Sandefjord Fotball,2,3,0,0,1
+2021,3,16.05.2021,Vålerenga,Kristiansund,1,2,0,0,1
+2021,3,16.05.2021,Sarpsborg 08,Haugesund,0,0,0,1,0
+2021,3,16.05.2021,Viking,Tromsø,0,1,0,0,1
+2021,3,16.05.2021,Bodø/Glimt,Rosenborg,2,2,0,1,0
+2021,3,16.05.2021,Sandefjord Fotball,Mjøndalen,0,3,0,0,1
+2021,3,16.05.2021,Strømsgodset,Lillestrøm,3,1,1,0,0
+2021,3,16.05.2021,Molde,Brann,4,0,1,0,0
+2021,3,19.05.2021,Stabæk,Odd,2,2,0,1,0
+2021,4,24.05.2021,Odd,Sarpsborg 08,1,1,0,1,0
+2021,4,24.05.2021,Brann,Bodø/Glimt,1,2,0,0,1
+2021,4,24.05.2021,Haugesund,Stabæk,0,0,0,1,0
+2021,4,24.05.2021,Kristiansund,Strømsgodset,1,0,1,0,0
+2021,4,24.05.2021,Lillestrøm,Viking,1,3,0,0,1
+2021,4,24.05.2021,Mjøndalen,Vålerenga,1,1,0,1,0
+2021,4,24.05.2021,Tromsø,Sandefjord Fotball,1,3,0,0,1
+2021,4,24.05.2021,Rosenborg,Molde,2,3,0,0,1
+2021,5,27.05.2021,Bodø/Glimt,Haugesund,2,0,1,0,0
+2021,5,27.05.2021,Lillestrøm,Odd,1,0,1,0,0
+2021,5,27.05.2021,Sandefjord Fotball,Rosenborg,1,2,0,0,1
+2021,5,27.05.2021,Sarpsborg 08,Kristiansund,0,1,0,0,1
+2021,5,27.05.2021,Stabæk,Brann,2,0,1,0,0
+2021,5,27.05.2021,Strømsgodset,Tromsø,1,1,0,1,0
+2021,5,27.05.2021,Viking,Mjøndalen,2,1,1,0,0
+2021,5,27.05.2021,Molde,Vålerenga,2,3,0,0,1
+2021,6,30.05.2021,Mjøndalen,Molde,0,0,0,1,0
+2021,6,30.05.2021,Kristiansund,Lillestrøm,1,0,1,0,0
+2021,6,30.05.2021,Odd,Bodø/Glimt,1,0,1,0,0
+2021,6,30.05.2021,Rosenborg,Stabæk,4,2,1,0,0
+2021,6,30.05.2021,Tromsø,Sarpsborg 08,0,2,0,0,1
+2021,6,30.05.2021,Vålerenga,Sandefjord Fotball,3,1,1,0,0
+2021,6,30.05.2021,Brann,Strømsgodset,3,0,1,0,0
+2021,6,30.05.2021,Haugesund,Viking,4,2,1,0,0
+2021,7,12.06.2021,Sandefjord Fotball,Molde,1,3,0,0,1
+2021,7,12.06.2021,Kristiansund,Odd,2,0,1,0,0
+2021,7,13.06.2021,Sarpsborg 08,Brann,0,0,0,1,0
+2021,7,13.06.2021,Bodø/Glimt,Mjøndalen,2,0,1,0,0
+2021,7,13.06.2021,Lillestrøm,Haugesund,2,1,1,0,0
+2021,7,13.06.2021,Strømsgodset,Rosenborg,2,1,1,0,0
+2021,7,13.06.2021,Viking,Vålerenga,4,1,1,0,0
+2021,7,14.06.2021,Stabæk,Tromsø,0,3,0,0,1
+2021,8,19.06.2021,Sandefjord Fotball,Viking,3,0,1,0,0
+2021,8,20.06.2021,Mjøndalen,Strømsgodset,1,1,0,1,0
+2021,8,20.06.2021,Brann,Odd,1,3,0,0,1
+2021,8,20.06.2021,Haugesund,Kristiansund,3,0,1,0,0
+2021,8,20.06.2021,Molde,Stabæk,2,1,1,0,0
+2021,8,20.06.2021,Rosenborg,Sarpsborg 08,0,1,0,0,1
+2021,8,20.06.2021,Tromsø,Lillestrøm,1,2,0,0,1
+2021,8,20.06.2021,Vålerenga,Bodø/Glimt,1,1,0,1,0
+2021,9,24.06.2021,Bodø/Glimt,Molde,0,2,0,0,1
+2021,9,24.06.2021,Haugesund,Brann,1,0,1,0,0
+2021,9,24.06.2021,Kristiansund,Mjøndalen,1,1,0,1,0
+2021,9,24.06.2021,Strømsgodset,Sandefjord Fotball,4,0,1,0,0
+2021,9,24.06.2021,Odd,Tromsø,3,0,1,0,0
+2021,9,24.06.2021,Stabæk,Vålerenga,0,2,0,0,1
+2021,9,25.06.2021,Sarpsborg 08,Viking,1,2,0,0,1
+2021,9,25.06.2021,Lillestrøm,Rosenborg,2,0,1,0,0
+2021,10,30.06.2021,Molde,Strømsgodset,3,0,1,0,0
+2021,10,30.06.2021,Rosenborg,Haugesund,0,0,0,1,0
+2021,10,30.06.2021,Sandefjord Fotball,Bodø/Glimt,1,0,1,0,0
+2021,10,30.06.2021,Tromsø,Kristiansund,0,0,0,1,0
+2021,10,30.06.2021,Viking,Stabæk,3,3,0,1,0
+2021,10,30.06.2021,Brann,Lillestrøm,1,1,0,1,0
+2021,10,01.07.2021,Mjøndalen,Odd,1,2,0,0,1
+2021,10,01.07.2021,Vålerenga,Sarpsborg 08,4,1,1,0,0
+2021,11,03.07.2021,Bodø/Glimt,Viking,2,2,0,1,0
+2021,11,04.07.2021,Stabæk,Sandefjord Fotball,0,2,0,0,1
+2021,11,04.07.2021,Haugesund,Tromsø,3,0,1,0,0
+2021,11,04.07.2021,Lillestrøm,Mjøndalen,2,1,1,0,0
+2021,11,04.07.2021,Odd,Rosenborg,2,2,0,1,0
+2021,11,04.07.2021,Sarpsborg 08,Molde,1,0,1,0,0
+2021,11,04.07.2021,Strømsgodset,Vålerenga,1,1,0,1,0
+2021,11,05.07.2021,Kristiansund,Brann,3,2,1,0,0
+2021,12,27.06.2021,Bodø/Glimt,Stabæk,4,1,1,0,0
+2021,12,10.07.2021,Mjøndalen,Haugesund,3,0,1,0,0
+2021,12,10.07.2021,Rosenborg,Kristiansund,1,0,1,0,0
+2021,12,10.07.2021,Sandefjord Fotball,Sarpsborg 08,2,0,1,0,0
+2021,12,10.07.2021,Viking,Strømsgodset,1,1,0,1,0
+2021,12,10.07.2021,Brann,Tromsø,1,1,0,1,0
+2021,12,11.07.2021,Vålerenga,Lillestrøm,2,2,0,1,0
+2021,12,11.07.2021,Molde,Odd,5,0,1,0,0
+2021,13,17.07.2021,Odd,Viking,3,2,1,0,0
+2021,13,17.07.2021,Sarpsborg 08,Bodø/Glimt,2,2,0,1,0
+2021,13,18.07.2021,Brann,Mjøndalen,1,1,0,1,0
+2021,13,18.07.2021,Haugesund,Vålerenga,3,1,1,0,0
+2021,13,18.07.2021,Kristiansund,Sandefjord Fotball,2,0,1,0,0
+2021,13,18.07.2021,Lillestrøm,Molde,1,1,0,1,0
+2021,13,18.07.2021,Tromsø,Rosenborg,1,3,0,0,1
+2021,13,18.07.2021,Strømsgodset,Stabæk,2,1,1,0,0
+2021,14,20.05.2021,Rosenborg,Brann,3,2,1,0,0
+2021,14,16.06.2021,Bodø/Glimt,Strømsgodset,7,2,1,0,0
+2021,14,16.06.2021,Vålerenga,Odd,1,1,0,1,0
+2021,14,08.08.2021,Mjøndalen,Tromsø,2,3,0,0,1
+2021,14,08.08.2021,Molde,Haugesund,5,4,1,0,0
+2021,14,08.08.2021,Sandefjord Fotball,Lillestrøm,1,1,0,1,0
+2021,14,08.08.2021,Viking,Kristiansund,3,2,1,0,0
+2021,14,08.08.2021,Stabæk,Sarpsborg 08,3,1,1,0,0
+2021,15,14.08.2021,Kristiansund,Stabæk,5,1,1,0,0
+2021,15,14.08.2021,Sarpsborg 08,Strømsgodset,1,0,1,0,0
+2021,15,15.08.2021,Lillestrøm,Bodø/Glimt,0,1,0,0,1
+2021,15,15.08.2021,Mjøndalen,Rosenborg,1,2,0,0,1
+2021,15,15.08.2021,Odd,Haugesund,4,2,1,0,0
+2021,15,15.08.2021,Tromsø,Vålerenga,1,1,0,1,0
+2021,15,15.08.2021,Viking,Molde,3,2,1,0,0
+2021,15,15.08.2021,Brann,Sandefjord Fotball,3,2,1,0,0
+2021,16,16.06.2021,Molde,Sarpsborg 08,4,1,1,0,0
+2021,16,21.08.2021,Stabæk,Mjøndalen,1,1,0,1,0
+2021,16,21.08.2021,Strømsgodset,Brann,3,1,1,0,0
+2021,16,22.08.2021,Bodø/Glimt,Kristiansund,3,0,1,0,0
+2021,16,22.08.2021,Haugesund,Lillestrøm,0,3,0,0,1
+2021,16,22.08.2021,Sandefjord Fotball,Tromsø,1,1,0,1,0
+2021,16,22.08.2021,Vålerenga,Viking,1,1,0,1,0
+2021,16,22.08.2021,Rosenborg,Odd,5,0,1,0,0
+2021,17,28.08.2021,Mjøndalen,Lillestrøm,1,2,0,0,1
+2021,17,28.08.2021,Brann,Haugesund,1,3,0,0,1
+2021,17,29.08.2021,Kristiansund,Molde,2,0,1,0,0
+2021,17,29.08.2021,Odd,Strømsgodset,0,1,0,0,1
+2021,17,29.08.2021,Sarpsborg 08,Sandefjord Fotball,5,0,1,0,0
+2021,17,29.08.2021,Tromsø,Bodø/Glimt,2,3,0,0,1
+2021,17,29.08.2021,Viking,Rosenborg,2,1,1,0,0
+2021,17,29.08.2021,Vålerenga,Stabæk,3,1,1,0,0
+2021,18,11.09.2021,Lillestrøm,Brann,2,3,0,0,1
+2021,18,11.09.2021,Stabæk,Viking,1,3,0,0,1
+2021,18,12.09.2021,Bodø/Glimt,Odd,1,1,0,1,0
+2021,18,12.09.2021,Haugesund,Sarpsborg 08,2,1,1,0,0
+2021,18,12.09.2021,Molde,Mjøndalen,4,0,1,0,0
+2021,18,12.09.2021,Sandefjord Fotball,Vålerenga,3,0,1,0,0
+2021,18,12.09.2021,Strømsgodset,Kristiansund,1,2,0,0,1
+2021,18,12.09.2021,Rosenborg,Tromsø,3,2,1,0,0
+2021,19,18.09.2021,Kristiansund,Haugesund,3,2,1,0,0
+2021,19,18.09.2021,Odd,Lillestrøm,2,3,0,0,1
+2021,19,19.09.2021,Mjøndalen,Sandefjord Fotball,1,1,0,1,0
+2021,19,19.09.2021,Sarpsborg 08,Rosenborg,1,3,0,0,1
+2021,19,19.09.2021,Viking,Bodø/Glimt,1,3,0,0,1
+2021,19,19.09.2021,Vålerenga,Molde,1,1,0,1,0
+2021,19,19.09.2021,Tromsø,Brann,1,1,0,1,0
+2021,19,29.09.2021,Stabæk,Strømsgodset,0,0,0,1,0
+2021,20,25.09.2021,Lillestrøm,Tromsø,1,2,0,0,1
+2021,20,25.09.2021,Strømsgodset,Sarpsborg 08,5,0,1,0,0
+2021,20,26.09.2021,Brann,Kristiansund,3,1,1,0,0
+2021,20,26.09.2021,Haugesund,Odd,1,3,0,0,1
+2021,20,26.09.2021,Molde,Viking,2,2,0,1,0
+2021,20,26.09.2021,Rosenborg,Mjøndalen,3,1,1,0,0
+2021,20,26.09.2021,Sandefjord Fotball,Stabæk,0,3,0,0,1
+2021,20,26.09.2021,Bodø/Glimt,Vålerenga,1,0,1,0,0
+2021,21,02.10.2021,Sarpsborg 08,Lillestrøm,2,1,1,0,0
+2021,21,02.10.2021,Viking,Sandefjord Fotball,2,1,1,0,0
+2021,21,03.10.2021,Mjøndalen,Brann,1,1,0,1,0
+2021,21,03.10.2021,Odd,Molde,1,3,0,0,1
+2021,21,03.10.2021,Stabæk,Bodø/Glimt,0,3,0,0,1
+2021,21,03.10.2021,Tromsø,Haugesund,2,0,1,0,0
+2021,21,03.10.2021,Vålerenga,Strømsgodset,3,0,1,0,0
+2021,21,03.10.2021,Kristiansund,Rosenborg,1,0,1,0,0
+2021,22,16.10.2021,Lillestrøm,Kristiansund,0,0,0,1,0
+2021,22,16.10.2021,Molde,Tromsø,3,0,1,0,0
+2021,22,17.10.2021,Bodø/Glimt,Sarpsborg 08,2,1,1,0,0
+2021,22,17.10.2021,Brann,Stabæk,1,1,0,1,0
+2021,22,17.10.2021,Haugesund,Mjøndalen,7,0,1,0,0
+2021,22,17.10.2021,Sandefjord Fotball,Odd,0,0,0,1,0
+2021,22,17.10.2021,Strømsgodset,Viking,0,1,0,0,1
+2021,22,17.10.2021,Rosenborg,Vålerenga,2,2,0,1,0
+2021,23,23.10.2021,Viking,Lillestrøm,5,1,1,0,0
+2021,23,23.10.2021,Stabæk,Molde,0,3,0,0,1
+2021,23,24.10.2021,Kristiansund,Sarpsborg 08,1,3,0,0,1
+2021,23,24.10.2021,Rosenborg,Sandefjord Fotball,4,1,1,0,0
+2021,23,24.10.2021,Strømsgodset,Bodø/Glimt,1,1,0,1,0
+2021,23,24.10.2021,Tromsø,Mjøndalen,1,0,1,0,0
+2021,23,24.10.2021,Vålerenga,Haugesund,2,1,1,0,0
+2021,23,24.10.2021,Odd,Brann,3,3,0,1,0
+2021,24,27.10.2021,Haugesund,Rosenborg,0,0,0,1,0
+2021,24,27.10.2021,Lillestrøm,Stabæk,3,0,1,0,0
+2021,24,27.10.2021,Mjøndalen,Kristiansund,5,0,1,0,0
+2021,24,27.10.2021,Sandefjord Fotball,Strømsgodset,2,0,1,0,0
+2021,24,27.10.2021,Tromsø,Odd,2,0,1,0,0
+2021,24,27.10.2021,Molde,Bodø/Glimt,0,2,0,0,1
+2021,24,28.10.2021,Brann,Viking,0,2,0,0,1
+2021,24,28.10.2021,Sarpsborg 08,Vålerenga,2,1,1,0,0
+2021,25,30.10.2021,Kristiansund,Tromsø,1,1,0,1,0
+2021,25,30.10.2021,Rosenborg,Lillestrøm,1,3,0,0,1
+2021,25,31.10.2021,Bodø/Glimt,Sandefjord Fotball,1,0,1,0,0
+2021,25,31.10.2021,Odd,Mjøndalen,2,2,0,1,0
+2021,25,31.10.2021,Stabæk,Haugesund,2,1,1,0,0
+2021,25,31.10.2021,Strømsgodset,Molde,6,0,1,0,0
+2021,25,31.10.2021,Viking,Sarpsborg 08,1,2,0,0,1
+2021,25,31.10.2021,Vålerenga,Brann,1,0,1,0,0
+2021,26,06.11.2021,Brann,Rosenborg,2,2,0,1,0
+2021,26,06.11.2021,Sarpsborg 08,Stabæk,4,1,1,0,0
+2021,26,07.11.2021,Haugesund,Bodø/Glimt,2,2,0,1,0
+2021,26,07.11.2021,Mjøndalen,Viking,0,1,0,0,1
+2021,26,07.11.2021,Molde,Sandefjord Fotball,3,1,1,0,0
+2021,26,07.11.2021,Odd,Kristiansund,2,4,0,0,1
+2021,26,07.11.2021,Tromsø,Strømsgodset,1,1,0,1,0
+2021,26,07.11.2021,Lillestrøm,Vålerenga,0,0,0,1,0
+2021,27,20.11.2021,Strømsgodset,Mjøndalen,1,2,0,0,1
+2021,27,20.11.2021,Viking,Haugesund,1,1,0,1,0
+2021,27,21.11.2021,Bodø/Glimt,Lillestrøm,2,0,1,0,0
+2021,27,21.11.2021,Sandefjord Fotball,Brann,2,2,0,1,0
+2021,27,21.11.2021,Sarpsborg 08,Odd,1,1,0,1,0
+2021,27,21.11.2021,Stabæk,Kristiansund,3,0,1,0,0
+2021,27,21.11.2021,Vålerenga,Tromsø,1,1,0,1,0
+2021,27,21.11.2021,Molde,Rosenborg,4,1,1,0,0
+2021,28,27.11.2021,Lillestrøm,Strømsgodset,4,1,1,0,0
+2021,28,27.11.2021,Odd,Vålerenga,1,2,0,0,1
+2021,28,28.11.2021,Haugesund,Sandefjord Fotball,1,2,0,0,1
+2021,28,28.11.2021,Kristiansund,Viking,2,3,0,0,1
+2021,28,28.11.2021,Mjøndalen,Sarpsborg 08,1,3,0,0,1
+2021,28,28.11.2021,Rosenborg,Bodø/Glimt,0,0,0,1,0
+2021,28,28.11.2021,Tromsø,Stabæk,0,0,0,1,0
+2021,28,28.11.2021,Brann,Molde,0,1,0,0,1
+2021,29,05.12.2021,Bodø/Glimt,Brann,2,2,0,1,0
+2021,29,05.12.2021,Molde,Lillestrøm,3,3,0,1,0
+2021,29,05.12.2021,Sandefjord Fotball,Kristiansund,3,2,1,0,0
+2021,29,05.12.2021,Sarpsborg 08,Tromsø,0,1,0,0,1
+2021,29,05.12.2021,Stabæk,Rosenborg,1,3,0,0,1
+2021,29,05.12.2021,Strømsgodset,Haugesund,0,0,0,1,0
+2021,29,05.12.2021,Viking,Odd,3,1,1,0,0
+2021,29,05.12.2021,Vålerenga,Mjøndalen,2,0,1,0,0
+2021,30,12.12.2021,Brann,Sarpsborg 08,2,1,1,0,0
+2021,30,12.12.2021,Haugesund,Molde,1,2,0,0,1
+2021,30,12.12.2021,Kristiansund,Vålerenga,2,1,1,0,0
+2021,30,12.12.2021,Lillestrøm,Sandefjord Fotball,2,0,1,0,0
+2021,30,12.12.2021,Mjøndalen,Bodø/Glimt,0,3,0,0,1
+2021,30,12.12.2021,Odd,Stabæk,3,1,1,0,0
+2021,30,12.12.2021,Rosenborg,Strømsgodset,2,2,0,1,0
+2021,30,12.12.2021,Tromsø,Viking,0,2,0,0,1
+2020,1,16.06.2020,Rosenborg,Kristiansund,0,0,0,1,0
+2020,1,16.06.2020,Odd,Sandefjord Fotball,1,2,0,0,1
+2020,1,16.06.2020,Viking,Bodø/Glimt,2,4,0,0,1
+2020,1,16.06.2020,Stabæk,Mjøndalen,0,0,0,1,0
+2020,1,16.06.2020,Aalesund,Molde,1,4,0,0,1
+2020,1,16.06.2020,Sarpsborg 08,Vålerenga,0,1,0,0,1
+2020,1,17.06.2020,Start,Strømsgodset,2,2,0,1,0
+2020,1,17.06.2020,Haugesund,Brann,1,2,0,0,1
+2020,2,20.06.2020,Mjøndalen,Sarpsborg 08,1,0,1,0,0
+2020,2,20.06.2020,Molde,Rosenborg,1,0,1,0,0
+2020,2,21.06.2020,Bodø/Glimt,Haugesund,6,1,1,0,0
+2020,2,21.06.2020,Kristiansund,Aalesund,7,2,1,0,0
+2020,2,21.06.2020,Vålerenga,Stabæk,2,2,0,1,0
+2020,2,21.06.2020,Strømsgodset,Odd,1,0,1,0,0
+2020,2,21.06.2020,Sandefjord Fotball,Start,2,2,0,1,0
+2020,2,21.06.2020,Brann,Viking,3,0,1,0,0
+2020,3,24.06.2020,Viking,Mjøndalen,1,1,0,1,0
+2020,3,24.06.2020,Haugesund,Kristiansund,2,2,0,1,0
+2020,3,24.06.2020,Stabæk,Sandefjord Fotball,2,0,1,0,0
+2020,3,24.06.2020,Aalesund,Brann,2,2,0,1,0
+2020,3,24.06.2020,Start,Molde,2,3,0,0,1
+2020,3,24.06.2020,Odd,Vålerenga,4,1,1,0,0
+2020,3,25.06.2020,Sarpsborg 08,Strømsgodset,2,3,0,0,1
+2020,3,25.06.2020,Rosenborg,Bodø/Glimt,2,3,0,0,1
+2020,4,27.06.2020,Start,Odd,0,5,0,0,1
+2020,4,27.06.2020,Vålerenga,Viking,2,1,1,0,0
+2020,4,28.06.2020,Molde,Stabæk,4,1,1,0,0
+2020,4,28.06.2020,Bodø/Glimt,Sarpsborg 08,2,1,1,0,0
+2020,4,28.06.2020,Strømsgodset,Aalesund,1,1,0,1,0
+2020,4,28.06.2020,Mjøndalen,Kristiansund,1,2,0,0,1
+2020,4,28.06.2020,Sandefjord Fotball,Haugesund,0,1,0,0,1
+2020,4,28.06.2020,Brann,Rosenborg,1,2,0,0,1
+2020,5,01.07.2020,Aalesund,Mjøndalen,1,3,0,0,1
+2020,5,01.07.2020,Odd,Bodø/Glimt,0,4,0,0,1
+2020,5,01.07.2020,Viking,Sandefjord Fotball,2,0,1,0,0
+2020,5,01.07.2020,Stabæk,Strømsgodset,2,0,1,0,0
+2020,5,01.07.2020,Haugesund,Start,1,0,1,0,0
+2020,5,01.07.2020,Rosenborg,Vålerenga,1,1,0,1,0
+2020,5,02.07.2020,Kristiansund,Molde,2,2,0,1,0
+2020,5,02.07.2020,Sarpsborg 08,Brann,0,1,0,0,1
+2020,6,04.07.2020,Start,Viking,1,1,0,1,0
+2020,6,04.07.2020,Vålerenga,Aalesund,2,2,0,1,0
+2020,6,05.07.2020,Molde,Mjøndalen,2,1,1,0,0
+2020,6,05.07.2020,Bodø/Glimt,Brann,5,0,1,0,0
+2020,6,05.07.2020,Odd,Haugesund,0,0,0,1,0
+2020,6,05.07.2020,Strømsgodset,Kristiansund,2,2,0,1,0
+2020,6,05.07.2020,Sandefjord Fotball,Sarpsborg 08,0,3,0,0,1
+2020,6,05.07.2020,Stabæk,Rosenborg,0,3,0,0,1
+2020,7,11.07.2020,Haugesund,Molde,0,3,0,0,1
+2020,7,11.07.2020,Rosenborg,Strømsgodset,3,0,1,0,0
+2020,7,12.07.2020,Viking,Odd,1,2,0,0,1
+2020,7,12.07.2020,Kristiansund,Stabæk,1,2,0,0,1
+2020,7,12.07.2020,Sarpsborg 08,Start,1,0,1,0,0
+2020,7,12.07.2020,Mjøndalen,Vålerenga,0,1,0,0,1
+2020,7,12.07.2020,Aalesund,Bodø/Glimt,1,6,0,0,1
+2020,7,12.07.2020,Brann,Sandefjord Fotball,3,1,1,0,0
+2020,8,15.07.2020,Vålerenga,Haugesund,1,0,1,0,0
+2020,8,15.07.2020,Strømsgodset,Mjøndalen,2,1,1,0,0
+2020,8,15.07.2020,Sandefjord Fotball,Aalesund,1,0,1,0,0
+2020,8,15.07.2020,Bodø/Glimt,Kristiansund,2,1,1,0,0
+2020,8,15.07.2020,Molde,Viking,5,0,1,0,0
+2020,8,15.07.2020,Odd,Brann,1,0,1,0,0
+2020,8,16.07.2020,Stabæk,Sarpsborg 08,1,1,0,1,0
+2020,8,16.07.2020,Start,Rosenborg,0,0,0,1,0
+2020,9,18.07.2020,Mjøndalen,Bodø/Glimt,2,3,0,0,1
+2020,9,18.07.2020,Haugesund,Viking,0,2,0,0,1
+2020,9,19.07.2020,Rosenborg,Sandefjord Fotball,2,1,1,0,0
+2020,9,19.07.2020,Kristiansund,Vålerenga,0,0,0,1,0
+2020,9,19.07.2020,Strømsgodset,Molde,0,4,0,0,1
+2020,9,19.07.2020,Sarpsborg 08,Odd,2,0,1,0,0
+2020,9,19.07.2020,Aalesund,Stabæk,1,3,0,0,1
+2020,9,19.07.2020,Brann,Start,1,1,0,1,0
+2020,10,25.07.2020,Odd,Aalesund,3,2,1,0,0
+2020,10,25.07.2020,Brann,Kristiansund,1,1,0,1,0
+2020,10,26.07.2020,Vålerenga,Strømsgodset,2,0,1,0,0
+2020,10,26.07.2020,Sandefjord Fotball,Mjøndalen,1,0,1,0,0
+2020,10,26.07.2020,Start,Stabæk,0,0,0,1,0
+2020,10,26.07.2020,Bodø/Glimt,Molde,3,1,1,0,0
+2020,10,26.07.2020,Viking,Sarpsborg 08,3,0,1,0,0
+2020,10,26.07.2020,Haugesund,Rosenborg,1,0,1,0,0
+2020,11,29.07.2020,Strømsgodset,Brann,3,1,1,0,0
+2020,11,29.07.2020,Sarpsborg 08,Haugesund,0,0,0,1,0
+2020,11,29.07.2020,Mjøndalen,Odd,0,2,0,0,1
+2020,11,29.07.2020,Aalesund,Start,3,2,1,0,0
+2020,11,29.07.2020,Kristiansund,Sandefjord Fotball,3,1,1,0,0
+2020,11,29.07.2020,Molde,Vålerenga,4,1,1,0,0
+2020,11,30.07.2020,Stabæk,Bodø/Glimt,2,2,0,1,0
+2020,11,30.07.2020,Rosenborg,Viking,3,0,1,0,0
+2020,12,01.08.2020,Sandefjord Fotball,Molde,2,1,1,0,0
+2020,12,01.08.2020,Brann,Vålerenga,1,2,0,0,1
+2020,12,02.08.2020,Bodø/Glimt,Strømsgodset,3,2,1,0,0
+2020,12,02.08.2020,Sarpsborg 08,Aalesund,4,0,1,0,0
+2020,12,02.08.2020,Viking,Kristiansund,1,2,0,0,1
+2020,12,02.08.2020,Haugesund,Stabæk,3,1,1,0,0
+2020,12,02.08.2020,Start,Mjøndalen,3,0,1,0,0
+2020,12,02.08.2020,Odd,Rosenborg,2,1,1,0,0
+2020,13,08.08.2020,Vålerenga,Bodø/Glimt,2,2,0,1,0
+2020,13,09.08.2020,Strømsgodset,Sandefjord Fotball,3,4,0,0,1
+2020,13,09.08.2020,Mjøndalen,Haugesund,1,0,1,0,0
+2020,13,09.08.2020,Aalesund,Viking,2,2,0,1,0
+2020,13,09.08.2020,Kristiansund,Start,3,2,1,0,0
+2020,13,09.08.2020,Stabæk,Odd,0,1,0,0,1
+2020,13,09.08.2020,Rosenborg,Sarpsborg 08,5,1,1,0,0
+2020,13,10.08.2020,Molde,Brann,1,2,0,0,1
+2020,14,15.08.2020,Sarpsborg 08,Molde,2,1,1,0,0
+2020,14,16.08.2020,Odd,Kristiansund,2,1,1,0,0
+2020,14,16.08.2020,Viking,Stabæk,3,3,0,1,0
+2020,14,16.08.2020,Haugesund,Strømsgodset,2,3,0,0,1
+2020,14,16.08.2020,Brann,Mjøndalen,0,1,0,0,1
+2020,14,16.08.2020,Sandefjord Fotball,Bodø/Glimt,1,2,0,0,1
+2020,14,16.08.2020,Rosenborg,Aalesund,3,2,1,0,0
+2020,14,17.08.2020,Start,Vålerenga,2,1,1,0,0
+2020,15,22.08.2020,Molde,Odd,2,0,1,0,0
+2020,15,22.08.2020,Bodø/Glimt,Start,6,0,1,0,0
+2020,15,22.08.2020,Kristiansund,Sarpsborg 08,4,1,1,0,0
+2020,15,22.08.2020,Vålerenga,Sandefjord Fotball,2,1,1,0,0
+2020,15,22.08.2020,Strømsgodset,Viking,0,2,0,0,1
+2020,15,22.08.2020,Aalesund,Haugesund,1,3,0,0,1
+2020,15,22.08.2020,Mjøndalen,Rosenborg,0,2,0,0,1
+2020,15,24.08.2020,Stabæk,Brann,0,2,0,0,1
+2020,16,29.08.2020,Haugesund,Vålerenga,2,1,1,0,0
+2020,16,29.08.2020,Brann,Strømsgodset,1,1,0,1,0
+2020,16,30.08.2020,Sarpsborg 08,Bodø/Glimt,0,3,0,0,1
+2020,16,30.08.2020,Sandefjord Fotball,Kristiansund,0,2,0,0,1
+2020,16,30.08.2020,Start,Aalesund,1,0,1,0,0
+2020,16,30.08.2020,Rosenborg,Stabæk,2,2,0,1,0
+2020,16,30.08.2020,Odd,Mjøndalen,6,1,1,0,0
+2020,16,30.08.2020,Viking,Molde,3,2,1,0,0
+2020,17,05.08.2020,Molde,Start,5,0,1,0,0
+2020,17,12.09.2020,Kristiansund,Viking,3,5,0,0,1
+2020,17,12.09.2020,Stabæk,Haugesund,2,1,1,0,0
+2020,17,13.09.2020,Bodø/Glimt,Odd,6,1,1,0,0
+2020,17,13.09.2020,Aalesund,Sarpsborg 08,0,1,0,0,1
+2020,17,13.09.2020,Strømsgodset,Rosenborg,3,3,0,1,0
+2020,17,13.09.2020,Mjøndalen,Sandefjord Fotball,0,2,0,0,1
+2020,17,13.09.2020,Vålerenga,Brann,5,1,1,0,0
+2020,18,19.09.2020,Vålerenga,Molde,2,1,1,0,0
+2020,18,19.09.2020,Sarpsborg 08,Mjøndalen,2,0,1,0,0
+2020,18,20.09.2020,Sandefjord Fotball,Strømsgodset,0,0,0,1,0
+2020,18,20.09.2020,Viking,Aalesund,5,2,1,0,0
+2020,18,20.09.2020,Brann,Bodø/Glimt,1,3,0,0,1
+2020,18,20.09.2020,Rosenborg,Haugesund,2,1,1,0,0
+2020,18,20.09.2020,Start,Kristiansund,1,2,0,0,1
+2020,18,20.09.2020,Odd,Stabæk,2,0,1,0,0
+2020,19,26.09.2020,Molde,Sandefjord Fotball,0,1,0,0,1
+2020,19,26.09.2020,Strømsgodset,Sarpsborg 08,0,0,0,1,0
+2020,19,27.09.2020,Kristiansund,Brann,1,1,0,1,0
+2020,19,27.09.2020,Haugesund,Odd,4,4,0,1,0
+2020,19,27.09.2020,Stabæk,Start,2,0,1,0,0
+2020,19,27.09.2020,Aalesund,Rosenborg,1,2,0,0,1
+2020,19,27.09.2020,Mjøndalen,Viking,1,2,0,0,1
+2020,19,27.09.2020,Bodø/Glimt,Vålerenga,2,0,1,0,0
+2020,20,03.10.2020,Sarpsborg 08,Stabæk,4,0,1,0,0
+2020,20,03.10.2020,Vålerenga,Mjøndalen,4,1,1,0,0
+2020,20,04.10.2020,Viking,Strømsgodset,2,2,0,1,0
+2020,20,04.10.2020,Brann,Molde,1,2,0,0,1
+2020,20,04.10.2020,Aalesund,Kristiansund,1,2,0,0,1
+2020,20,04.10.2020,Start,Haugesund,5,1,1,0,0
+2020,20,04.10.2020,Bodø/Glimt,Sandefjord Fotball,2,1,1,0,0
+2020,20,04.10.2020,Rosenborg,Odd,4,1,1,0,0
+2020,21,17.10.2020,Mjøndalen,Brann,2,0,1,0,0
+2020,21,17.10.2020,Molde,Bodø/Glimt,4,2,1,0,0
+2020,21,18.10.2020,Kristiansund,Rosenborg,0,0,0,1,0
+2020,21,18.10.2020,Haugesund,Sarpsborg 08,2,0,1,0,0
+2020,21,18.10.2020,Stabæk,Aalesund,4,0,1,0,0
+2020,21,18.10.2020,Strømsgodset,Start,1,1,0,1,0
+2020,21,18.10.2020,Sandefjord Fotball,Vålerenga,0,3,0,0,1
+2020,21,04.11.2020,Odd,Viking,3,0,1,0,0
+2020,22,24.10.2020,Start,Sandefjord Fotball,0,1,0,0,1
+2020,22,24.10.2020,Brann,Stabæk,1,1,0,1,0
+2020,22,25.10.2020,Molde,Strømsgodset,2,1,1,0,0
+2020,22,25.10.2020,Vålerenga,Kristiansund,1,1,0,1,0
+2020,22,25.10.2020,Sarpsborg 08,Rosenborg,1,2,0,0,1
+2020,22,25.10.2020,Aalesund,Odd,0,3,0,0,1
+2020,22,25.10.2020,Bodø/Glimt,Mjøndalen,2,0,1,0,0
+2020,22,27.10.2020,Viking,Haugesund,0,1,0,0,1
+2020,23,31.10.2020,Odd,Sarpsborg 08,1,1,0,1,0
+2020,23,31.10.2020,Haugesund,Aalesund,0,1,0,0,1
+2020,23,01.11.2020,Mjøndalen,Molde,1,3,0,0,1
+2020,23,01.11.2020,Rosenborg,Start,1,0,1,0,0
+2020,23,01.11.2020,Kristiansund,Bodø/Glimt,2,3,0,0,1
+2020,23,01.11.2020,Stabæk,Viking,1,1,0,1,0
+2020,23,01.11.2020,Sandefjord Fotball,Brann,3,3,0,1,0
+2020,23,01.11.2020,Strømsgodset,Vålerenga,0,2,0,0,1
+2020,24,07.11.2020,Mjøndalen,Strømsgodset,3,0,1,0,0
+2020,24,07.11.2020,Brann,Haugesund,1,2,0,0,1
+2020,24,08.11.2020,Molde,Kristiansund,2,2,0,1,0
+2020,24,08.11.2020,Bodø/Glimt,Aalesund,7,0,1,0,0
+2020,24,08.11.2020,Viking,Rosenborg,3,0,1,0,0
+2020,24,08.11.2020,Sandefjord Fotball,Stabæk,0,0,0,1,0
+2020,24,08.11.2020,Start,Sarpsborg 08,3,2,1,0,0
+2020,24,08.11.2020,Vålerenga,Odd,2,0,1,0,0
+2020,25,21.11.2020,Stabæk,Molde,0,3,0,0,1
+2020,25,21.11.2020,Aalesund,Vålerenga,1,1,0,1,0
+2020,25,22.11.2020,Odd,Start,1,2,0,0,1
+2020,25,22.11.2020,Kristiansund,Mjøndalen,1,0,1,0,0
+2020,25,22.11.2020,Haugesund,Sandefjord Fotball,3,2,1,0,0
+2020,25,22.11.2020,Sarpsborg 08,Viking,1,2,0,0,1
+2020,25,22.11.2020,Strømsgodset,Bodø/Glimt,1,2,0,0,1
+2020,25,24.11.2020,Rosenborg,Brann,2,3,0,0,1
+2020,26,28.11.2020,Viking,Start,4,1,1,0,0
+2020,26,28.11.2020,Brann,Aalesund,3,1,1,0,0
+2020,26,29.11.2020,Molde,Haugesund,3,1,1,0,0
+2020,26,29.11.2020,Bodø/Glimt,Rosenborg,5,1,1,0,0
+2020,26,29.11.2020,Kristiansund,Strømsgodset,2,1,1,0,0
+2020,26,29.11.2020,Mjøndalen,Stabæk,0,1,0,0,1
+2020,26,29.11.2020,Vålerenga,Sarpsborg 08,1,1,0,1,0
+2020,26,13.12.2020,Sandefjord Fotball,Odd,1,1,0,1,0
+2020,27,02.12.2020,Viking,Brann,2,0,1,0,0
+2020,27,02.12.2020,Haugesund,Mjøndalen,1,1,0,1,0
+2020,27,02.12.2020,Sarpsborg 08,Kristiansund,1,1,0,1,0
+2020,27,02.12.2020,Aalesund,Sandefjord Fotball,0,1,0,0,1
+2020,27,02.12.2020,Start,Bodø/Glimt,1,1,0,1,0
+2020,27,02.12.2020,Stabæk,Vålerenga,1,1,0,1,0
+2020,27,13.12.2020,Rosenborg,Molde,3,1,1,0,0
+2020,27,19.12.2020,Odd,Strømsgodset,1,3,0,0,1
+2020,28,06.12.2020,Bodø/Glimt,Stabæk,5,2,1,0,0
+2020,28,06.12.2020,Brann,Sarpsborg 08,1,1,0,1,0
+2020,28,06.12.2020,Strømsgodset,Haugesund,2,2,0,1,0
+2020,28,06.12.2020,Mjøndalen,Start,1,0,1,0,0
+2020,28,06.12.2020,Sandefjord Fotball,Viking,2,2,0,1,0
+2020,28,06.12.2020,Molde,Aalesund,2,1,1,0,0
+2020,28,07.12.2020,Vålerenga,Rosenborg,1,0,1,0,0
+2020,28,09.12.2020,Kristiansund,Odd,4,3,1,0,0
+2020,29,09.12.2020,Haugesund,Bodø/Glimt,0,4,0,0,1
+2020,29,09.12.2020,Sarpsborg 08,Sandefjord Fotball,0,0,0,1,0
+2020,29,09.12.2020,Aalesund,Strømsgodset,1,4,0,0,1
+2020,29,09.12.2020,Start,Brann,1,1,0,1,0
+2020,29,10.12.2020,Rosenborg,Mjøndalen,1,0,1,0,0
+2020,29,10.12.2020,Viking,Vålerenga,2,2,0,1,0
+2020,29,13.12.2020,Stabæk,Kristiansund,2,2,0,1,0
+2020,29,16.12.2020,Odd,Molde,1,4,0,0,1
+2020,30,19.12.2020,Molde,Sarpsborg 08,5,0,1,0,0
+2020,30,19.12.2020,Bodø/Glimt,Viking,3,0,1,0,0
+2020,30,22.12.2020,Kristiansund,Haugesund,1,3,0,0,1
+2020,30,22.12.2020,Brann,Odd,2,1,1,0,0
+2020,30,22.12.2020,Vålerenga,Start,4,0,1,0,0
+2020,30,22.12.2020,Strømsgodset,Stabæk,0,4,0,0,1
+2020,30,22.12.2020,Mjøndalen,Aalesund,3,0,1,0,0
+2020,30,22.12.2020,Sandefjord Fotball,Rosenborg,0,0,0,1,0
+2024,1,31.03.2024,Odd,Haugesund,1,2,0,0,1
+2024,1,01.04.2024,Fredrikstad,Bodø/Glimt,0,2,0,0,1
+2024,1,01.04.2024,Lillestrøm,Kristiansund,2,3,0,0,1
+2024,1,01.04.2024,Molde,Strømsgodset,4,0,1,0,0
+2024,1,01.04.2024,Rosenborg,Sandefjord Fotball,2,0,1,0,0
+2024,1,01.04.2024,Tromsø,Brann,2,4,0,0,1
+2024,1,01.04.2024,Viking,Sarpsborg 08,1,0,1,0,0
+2024,1,02.04.2024,KFUM,HamKam,1,1,0,1,0
+2024,2,06.04.2024,Bodø/Glimt,Viking,1,0,1,0,0
+2024,2,07.04.2024,Kristiansund,KFUM,1,1,0,1,0
+2024,2,07.04.2024,HamKam,Molde,0,1,0,0,1
+2024,2,07.04.2024,Haugesund,Lillestrøm,0,2,0,0,1
+2024,2,07.04.2024,Sarpsborg 08,Odd,0,1,0,0,1
+2024,2,07.04.2024,Strømsgodset,Rosenborg,1,0,1,0,0
+2024,2,07.04.2024,Brann,Fredrikstad,0,2,0,0,1
+2024,2,03.07.2024,Sandefjord Fotball,Tromsø,1,2,0,0,1
+2024,3,13.04.2024,Fredrikstad,Sarpsborg 08,2,2,0,1,0
+2024,3,14.04.2024,Viking,Brann,1,1,0,1,0
+2024,3,14.04.2024,Molde,Kristiansund,2,0,1,0,0
+2024,3,14.04.2024,Odd,Sandefjord Fotball,2,2,0,1,0
+2024,3,14.04.2024,Rosenborg,HamKam,1,0,1,0,0
+2024,3,14.04.2024,Tromsø,Haugesund,0,1,0,0,1
+2024,3,14.04.2024,Lillestrøm,Bodø/Glimt,0,5,0,0,1
+2024,3,16.04.2024,KFUM,Strømsgodset,1,3,0,0,1
+2024,4,21.04.2024,HamKam,Strømsgodset,0,1,0,0,1
+2024,4,21.04.2024,Brann,Odd,2,0,1,0,0
+2024,4,21.04.2024,Haugesund,Rosenborg,1,3,0,0,1
+2024,4,21.04.2024,Kristiansund,Tromsø,1,0,1,0,0
+2024,4,21.04.2024,Sandefjord Fotball,Lillestrøm,0,1,0,0,1
+2024,4,21.04.2024,Sarpsborg 08,KFUM,0,2,0,0,1
+2024,4,21.04.2024,Viking,Fredrikstad,1,1,0,1,0
+2024,4,21.04.2024,Bodø/Glimt,Molde,1,1,0,1,0
+2024,5,27.04.2024,Rosenborg,Bodø/Glimt,1,3,0,0,1
+2024,5,28.04.2024,Fredrikstad,Sandefjord Fotball,1,0,1,0,0
+2024,5,28.04.2024,KFUM,Brann,0,0,0,1,0
+2024,5,28.04.2024,Lillestrøm,HamKam,1,1,0,1,0
+2024,5,28.04.2024,Molde,Haugesund,2,1,1,0,0
+2024,5,28.04.2024,Strømsgodset,Kristiansund,2,2,0,1,0
+2024,5,28.04.2024,Tromsø,Sarpsborg 08,0,3,0,0,1
+2024,5,28.04.2024,Odd,Viking,3,3,0,1,0
+2024,6,04.05.2024,Brann,Rosenborg,3,0,1,0,0
+2024,6,05.05.2024,Bodø/Glimt,Strømsgodset,1,0,1,0,0
+2024,6,05.05.2024,Haugesund,KFUM,0,1,0,0,1
+2024,6,05.05.2024,Kristiansund,HamKam,1,1,0,1,0
+2024,6,05.05.2024,Odd,Fredrikstad,0,2,0,0,1
+2024,6,05.05.2024,Sandefjord Fotball,Molde,3,1,1,0,0
+2024,6,05.05.2024,Sarpsborg 08,Lillestrøm,1,0,1,0,0
+2024,6,05.05.2024,Viking,Tromsø,2,1,1,0,0
+2024,7,11.05.2024,Molde,Rosenborg,2,2,0,1,0
+2024,7,12.05.2024,Kristiansund,Bodø/Glimt,2,4,0,0,1
+2024,7,12.05.2024,HamKam,Haugesund,2,2,0,1,0
+2024,7,12.05.2024,KFUM,Fredrikstad,1,4,0,0,1
+2024,7,12.05.2024,Sandefjord Fotball,Sarpsborg 08,4,1,1,0,0
+2024,7,12.05.2024,Strømsgodset,Viking,0,1,0,0,1
+2024,7,12.05.2024,Tromsø,Odd,4,0,1,0,0
+2024,7,12.05.2024,Lillestrøm,Brann,0,2,0,0,1
+2024,8,16.05.2024,Bodø/Glimt,Tromsø,4,0,1,0,0
+2024,8,16.05.2024,Brann,Sandefjord Fotball,2,1,1,0,0
+2024,8,16.05.2024,Fredrikstad,Strømsgodset,4,1,1,0,0
+2024,8,16.05.2024,Haugesund,Kristiansund,1,0,1,0,0
+2024,8,16.05.2024,Odd,Molde,0,4,0,0,1
+2024,8,16.05.2024,Rosenborg,KFUM,1,3,0,0,1
+2024,8,16.05.2024,Sarpsborg 08,HamKam,1,7,0,0,1
+2024,8,16.05.2024,Viking,Lillestrøm,1,4,0,0,1
+2024,9,20.05.2024,HamKam,Bodø/Glimt,1,0,1,0,0
+2024,9,20.05.2024,KFUM,Odd,0,0,0,1,0
+2024,9,20.05.2024,Kristiansund,Brann,2,2,0,1,0
+2024,9,20.05.2024,Lillestrøm,Fredrikstad,0,3,0,0,1
+2024,9,20.05.2024,Molde,Sarpsborg 08,2,4,0,0,1
+2024,9,20.05.2024,Sandefjord Fotball,Viking,0,3,0,0,1
+2024,9,20.05.2024,Strømsgodset,Haugesund,2,0,1,0,0
+2024,9,20.05.2024,Tromsø,Rosenborg,3,2,1,0,0
+2024,10,24.05.2024,Bodø/Glimt,KFUM,2,2,0,1,0
+2024,10,25.05.2024,Fredrikstad,Tromsø,0,0,0,1,0
+2024,10,26.05.2024,Haugesund,Sandefjord Fotball,2,1,1,0,0
+2024,10,26.05.2024,Odd,Lillestrøm,2,1,1,0,0
+2024,10,26.05.2024,Rosenborg,Kristiansund,2,1,1,0,0
+2024,10,26.05.2024,Sarpsborg 08,Strømsgodset,1,3,0,0,1
+2024,10,26.05.2024,Viking,HamKam,3,0,1,0,0
+2024,10,26.05.2024,Brann,Molde,1,3,0,0,1
+2024,11,01.06.2024,HamKam,Brann,1,2,0,0,1
+2024,11,02.06.2024,Molde,Viking,2,2,0,1,0
+2024,11,02.06.2024,Haugesund,Bodø/Glimt,0,1,0,0,1
+2024,11,02.06.2024,KFUM,Sandefjord Fotball,3,3,0,1,0
+2024,11,02.06.2024,Kristiansund,Sarpsborg 08,3,1,1,0,0
+2024,11,02.06.2024,Strømsgodset,Odd,1,1,0,1,0
+2024,11,02.06.2024,Tromsø,Lillestrøm,1,2,0,0,1
+2024,11,02.06.2024,Rosenborg,Fredrikstad,1,1,0,1,0
+2024,12,27.06.2024,Sandefjord Fotball,HamKam,1,2,0,0,1
+2024,12,27.06.2024,Lillestrøm,KFUM,2,1,1,0,0
+2024,12,28.06.2024,Brann,Strømsgodset,0,0,0,1,0
+2024,12,28.06.2024,Odd,Kristiansund,1,1,0,1,0
+2024,12,28.06.2024,Sarpsborg 08,Bodø/Glimt,1,2,0,0,1
+2024,12,28.06.2024,Tromsø,Molde,0,2,0,0,1
+2024,12,30.06.2024,Viking,Rosenborg,4,2,1,0,0
+2024,12,14.08.2024,Fredrikstad,Haugesund,1,0,1,0,0
+2024,13,07.07.2024,Bodø/Glimt,Brann,5,1,1,0,0
+2024,13,07.07.2024,HamKam,Tromsø,0,0,0,1,0
+2024,13,07.07.2024,Haugesund,Sarpsborg 08,1,2,0,0,1
+2024,13,07.07.2024,KFUM,Viking,1,2,0,0,1
+2024,13,07.07.2024,Molde,Lillestrøm,3,0,1,0,0
+2024,13,07.07.2024,Rosenborg,Odd,2,1,1,0,0
+2024,13,08.07.2024,Kristiansund,Fredrikstad,3,1,1,0,0
+2024,13,08.07.2024,Strømsgodset,Sandefjord Fotball,1,1,0,1,0
+2024,14,12.07.2024,Sarpsborg 08,Rosenborg,4,1,1,0,0
+2024,14,13.07.2024,Fredrikstad,Molde,0,0,0,1,0
+2024,14,13.07.2024,Lillestrøm,Strømsgodset,3,1,1,0,0
+2024,14,13.07.2024,Odd,HamKam,1,2,0,0,1
+2024,14,13.07.2024,Sandefjord Fotball,Bodø/Glimt,2,1,1,0,0
+2024,14,13.07.2024,Viking,Kristiansund,2,0,1,0,0
+2024,14,13.07.2024,Brann,Haugesund,1,1,0,1,0
+2024,14,13.07.2024,Tromsø,KFUM,1,2,0,0,1
+2024,15,19.07.2024,Bodø/Glimt,Odd,3,1,1,0,0
+2024,15,20.07.2024,Sarpsborg 08,Brann,1,1,0,1,0
+2024,15,20.07.2024,Molde,KFUM,2,3,0,0,1
+2024,15,21.07.2024,Strømsgodset,Tromsø,0,1,0,0,1
+2024,15,21.07.2024,HamKam,Fredrikstad,0,1,0,0,1
+2024,15,21.07.2024,Haugesund,Viking,1,0,1,0,0
+2024,15,21.08.2024,Rosenborg,Lillestrøm,4,0,1,0,0
+2024,15,05.10.2024,Kristiansund,Sandefjord Fotball,2,1,1,0,0
+2024,16,17.04.2024,Brann,HamKam,1,0,1,0,0
+2024,16,27.07.2024,KFUM,Bodø/Glimt,1,1,0,1,0
+2024,16,27.07.2024,Fredrikstad,Rosenborg,2,2,0,1,0
+2024,16,28.07.2024,Lillestrøm,Sarpsborg 08,2,2,0,1,0
+2024,16,28.07.2024,Odd,Strømsgodset,2,0,1,0,0
+2024,16,28.07.2024,Sandefjord Fotball,Haugesund,4,3,1,0,0
+2024,16,28.07.2024,Tromsø,Kristiansund,0,0,0,1,0
+2024,16,28.07.2024,Viking,Molde,1,0,1,0,0
+2024,17,17.04.2024,Molde,Odd,1,2,0,0,1
+2024,17,03.08.2024,Bodø/Glimt,Haugesund,4,2,1,0,0
+2024,17,04.08.2024,Fredrikstad,KFUM,0,0,0,1,0
+2024,17,04.08.2024,HamKam,Viking,3,3,0,1,0
+2024,17,04.08.2024,Kristiansund,Lillestrøm,2,1,1,0,0
+2024,17,04.08.2024,Sarpsborg 08,Sandefjord Fotball,2,1,1,0,0
+2024,17,04.08.2024,Strømsgodset,Brann,2,3,0,0,1
+2024,17,04.08.2024,Rosenborg,Tromsø,1,0,1,0,0
+2024,18,29.05.2024,Brann,Kristiansund,2,1,1,0,0
+2024,18,29.05.2024,Tromsø,Fredrikstad,3,0,1,0,0
+2024,18,09.08.2024,Sandefjord Fotball,Strømsgodset,2,2,0,1,0
+2024,18,10.08.2024,Haugesund,HamKam,0,1,0,0,1
+2024,18,10.08.2024,Viking,Bodø/Glimt,1,1,0,1,0
+2024,18,11.08.2024,KFUM,Rosenborg,1,0,1,0,0
+2024,18,11.08.2024,Odd,Sarpsborg 08,1,1,0,1,0
+2024,18,11.08.2024,Lillestrøm,Molde,1,2,0,0,1
+2024,19,29.05.2024,Bodø/Glimt,Sandefjord Fotball,1,1,0,1,0
+2024,19,17.08.2024,Strømsgodset,Lillestrøm,3,2,1,0,0
+2024,19,18.08.2024,Fredrikstad,Brann,0,4,0,0,1
+2024,19,18.08.2024,HamKam,Odd,1,0,1,0,0
+2024,19,18.08.2024,KFUM,Tromsø,0,1,0,0,1
+2024,19,18.08.2024,Sarpsborg 08,Haugesund,2,2,0,1,0
+2024,19,18.08.2024,Rosenborg,Viking,2,1,1,0,0
+2024,19,18.09.2024,Kristiansund,Molde,0,4,0,0,1
+2024,20,24.08.2024,Bodø/Glimt,Sarpsborg 08,6,0,1,0,0
+2024,20,25.08.2024,Lillestrøm,Tromsø,0,1,0,0,1
+2024,20,25.08.2024,Haugesund,Fredrikstad,1,0,1,0,0
+2024,20,25.08.2024,Molde,HamKam,3,0,1,0,0
+2024,20,25.08.2024,Sandefjord Fotball,Kristiansund,1,0,1,0,0
+2024,20,25.08.2024,Viking,Strømsgodset,5,2,1,0,0
+2024,20,25.08.2024,Odd,Rosenborg,1,3,0,0,1
+2024,20,18.09.2024,Brann,KFUM,2,0,1,0,0
+2024,21,30.08.2024,KFUM,Lillestrøm,2,0,1,0,0
+2024,21,31.08.2024,Fredrikstad,Odd,2,0,1,0,0
+2024,21,01.09.2024,HamKam,Sandefjord Fotball,1,1,0,1,0
+2024,21,01.09.2024,Kristiansund,Haugesund,2,2,0,1,0
+2024,21,01.09.2024,Rosenborg,Molde,2,1,1,0,0
+2024,21,01.09.2024,Strømsgodset,Bodø/Glimt,0,1,0,0,1
+2024,21,01.09.2024,Tromsø,Viking,2,2,0,1,0
+2024,21,01.09.2024,Brann,Sarpsborg 08,1,3,0,0,1
+2024,22,13.09.2024,Bodø/Glimt,HamKam,3,0,1,0,0
+2024,22,14.09.2024,Viking,KFUM,1,0,1,0,0
+2024,22,14.09.2024,Molde,Fredrikstad,6,1,1,0,0
+2024,22,15.09.2024,Odd,Tromsø,1,0,1,0,0
+2024,22,15.09.2024,Haugesund,Strømsgodset,0,0,0,1,0
+2024,22,15.09.2024,Sandefjord Fotball,Brann,2,2,0,1,0
+2024,22,15.09.2024,Sarpsborg 08,Kristiansund,0,2,0,0,1
+2024,22,15.09.2024,Lillestrøm,Rosenborg,1,1,0,1,0
+2024,23,21.09.2024,Strømsgodset,Sarpsborg 08,2,1,1,0,0
+2024,23,21.09.2024,HamKam,Lillestrøm,5,0,1,0,0
+2024,23,22.09.2024,Brann,Bodø/Glimt,4,1,1,0,0
+2024,23,22.09.2024,Kristiansund,Odd,0,0,0,1,0
+2024,23,22.09.2024,Rosenborg,Haugesund,4,0,1,0,0
+2024,23,22.09.2024,Tromsø,Sandefjord Fotball,3,0,1,0,0
+2024,23,22.09.2024,Fredrikstad,Viking,3,2,1,0,0
+2024,23,23.09.2024,KFUM,Molde,1,1,0,1,0
+2024,24,28.09.2024,Molde,Tromsø,5,3,1,0,0
+2024,24,28.09.2024,Haugesund,Brann,0,1,0,0,1
+2024,24,28.09.2024,Sarpsborg 08,Fredrikstad,0,1,0,0,1
+2024,24,29.09.2024,Strømsgodset,HamKam,1,1,0,1,0
+2024,24,29.09.2024,Bodø/Glimt,Kristiansund,4,0,1,0,0
+2024,24,29.09.2024,Lillestrøm,Viking,1,4,0,0,1
+2024,24,29.09.2024,Odd,KFUM,1,3,0,0,1
+2024,24,29.09.2024,Sandefjord Fotball,Rosenborg,0,1,0,0,1
+2024,25,19.10.2024,Molde,Sandefjord Fotball,0,1,0,0,1
+2024,25,19.10.2024,Tromsø,Bodø/Glimt,0,0,0,1,0
+2024,25,20.10.2024,Rosenborg,Brann,1,2,0,0,1
+2024,25,20.10.2024,HamKam,Sarpsborg 08,0,2,0,0,1
+2024,25,20.10.2024,KFUM,Haugesund,0,0,0,1,0
+2024,25,20.10.2024,Kristiansund,Strømsgodset,0,0,0,1,0
+2024,25,20.10.2024,Viking,Odd,3,3,0,1,0
+2024,25,20.10.2024,Fredrikstad,Lillestrøm,2,1,1,0,0
+2024,26,26.10.2024,Strømsgodset,Fredrikstad,2,0,1,0,0
+2024,26,27.10.2024,HamKam,Kristiansund,1,0,1,0,0
+2024,26,27.10.2024,Haugesund,Molde,0,3,0,0,1
+2024,26,27.10.2024,Lillestrøm,Odd,3,0,1,0,0
+2024,26,27.10.2024,Sandefjord Fotball,KFUM,2,1,1,0,0
+2024,26,27.10.2024,Sarpsborg 08,Viking,1,2,0,0,1
+2024,26,27.10.2024,Brann,Tromsø,4,0,1,0,0
+2024,26,28.10.2024,Bodø/Glimt,Rosenborg,2,3,0,0,1
+2024,27,02.11.2024,Viking,Sandefjord Fotball,3,2,1,0,0
+2024,27,03.11.2024,Fredrikstad,Kristiansund,1,1,0,1,0
+2024,27,03.11.2024,KFUM,Sarpsborg 08,1,2,0,0,1
+2024,27,03.11.2024,Lillestrøm,Haugesund,0,1,0,0,1
+2024,27,03.11.2024,Molde,Bodø/Glimt,3,3,0,1,0
+2024,27,03.11.2024,Odd,Brann,0,3,0,0,1
+2024,27,03.11.2024,Tromsø,HamKam,3,3,0,1,0
+2024,27,03.11.2024,Rosenborg,Strømsgodset,1,0,1,0,0
+2024,28,09.11.2024,Brann,Lillestrøm,2,1,1,0,0
+2024,28,10.11.2024,HamKam,Rosenborg,0,2,0,0,1
+2024,28,10.11.2024,Haugesund,Tromsø,2,0,1,0,0
+2024,28,10.11.2024,Kristiansund,Viking,0,1,0,0,1
+2024,28,10.11.2024,Sandefjord Fotball,Odd,1,0,1,0,0
+2024,28,10.11.2024,Sarpsborg 08,Molde,2,2,0,1,0
+2024,28,10.11.2024,Strømsgodset,KFUM,1,0,1,0,0
+2024,28,10.11.2024,Bodø/Glimt,Fredrikstad,2,2,0,1,0
+2024,29,23.11.2024,Fredrikstad,HamKam,1,0,1,0,0
+2024,29,23.11.2024,KFUM,Kristiansund,1,2,0,0,1
+2024,29,23.11.2024,Lillestrøm,Sandefjord Fotball,0,3,0,0,1
+2024,29,23.11.2024,Molde,Brann,2,1,1,0,0
+2024,29,23.11.2024,Odd,Bodø/Glimt,0,2,0,0,1
+2024,29,23.11.2024,Rosenborg,Sarpsborg 08,1,1,0,1,0
+2024,29,23.11.2024,Tromsø,Strømsgodset,2,0,1,0,0
+2024,29,23.11.2024,Viking,Haugesund,5,1,1,0,0
+2024,30,01.12.2024,Bodø/Glimt,Lillestrøm,5,2,1,0,0
+2024,30,01.12.2024,Brann,Viking,1,1,0,1,0
+2024,30,01.12.2024,HamKam,KFUM,0,2,0,0,1
+2024,30,01.12.2024,Haugesund,Odd,2,1,1,0,0
+2024,30,01.12.2024,Kristiansund,Rosenborg,0,4,0,0,1
+2024,30,01.12.2024,Sandefjord Fotball,Fredrikstad,0,1,0,0,1
+2024,30,01.12.2024,Sarpsborg 08,Tromsø,2,1,1,0,0
+2024,30,01.12.2024,Strømsgodset,Molde,1,0,1,0,0
+2019,1,30.03.2019,Odd,Brann,3,2,1,0,0
+2019,1,30.03.2019,Vålerenga,Mjøndalen,2,0,1,0,0
+2019,1,31.03.2019,Ranheim TF,Tromsø,1,2,0,0,1
+2019,1,31.03.2019,Sarpsborg 08,Molde,1,1,0,1,0
+2019,1,31.03.2019,Strømsgodset,Haugesund,3,2,1,0,0
+2019,1,31.03.2019,Viking,Kristiansund,2,0,1,0,0
+2019,1,31.03.2019,Bodø/Glimt,Rosenborg,2,0,1,0,0
+2019,1,01.04.2019,Stabæk,Lillestrøm,1,1,0,1,0
+2019,2,06.04.2019,Mjøndalen,Bodø/Glimt,4,5,0,0,1
+2019,2,07.04.2019,Molde,Stabæk,3,0,1,0,0
+2019,2,07.04.2019,Haugesund,Sarpsborg 08,1,1,0,1,0
+2019,2,07.04.2019,Kristiansund,Vålerenga,2,0,1,0,0
+2019,2,07.04.2019,Tromsø,Viking,0,2,0,0,1
+2019,2,07.04.2019,Lillestrøm,Ranheim TF,2,1,1,0,0
+2019,2,07.04.2019,Brann,Strømsgodset,1,1,0,1,0
+2019,2,08.04.2019,Rosenborg,Odd,1,1,0,1,0
+2019,3,12.04.2019,Strømsgodset,Mjøndalen,2,3,0,0,1
+2019,3,13.04.2019,Viking,Brann,2,1,1,0,0
+2019,3,14.04.2019,Ranheim TF,Haugesund,0,2,0,0,1
+2019,3,14.04.2019,Odd,Kristiansund,2,0,1,0,0
+2019,3,14.04.2019,Bodø/Glimt,Molde,3,2,1,0,0
+2019,3,14.04.2019,Stabæk,Rosenborg,3,1,1,0,0
+2019,3,14.04.2019,Sarpsborg 08,Lillestrøm,1,0,1,0,0
+2019,3,14.04.2019,Vålerenga,Tromsø,4,1,1,0,0
+2019,4,22.04.2019,Rosenborg,Strømsgodset,0,0,0,1,0
+2019,4,22.04.2019,Haugesund,Stabæk,3,0,1,0,0
+2019,4,22.04.2019,Kristiansund,Ranheim TF,0,0,0,1,0
+2019,4,22.04.2019,Bodø/Glimt,Sarpsborg 08,1,1,0,1,0
+2019,4,22.04.2019,Lillestrøm,Molde,0,2,0,0,1
+2019,4,22.04.2019,Mjøndalen,Tromsø,1,1,0,1,0
+2019,4,22.04.2019,Brann,Vålerenga,1,1,0,1,0
+2019,4,23.04.2019,Odd,Viking,1,0,1,0,0
+2019,5,27.04.2019,Sarpsborg 08,Mjøndalen,1,1,0,1,0
+2019,5,28.04.2019,Ranheim TF,Viking,5,2,1,0,0
+2019,5,28.04.2019,Tromsø,Brann,1,2,0,0,1
+2019,5,28.04.2019,Lillestrøm,Haugesund,1,0,1,0,0
+2019,5,28.04.2019,Strømsgodset,Kristiansund,2,3,0,0,1
+2019,5,28.04.2019,Stabæk,Bodø/Glimt,2,0,1,0,0
+2019,5,28.04.2019,Molde,Rosenborg,3,0,1,0,0
+2019,5,29.04.2019,Vålerenga,Odd,1,0,1,0,0
+2019,6,04.05.2019,Mjøndalen,Stabæk,1,0,1,0,0
+2019,6,05.05.2019,Brann,Ranheim TF,0,1,0,0,1
+2019,6,05.05.2019,Haugesund,Molde,1,2,0,0,1
+2019,6,05.05.2019,Kristiansund,Tromsø,1,0,1,0,0
+2019,6,05.05.2019,Odd,Strømsgodset,2,1,1,0,0
+2019,6,05.05.2019,Bodø/Glimt,Lillestrøm,4,0,1,0,0
+2019,6,05.05.2019,Rosenborg,Sarpsborg 08,1,0,1,0,0
+2019,6,06.05.2019,Viking,Vålerenga,1,1,0,1,0
+2019,7,11.05.2019,Lillestrøm,Rosenborg,1,1,0,1,0
+2019,7,12.05.2019,Molde,Mjøndalen,1,0,1,0,0
+2019,7,12.05.2019,Haugesund,Bodø/Glimt,1,1,0,1,0
+2019,7,12.05.2019,Ranheim TF,Vålerenga,1,5,0,0,1
+2019,7,12.05.2019,Sarpsborg 08,Kristiansund,0,1,0,0,1
+2019,7,12.05.2019,Tromsø,Odd,1,2,0,0,1
+2019,7,12.05.2019,Stabæk,Brann,0,1,0,0,1
+2019,7,13.05.2019,Strømsgodset,Viking,0,0,0,1,0
+2019,8,16.05.2019,Rosenborg,Haugesund,0,2,0,0,1
+2019,8,16.05.2019,Brann,Sarpsborg 08,2,1,1,0,0
+2019,8,16.05.2019,Kristiansund,Molde,3,2,1,0,0
+2019,8,16.05.2019,Odd,Ranheim TF,1,0,1,0,0
+2019,8,16.05.2019,Tromsø,Bodø/Glimt,1,2,0,0,1
+2019,8,16.05.2019,Viking,Stabæk,3,0,1,0,0
+2019,8,16.05.2019,Mjøndalen,Lillestrøm,2,2,0,1,0
+2019,8,16.05.2019,Vålerenga,Strømsgodset,2,0,1,0,0
+2019,9,19.05.2019,Rosenborg,Mjøndalen,3,2,1,0,0
+2019,9,19.05.2019,Haugesund,Kristiansund,0,0,0,1,0
+2019,9,19.05.2019,Sarpsborg 08,Ranheim TF,1,3,0,0,1
+2019,9,19.05.2019,Lillestrøm,Odd,0,3,0,0,1
+2019,9,19.05.2019,Strømsgodset,Tromsø,3,1,1,0,0
+2019,9,19.05.2019,Bodø/Glimt,Brann,1,2,0,0,1
+2019,9,20.05.2019,Molde,Viking,5,1,1,0,0
+2019,9,14.08.2019,Stabæk,Vålerenga,1,1,0,1,0
+2019,10,25.05.2019,Vålerenga,Lillestrøm,0,3,0,0,1
+2019,10,26.05.2019,Ranheim TF,Strømsgodset,1,0,1,0,0
+2019,10,26.05.2019,Tromsø,Molde,2,1,1,0,0
+2019,10,26.05.2019,Mjøndalen,Haugesund,1,4,0,0,1
+2019,10,26.05.2019,Brann,Rosenborg,0,1,0,0,1
+2019,10,10.07.2019,Odd,Stabæk,2,1,1,0,0
+2019,10,14.08.2019,Kristiansund,Bodø/Glimt,1,2,0,0,1
+2019,10,14.08.2019,Viking,Sarpsborg 08,2,1,1,0,0
+2019,11,15.06.2019,Haugesund,Brann,1,1,0,1,0
+2019,11,16.06.2019,Molde,Ranheim TF,2,0,1,0,0
+2019,11,16.06.2019,Sarpsborg 08,Odd,2,0,1,0,0
+2019,11,16.06.2019,Bodø/Glimt,Strømsgodset,2,0,1,0,0
+2019,11,16.06.2019,Lillestrøm,Viking,0,2,0,0,1
+2019,11,16.06.2019,Mjøndalen,Kristiansund,1,1,0,1,0
+2019,11,16.06.2019,Rosenborg,Vålerenga,3,0,1,0,0
+2019,11,17.06.2019,Stabæk,Tromsø,0,1,0,0,1
+2019,12,22.06.2019,Strømsgodset,Molde,0,4,0,0,1
+2019,12,23.06.2019,Vålerenga,Sarpsborg 08,1,1,0,1,0
+2019,12,23.06.2019,Kristiansund,Stabæk,0,1,0,0,1
+2019,12,23.06.2019,Ranheim TF,Mjøndalen,1,1,0,1,0
+2019,12,23.06.2019,Odd,Haugesund,3,1,1,0,0
+2019,12,23.06.2019,Tromsø,Rosenborg,1,0,1,0,0
+2019,12,23.06.2019,Viking,Bodø/Glimt,3,4,0,0,1
+2019,12,23.06.2019,Brann,Lillestrøm,1,0,1,0,0
+2019,13,29.06.2019,Rosenborg,Kristiansund,1,0,1,0,0
+2019,13,30.06.2019,Haugesund,Vålerenga,1,4,0,0,1
+2019,13,30.06.2019,Bodø/Glimt,Odd,3,0,1,0,0
+2019,13,30.06.2019,Lillestrøm,Tromsø,4,0,1,0,0
+2019,13,30.06.2019,Stabæk,Ranheim TF,0,0,0,1,0
+2019,13,30.06.2019,Mjøndalen,Viking,1,1,0,1,0
+2019,13,30.06.2019,Molde,Brann,1,1,0,1,0
+2019,13,01.07.2019,Sarpsborg 08,Strømsgodset,2,2,0,1,0
+2019,14,04.07.2019,Ranheim TF,Rosenborg,2,3,0,0,1
+2019,14,05.07.2019,Brann,Mjøndalen,0,0,0,1,0
+2019,14,05.07.2019,Kristiansund,Lillestrøm,5,2,1,0,0
+2019,14,05.07.2019,Vålerenga,Bodø/Glimt,6,0,1,0,0
+2019,14,05.07.2019,Odd,Molde,2,2,0,1,0
+2019,14,05.07.2019,Tromsø,Sarpsborg 08,2,0,1,0,0
+2019,14,05.07.2019,Strømsgodset,Stabæk,0,2,0,0,1
+2019,14,05.07.2019,Viking,Haugesund,0,0,0,1,0
+2019,15,10.04.2019,Molde,Vålerenga,4,1,1,0,0
+2019,15,10.04.2019,Brann,Kristiansund,2,1,1,0,0
+2019,15,13.07.2019,Rosenborg,Viking,5,1,1,0,0
+2019,15,13.07.2019,Bodø/Glimt,Ranheim TF,5,1,1,0,0
+2019,15,14.07.2019,Haugesund,Tromsø,5,1,1,0,0
+2019,15,14.07.2019,Mjøndalen,Odd,2,0,1,0,0
+2019,15,14.07.2019,Lillestrøm,Strømsgodset,2,1,1,0,0
+2019,15,15.07.2019,Stabæk,Sarpsborg 08,3,3,0,1,0
+2019,16,03.08.2019,Sarpsborg 08,Rosenborg,1,1,0,1,0
+2019,16,03.08.2019,Odd,Lillestrøm,2,1,1,0,0
+2019,16,04.08.2019,Ranheim TF,Brann,0,3,0,0,1
+2019,16,04.08.2019,Tromsø,Mjøndalen,2,2,0,1,0
+2019,16,04.08.2019,Stabæk,Haugesund,1,1,0,1,0
+2019,16,04.08.2019,Viking,Molde,0,2,0,0,1
+2019,16,04.08.2019,Vålerenga,Kristiansund,1,1,0,1,0
+2019,16,05.08.2019,Strømsgodset,Bodø/Glimt,1,3,0,0,1
+2019,17,21.07.2019,Brann,Stabæk,2,1,1,0,0
+2019,17,21.07.2019,Molde,Sarpsborg 08,2,1,1,0,0
+2019,17,10.08.2019,Rosenborg,Tromsø,5,2,1,0,0
+2019,17,11.08.2019,Haugesund,Ranheim TF,0,1,0,0,1
+2019,17,11.08.2019,Kristiansund,Odd,1,1,0,1,0
+2019,17,11.08.2019,Bodø/Glimt,Viking,2,1,1,0,0
+2019,17,11.08.2019,Strømsgodset,Vålerenga,3,2,1,0,0
+2019,17,12.08.2019,Lillestrøm,Mjøndalen,3,2,1,0,0
+2019,18,17.08.2019,Odd,Rosenborg,1,1,0,1,0
+2019,18,18.08.2019,Stabæk,Kristiansund,2,0,1,0,0
+2019,18,18.08.2019,Vålerenga,Haugesund,1,2,0,0,1
+2019,18,18.08.2019,Ranheim TF,Molde,2,3,0,0,1
+2019,18,18.08.2019,Tromsø,Lillestrøm,1,1,0,1,0
+2019,18,18.08.2019,Mjøndalen,Brann,2,1,1,0,0
+2019,18,18.08.2019,Viking,Strømsgodset,4,0,1,0,0
+2019,18,19.08.2019,Sarpsborg 08,Bodø/Glimt,1,1,0,1,0
+2019,19,24.08.2019,Rosenborg,Stabæk,3,2,1,0,0
+2019,19,25.08.2019,Molde,Odd,2,2,0,1,0
+2019,19,25.08.2019,Brann,Tromsø,2,3,0,0,1
+2019,19,25.08.2019,Haugesund,Lillestrøm,0,2,0,0,1
+2019,19,25.08.2019,Kristiansund,Mjøndalen,4,0,1,0,0
+2019,19,25.08.2019,Viking,Ranheim TF,2,2,0,1,0
+2019,19,25.08.2019,Strømsgodset,Sarpsborg 08,2,1,1,0,0
+2019,19,26.08.2019,Bodø/Glimt,Vålerenga,4,0,1,0,0
+2019,20,30.08.2019,Odd,Bodø/Glimt,3,1,1,0,0
+2019,20,31.08.2019,Stabæk,Strømsgodset,2,1,1,0,0
+2019,20,01.09.2019,Ranheim TF,Kristiansund,1,2,0,0,1
+2019,20,01.09.2019,Sarpsborg 08,Viking,2,2,0,1,0
+2019,20,01.09.2019,Tromsø,Haugesund,2,2,0,1,0
+2019,20,01.09.2019,Lillestrøm,Brann,1,3,0,0,1
+2019,20,01.09.2019,Mjøndalen,Molde,1,3,0,0,1
+2019,20,01.09.2019,Vålerenga,Rosenborg,1,1,0,1,0
+2019,21,14.09.2019,Rosenborg,Lillestrøm,3,1,1,0,0
+2019,21,15.09.2019,Molde,Tromsø,3,0,1,0,0
+2019,21,15.09.2019,Haugesund,Mjøndalen,0,0,0,1,0
+2019,21,15.09.2019,Bodø/Glimt,Stabæk,3,3,0,1,0
+2019,21,15.09.2019,Strømsgodset,Ranheim TF,1,0,1,0,0
+2019,21,15.09.2019,Viking,Odd,2,0,1,0,0
+2019,21,15.09.2019,Kristiansund,Brann,1,0,1,0,0
+2019,21,16.09.2019,Sarpsborg 08,Vålerenga,1,0,1,0,0
+2019,22,21.09.2019,Brann,Haugesund,0,0,0,1,0
+2019,22,22.09.2019,Vålerenga,Viking,0,4,0,0,1
+2019,22,22.09.2019,Ranheim TF,Bodø/Glimt,1,1,0,1,0
+2019,22,22.09.2019,Odd,Sarpsborg 08,3,0,1,0,0
+2019,22,22.09.2019,Tromsø,Strømsgodset,0,1,0,0,1
+2019,22,22.09.2019,Lillestrøm,Kristiansund,1,1,0,1,0
+2019,22,22.09.2019,Mjøndalen,Rosenborg,1,2,0,0,1
+2019,22,23.09.2019,Stabæk,Molde,1,2,0,0,1
+2019,23,28.09.2019,Rosenborg,Brann,0,0,0,1,0
+2019,23,29.09.2019,Molde,Lillestrøm,2,1,1,0,0
+2019,23,29.09.2019,Kristiansund,Haugesund,2,2,0,1,0
+2019,23,29.09.2019,Vålerenga,Ranheim TF,1,1,0,1,0
+2019,23,29.09.2019,Sarpsborg 08,Stabæk,0,0,0,1,0
+2019,23,29.09.2019,Strømsgodset,Odd,2,3,0,0,1
+2019,23,29.09.2019,Bodø/Glimt,Tromsø,4,0,1,0,0
+2019,23,30.09.2019,Viking,Mjøndalen,4,1,1,0,0
+2019,24,04.10.2019,Mjøndalen,Strømsgodset,1,1,0,1,0
+2019,24,05.10.2019,Odd,Vålerenga,1,1,0,1,0
+2019,24,06.10.2019,Haugesund,Rosenborg,2,1,1,0,0
+2019,24,06.10.2019,Ranheim TF,Sarpsborg 08,0,2,0,0,1
+2019,24,06.10.2019,Tromsø,Kristiansund,5,0,1,0,0
+2019,24,06.10.2019,Lillestrøm,Bodø/Glimt,0,0,0,1,0
+2019,24,06.10.2019,Stabæk,Viking,0,0,0,1,0
+2019,24,06.10.2019,Brann,Molde,0,0,0,1,0
+2019,25,19.10.2019,Kristiansund,Rosenborg,2,2,0,1,0
+2019,25,19.10.2019,Vålerenga,Stabæk,0,2,0,0,1
+2019,25,20.10.2019,Molde,Haugesund,3,1,1,0,0
+2019,25,20.10.2019,Ranheim TF,Odd,4,1,1,0,0
+2019,25,20.10.2019,Strømsgodset,Lillestrøm,1,1,0,1,0
+2019,25,20.10.2019,Viking,Tromsø,2,1,1,0,0
+2019,25,20.10.2019,Sarpsborg 08,Brann,1,1,0,1,0
+2019,25,21.10.2019,Bodø/Glimt,Mjøndalen,0,0,0,1,0
+2019,26,26.10.2019,Lillestrøm,Vålerenga,0,0,0,1,0
+2019,26,27.10.2019,Haugesund,Strømsgodset,2,2,0,1,0
+2019,26,27.10.2019,Kristiansund,Viking,4,2,1,0,0
+2019,26,27.10.2019,Tromsø,Ranheim TF,4,2,1,0,0
+2019,26,27.10.2019,Stabæk,Odd,0,0,0,1,0
+2019,26,27.10.2019,Mjøndalen,Sarpsborg 08,0,0,0,1,0
+2019,26,27.10.2019,Rosenborg,Molde,3,1,1,0,0
+2019,26,28.10.2019,Brann,Bodø/Glimt,1,1,0,1,0
+2019,27,01.11.2019,Strømsgodset,Rosenborg,3,3,0,1,0
+2019,27,02.11.2019,Molde,Kristiansund,2,0,1,0,0
+2019,27,03.11.2019,Ranheim TF,Stabæk,0,2,0,0,1
+2019,27,03.11.2019,Sarpsborg 08,Tromsø,3,2,1,0,0
+2019,27,03.11.2019,Bodø/Glimt,Haugesund,2,2,0,1,0
+2019,27,03.11.2019,Viking,Lillestrøm,3,0,1,0,0
+2019,27,03.11.2019,Vålerenga,Brann,1,0,1,0,0
+2019,27,04.11.2019,Odd,Mjøndalen,3,2,1,0,0
+2019,28,08.11.2019,Brann,Odd,1,0,1,0,0
+2019,28,09.11.2019,Haugesund,Viking,1,0,1,0,0
+2019,28,10.11.2019,Molde,Strømsgodset,4,0,1,0,0
+2019,28,10.11.2019,Kristiansund,Sarpsborg 08,4,0,1,0,0
+2019,28,10.11.2019,Tromsø,Vålerenga,0,0,0,1,0
+2019,28,10.11.2019,Lillestrøm,Stabæk,1,3,0,0,1
+2019,28,10.11.2019,Mjøndalen,Ranheim TF,3,1,1,0,0
+2019,28,10.11.2019,Rosenborg,Bodø/Glimt,3,2,1,0,0
+2019,29,24.11.2019,Vålerenga,Molde,2,4,0,0,1
+2019,29,24.11.2019,Ranheim TF,Lillestrøm,2,1,1,0,0
+2019,29,24.11.2019,Sarpsborg 08,Haugesund,1,1,0,1,0
+2019,29,24.11.2019,Odd,Tromsø,2,1,1,0,0
+2019,29,24.11.2019,Bodø/Glimt,Kristiansund,3,0,1,0,0
+2019,29,24.11.2019,Strømsgodset,Brann,6,0,1,0,0
+2019,29,24.11.2019,Stabæk,Mjøndalen,4,2,1,0,0
+2019,29,24.11.2019,Viking,Rosenborg,2,2,0,1,0
+2019,30,01.12.2019,Rosenborg,Ranheim TF,3,2,1,0,0
+2019,30,01.12.2019,Molde,Bodø/Glimt,4,2,1,0,0
+2019,30,01.12.2019,Brann,Viking,1,5,0,0,1
+2019,30,01.12.2019,Haugesund,Odd,4,1,1,0,0
+2019,30,01.12.2019,Kristiansund,Strømsgodset,1,2,0,0,1
+2019,30,01.12.2019,Tromsø,Stabæk,1,1,0,1,0
+2019,30,01.12.2019,Lillestrøm,Sarpsborg 08,0,0,0,1,0
+2019,30,01.12.2019,Mjøndalen,Vålerenga,1,0,1,0,0

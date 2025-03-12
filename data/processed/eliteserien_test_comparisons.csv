@@ -1,0 +1,301 @@
+season,winner,loser,goal_diff,is_draw,home_team,away_team,home_goals,away_goals,home_form,away_form,home_home_form,away_away_form,total_goals
+2024,Haugesund,Odd,1,False,Odd,Haugesund,1,2,0.0,0.0,0.0,0.0,3
+2024,Bodø/Glimt,Fredrikstad,2,False,Fredrikstad,Bodø/Glimt,0,2,0.0,0.0,0.0,0.0,2
+2024,Kristiansund,Lillestrøm,1,False,Lillestrøm,Kristiansund,2,3,0.0,0.0,0.0,0.0,5
+2024,Molde,Strømsgodset,4,False,Molde,Strømsgodset,4,0,0.0,0.0,0.0,0.0,4
+2024,Rosenborg,Sandefjord Fotball,2,False,Rosenborg,Sandefjord Fotball,2,0,0.0,0.0,0.0,0.0,2
+2024,Brann,Tromsø,2,False,Tromsø,Brann,2,4,0.0,0.0,0.0,0.0,6
+2024,Viking,Sarpsborg 08,1,False,Viking,Sarpsborg 08,1,0,0.0,0.0,0.0,0.0,1
+2024,KFUM,HamKam,0,True,KFUM,HamKam,1,1,0.0,0.0,0.0,0.0,2
+2024,HamKam,KFUM,0,True,KFUM,HamKam,1,1,0.0,0.0,0.0,0.0,2
+2024,Bodø/Glimt,Viking,1,False,Bodø/Glimt,Viking,1,0,3.0,3.0,0.0,0.0,1
+2024,Fredrikstad,Brann,2,False,Brann,Fredrikstad,0,2,3.0,0.0,0.0,0.0,2
+2024,Strømsgodset,Rosenborg,1,False,Strømsgodset,Rosenborg,1,0,0.0,3.0,0.0,0.0,1
+2024,Odd,Sarpsborg 08,1,False,Sarpsborg 08,Odd,0,1,0.0,0.0,0.0,0.0,1
+2024,Kristiansund,KFUM,0,True,Kristiansund,KFUM,1,1,3.0,1.0,0.0,0.0,2
+2024,KFUM,Kristiansund,0,True,Kristiansund,KFUM,1,1,3.0,1.0,0.0,0.0,2
+2024,Molde,HamKam,1,False,HamKam,Molde,0,1,1.0,3.0,0.0,0.0,1
+2024,Lillestrøm,Haugesund,2,False,Haugesund,Lillestrøm,0,2,3.0,0.0,0.0,0.0,2
+2024,Fredrikstad,Sarpsborg 08,0,True,Fredrikstad,Sarpsborg 08,2,2,1.5,0.0,0.0,0.0,4
+2024,Sarpsborg 08,Fredrikstad,0,True,Fredrikstad,Sarpsborg 08,2,2,1.5,0.0,0.0,0.0,4
+2024,Haugesund,Tromsø,1,False,Tromsø,Haugesund,0,1,0.0,1.5,0.0,3.0,1
+2024,Bodø/Glimt,Lillestrøm,5,False,Lillestrøm,Bodø/Glimt,0,5,1.5,3.0,0.0,3.0,5
+2024,Rosenborg,HamKam,1,False,Rosenborg,HamKam,1,0,1.5,0.5,3.0,1.0,1
+2024,Molde,Kristiansund,2,False,Molde,Kristiansund,2,0,3.0,2.0,3.0,3.0,2
+2024,Viking,Brann,0,True,Viking,Brann,1,1,1.5,1.5,3.0,3.0,2
+2024,Brann,Viking,0,True,Viking,Brann,1,1,1.5,1.5,3.0,3.0,2
+2024,Odd,Sandefjord Fotball,0,True,Odd,Sandefjord Fotball,2,2,1.5,0.0,0.0,0.0,4
+2024,Sandefjord Fotball,Odd,0,True,Odd,Sandefjord Fotball,2,2,1.5,0.0,0.0,0.0,4
+2024,Strømsgodset,KFUM,2,False,KFUM,Strømsgodset,1,3,1.0,1.5,1.0,0.0,4
+2024,Odd,Molde,1,False,Molde,Odd,1,2,3.0,1.3333333333333333,3.0,3.0,3
+2024,Brann,HamKam,1,False,Brann,HamKam,1,0,1.3333333333333333,0.3333333333333333,0.0,0.5,1
+2024,Lillestrøm,Sandefjord Fotball,1,False,Sandefjord Fotball,Lillestrøm,0,1,0.5,1.0,0.0,3.0,1
+2024,Strømsgodset,HamKam,1,False,HamKam,Strømsgodset,0,1,0.25,2.0,0.0,1.5,1
+2024,Brann,Odd,2,False,Brann,Odd,2,0,1.75,1.75,1.5,3.0,2
+2024,Rosenborg,Haugesund,2,False,Haugesund,Rosenborg,1,3,2.0,2.0,0.0,0.0,4
+2024,Kristiansund,Tromsø,1,False,Kristiansund,Tromsø,1,0,1.3333333333333333,0.0,1.0,0.0,1
+2024,KFUM,Sarpsborg 08,2,False,Sarpsborg 08,KFUM,0,2,0.3333333333333333,0.6666666666666666,0.0,1.0,2
+2024,Viking,Fredrikstad,0,True,Viking,Fredrikstad,1,1,1.3333333333333333,1.3333333333333333,2.0,3.0,2
+2024,Fredrikstad,Viking,0,True,Viking,Fredrikstad,1,1,1.3333333333333333,1.3333333333333333,2.0,3.0,2
+2024,Bodø/Glimt,Molde,0,True,Bodø/Glimt,Molde,1,1,3.0,2.25,3.0,3.0,2
+2024,Molde,Bodø/Glimt,0,True,Bodø/Glimt,Molde,1,1,3.0,2.25,3.0,3.0,2
+2024,Bodø/Glimt,Rosenborg,2,False,Rosenborg,Bodø/Glimt,1,3,2.25,2.5,3.0,3.0,4
+2024,Sarpsborg 08,Tromsø,3,False,Tromsø,Sarpsborg 08,0,3,0.0,0.25,0.0,0.5,3
+2024,Odd,Viking,0,True,Odd,Viking,3,3,1.4,1.25,0.5,0.0,6
+2024,Viking,Odd,0,True,Odd,Viking,3,3,1.4,1.25,0.5,0.0,6
+2024,Strømsgodset,Kristiansund,0,True,Strømsgodset,Kristiansund,2,2,2.25,1.75,3.0,1.5,4
+2024,Kristiansund,Strømsgodset,0,True,Strømsgodset,Kristiansund,2,2,2.25,1.75,3.0,1.5,4
+2024,Fredrikstad,Sandefjord Fotball,1,False,Fredrikstad,Sandefjord Fotball,1,0,1.25,0.3333333333333333,0.5,0.5,1
+2024,Lillestrøm,HamKam,0,True,Lillestrøm,HamKam,1,1,1.5,0.2,0.0,0.3333333333333333,2
+2024,HamKam,Lillestrøm,0,True,Lillestrøm,HamKam,1,1,1.5,0.2,0.0,0.3333333333333333,2
+2024,KFUM,Brann,0,True,KFUM,Brann,0,0,1.25,2.0,0.5,2.0,0
+2024,Brann,KFUM,0,True,KFUM,Brann,0,0,1.25,2.0,0.5,2.0,0
+2024,Molde,Haugesund,1,False,Molde,Haugesund,2,1,2.0,1.5,2.0,3.0,3
+2024,Brann,Rosenborg,3,False,Brann,Rosenborg,3,0,1.6,1.8,2.0,1.5,3
+2024,Bodø/Glimt,Strømsgodset,1,False,Bodø/Glimt,Strømsgodset,1,0,2.6,2.0,2.0,2.0,1
+2024,KFUM,Haugesund,1,False,Haugesund,KFUM,0,1,1.2,1.2,0.0,2.0,1
+2024,Kristiansund,HamKam,0,True,Kristiansund,HamKam,1,1,1.6,0.2,2.0,0.3333333333333333,2
+2024,HamKam,Kristiansund,0,True,Kristiansund,HamKam,1,1,1.6,0.2,2.0,0.3333333333333333,2
+2024,Fredrikstad,Odd,2,False,Odd,Fredrikstad,0,2,1.6,1.6,0.6666666666666666,2.0,2
+2024,Sandefjord Fotball,Molde,2,False,Sandefjord Fotball,Molde,3,1,0.25,2.0,0.0,2.0,4
+2024,Sarpsborg 08,Lillestrøm,1,False,Sarpsborg 08,Lillestrøm,1,0,0.8,1.4,0.0,3.0,1
+2024,Viking,Tromsø,1,False,Viking,Tromsø,2,1,1.2,0.0,1.6666666666666667,0.0,3
+2024,Molde,Rosenborg,0,True,Molde,Rosenborg,2,2,1.4,1.2,2.0,1.0,4
+2024,Rosenborg,Molde,0,True,Molde,Rosenborg,2,2,1.4,1.2,2.0,1.0,4
+2024,Brann,Lillestrøm,2,False,Lillestrøm,Brann,0,2,1.4,2.2,0.3333333333333333,1.6666666666666667,2
+2024,Tromsø,Odd,4,False,Tromsø,Odd,4,0,0.0,1.0,0.0,2.0,4
+2024,Viking,Strømsgodset,1,False,Strømsgodset,Viking,0,1,2.0,1.2,2.0,0.5,1
+2024,Sandefjord Fotball,Sarpsborg 08,3,False,Sandefjord Fotball,Sarpsborg 08,4,1,0.8,1.4,1.5,1.3333333333333333,5
+2024,HamKam,Haugesund,0,True,HamKam,Haugesund,2,2,0.4,0.6,0.0,2.0,4
+2024,Haugesund,HamKam,0,True,HamKam,Haugesund,2,2,0.4,0.6,0.0,2.0,4
+2024,Bodø/Glimt,Kristiansund,2,False,Kristiansund,Bodø/Glimt,2,4,1.2,2.6,1.6666666666666667,3.0,6
+2024,Fredrikstad,KFUM,3,False,KFUM,Fredrikstad,1,4,1.6,2.2,0.6666666666666666,2.3333333333333335,5
+2024,Bodø/Glimt,Tromsø,4,False,Bodø/Glimt,Tromsø,4,0,2.6,0.6,2.3333333333333335,0.0,4
+2024,Brann,Sandefjord Fotball,1,False,Brann,Sandefjord Fotball,2,1,2.6,1.4,3.0,0.3333333333333333,3
+2024,Fredrikstad,Strømsgodset,3,False,Fredrikstad,Strømsgodset,4,1,2.2,1.4,1.3333333333333333,2.0,5
+2024,Haugesund,Kristiansund,1,False,Haugesund,Kristiansund,1,0,0.8,1.0,0.0,1.3333333333333333,1
+2024,Molde,Odd,4,False,Odd,Molde,0,4,0.8,1.0,0.6666666666666666,1.3333333333333333,4
+2024,KFUM,Rosenborg,2,False,Rosenborg,KFUM,1,3,1.4,1.4,2.0,2.3333333333333335,4
+2024,HamKam,Sarpsborg 08,6,False,Sarpsborg 08,HamKam,1,7,1.4,0.6,1.0,0.6666666666666666,8
+2024,Lillestrøm,Viking,3,False,Viking,Lillestrøm,1,4,1.8,0.8,1.6666666666666667,2.0,5
+2024,Viking,Sandefjord Fotball,3,False,Sandefjord Fotball,Viking,0,3,1.2,1.6,2.0,1.3333333333333333,3
+2024,Tromsø,Rosenborg,1,False,Tromsø,Rosenborg,3,2,0.6,0.8,1.0,1.3333333333333333,5
+2024,Sarpsborg 08,Molde,2,False,Molde,Sarpsborg 08,2,4,1.6,1.2,1.3333333333333333,1.3333333333333333,6
+2024,Strømsgodset,Haugesund,2,False,Strømsgodset,Haugesund,2,0,0.8,0.8,1.3333333333333333,1.3333333333333333,2
+2024,Kristiansund,Brann,0,True,Kristiansund,Brann,2,2,1.0,2.6,1.3333333333333333,1.6666666666666667,4
+2024,Brann,Kristiansund,0,True,Kristiansund,Brann,2,2,1.0,2.6,1.3333333333333333,1.6666666666666667,4
+2024,HamKam,Bodø/Glimt,1,False,HamKam,Bodø/Glimt,1,0,1.2,2.6,0.3333333333333333,3.0,1
+2024,KFUM,Odd,0,True,KFUM,Odd,0,0,2.0,0.2,0.3333333333333333,1.0,0
+2024,Odd,KFUM,0,True,KFUM,Odd,0,0,2.0,0.2,0.3333333333333333,1.0,0
+2024,Fredrikstad,Lillestrøm,3,False,Lillestrøm,Fredrikstad,0,3,1.4,2.6,0.3333333333333333,2.3333333333333335,3
+2024,Bodø/Glimt,KFUM,0,True,Bodø/Glimt,KFUM,2,2,2.4,1.6,2.3333333333333335,3.0,4
+2024,KFUM,Bodø/Glimt,0,True,Bodø/Glimt,KFUM,2,2,2.4,1.6,2.3333333333333335,3.0,4
+2024,Fredrikstad,Tromsø,0,True,Fredrikstad,Tromsø,0,0,3.0,1.2,2.3333333333333335,0.0,0
+2024,Tromsø,Fredrikstad,0,True,Fredrikstad,Tromsø,0,0,3.0,1.2,2.3333333333333335,0.0,0
+2024,Haugesund,Sandefjord Fotball,1,False,Haugesund,Sandefjord Fotball,2,1,0.8,1.2,1.0,0.3333333333333333,3
+2024,Odd,Lillestrøm,1,False,Odd,Lillestrøm,2,1,0.4,0.8,0.3333333333333333,2.0,3
+2024,Rosenborg,Kristiansund,1,False,Rosenborg,Kristiansund,2,1,0.2,0.6,1.0,0.3333333333333333,3
+2024,Strømsgodset,Sarpsborg 08,2,False,Sarpsborg 08,Strømsgodset,1,3,1.8,0.8,1.0,1.0,4
+2024,Viking,HamKam,3,False,Viking,HamKam,3,0,2.0,1.8,1.3333333333333333,1.6666666666666667,3
+2024,Molde,Brann,2,False,Brann,Molde,1,3,2.2,1.4,3.0,1.3333333333333333,4
+2024,Brann,Kristiansund,1,False,Brann,Kristiansund,2,1,2.0,0.4,2.0,0.3333333333333333,3
+2024,Bodø/Glimt,Sandefjord Fotball,0,True,Bodø/Glimt,Sandefjord Fotball,1,1,2.0,1.2,2.3333333333333335,0.0,2
+2024,Sandefjord Fotball,Bodø/Glimt,0,True,Bodø/Glimt,Sandefjord Fotball,1,1,2.0,1.2,2.3333333333333335,0.0,2
+2024,Tromsø,Fredrikstad,3,False,Tromsø,Fredrikstad,3,0,1.4,2.6,2.0,3.0,3
+2024,Brann,HamKam,1,False,HamKam,Brann,1,2,1.6,2.0,1.3333333333333333,1.6666666666666667,3
+2024,KFUM,Sandefjord Fotball,0,True,KFUM,Sandefjord Fotball,3,3,1.6,0.8,0.6666666666666666,0.3333333333333333,6
+2024,Sandefjord Fotball,KFUM,0,True,KFUM,Sandefjord Fotball,3,3,1.6,0.8,0.6666666666666666,0.3333333333333333,6
+2024,Kristiansund,Sarpsborg 08,2,False,Kristiansund,Sarpsborg 08,3,1,0.2,1.2,0.6666666666666666,2.0,4
+2024,Strømsgodset,Odd,0,True,Strømsgodset,Odd,1,1,1.2,0.8,1.3333333333333333,0.3333333333333333,2
+2024,Odd,Strømsgodset,0,True,Strømsgodset,Odd,1,1,1.2,0.8,1.3333333333333333,0.3333333333333333,2
+2024,Lillestrøm,Tromsø,1,False,Tromsø,Lillestrøm,1,2,2.0,0.6,3.0,1.0,3
+2024,Rosenborg,Fredrikstad,0,True,Rosenborg,Fredrikstad,1,1,0.8,2.0,1.0,2.0,2
+2024,Fredrikstad,Rosenborg,0,True,Rosenborg,Fredrikstad,1,1,0.8,2.0,1.0,2.0,2
+2024,Molde,Viking,0,True,Molde,Viking,2,2,1.4,2.4,1.3333333333333333,2.3333333333333335,4
+2024,Viking,Molde,0,True,Molde,Viking,2,2,1.4,2.4,1.3333333333333333,2.3333333333333335,4
+2024,Bodø/Glimt,Haugesund,1,False,Haugesund,Bodø/Glimt,0,1,1.4,1.6,2.0,2.0,1
+2024,Lillestrøm,KFUM,1,False,Lillestrøm,KFUM,2,1,1.2,1.2,0.3333333333333333,2.3333333333333335,3
+2024,HamKam,Sandefjord Fotball,1,False,Sandefjord Fotball,HamKam,1,2,0.4,1.4,2.0,1.3333333333333333,3
+2024,Molde,Tromsø,2,False,Tromsø,Molde,0,2,1.4,1.6,2.0,2.0,2
+2024,Odd,Kristiansund,0,True,Odd,Kristiansund,1,1,1.0,0.8,1.0,0.0,2
+2024,Kristiansund,Odd,0,True,Odd,Kristiansund,1,1,1.0,0.8,1.0,0.0,2
+2024,Brann,Strømsgodset,0,True,Brann,Strømsgodset,0,0,2.0,1.4,2.0,1.0,0
+2024,Strømsgodset,Brann,0,True,Brann,Strømsgodset,0,0,2.0,1.4,2.0,1.0,0
+2024,Bodø/Glimt,Sarpsborg 08,1,False,Sarpsborg 08,Bodø/Glimt,1,2,0.6,1.6,1.0,2.0,3
+2024,Viking,Rosenborg,2,False,Viking,Rosenborg,4,2,2.0,1.0,2.0,0.3333333333333333,6
+2024,Tromsø,Sandefjord Fotball,1,False,Sandefjord Fotball,Tromsø,1,2,0.4,1.4,1.0,0.3333333333333333,3
+2024,Rosenborg,Odd,1,False,Rosenborg,Odd,2,1,0.8,1.2,1.3333333333333333,0.6666666666666666,3
+2024,Viking,KFUM,1,False,KFUM,Viking,1,2,1.2,2.0,0.6666666666666666,2.3333333333333335,3
+2024,Sarpsborg 08,Haugesund,1,False,Haugesund,Sarpsborg 08,1,2,1.4,0.6,2.0,1.0,3
+2024,HamKam,Tromsø,0,True,HamKam,Tromsø,0,0,1.8,1.4,1.3333333333333333,1.3333333333333333,0
+2024,Tromsø,HamKam,0,True,HamKam,Tromsø,0,0,1.8,1.4,1.3333333333333333,1.3333333333333333,0
+2024,Bodø/Glimt,Brann,4,False,Bodø/Glimt,Brann,5,1,1.6,1.6,1.6666666666666667,2.3333333333333335,6
+2024,Molde,Lillestrøm,3,False,Molde,Lillestrøm,3,0,2.0,1.8,0.6666666666666666,2.0,3
+2024,Kristiansund,Fredrikstad,2,False,Kristiansund,Fredrikstad,3,1,1.0,1.6,1.3333333333333333,1.3333333333333333,4
+2024,Strømsgodset,Sandefjord Fotball,0,True,Strømsgodset,Sandefjord Fotball,1,1,1.6,0.4,1.3333333333333333,0.6666666666666666,2
+2024,Sandefjord Fotball,Strømsgodset,0,True,Strømsgodset,Sandefjord Fotball,1,1,1.6,0.4,1.3333333333333333,0.6666666666666666,2
+2024,Sarpsborg 08,Rosenborg,3,False,Sarpsborg 08,Rosenborg,4,1,1.2,1.4,0.0,0.3333333333333333,5
+2024,KFUM,Tromsø,1,False,Tromsø,KFUM,1,2,1.4,0.6,1.0,1.3333333333333333,3
+2024,Fredrikstad,Molde,0,True,Fredrikstad,Molde,0,0,1.0,2.0,2.3333333333333335,3.0,0
+2024,Molde,Fredrikstad,0,True,Fredrikstad,Molde,0,0,1.0,2.0,2.3333333333333335,3.0,0
+2024,Viking,Kristiansund,2,False,Viking,Kristiansund,2,0,2.6,1.4,2.0,0.3333333333333333,2
+2024,Lillestrøm,Strømsgodset,2,False,Lillestrøm,Strømsgodset,3,1,1.2,1.8,1.0,1.3333333333333333,4
+2024,HamKam,Odd,1,False,Odd,HamKam,1,2,1.2,1.4,1.3333333333333333,2.0,3
+2024,Sandefjord Fotball,Bodø/Glimt,1,False,Sandefjord Fotball,Bodø/Glimt,2,1,0.6,2.2,0.0,2.0,3
+2024,Brann,Haugesund,0,True,Brann,Haugesund,1,1,1.4,1.2,1.3333333333333333,0.3333333333333333,2
+2024,Haugesund,Brann,0,True,Brann,Haugesund,1,1,1.4,1.2,1.3333333333333333,0.3333333333333333,2
+2024,Bodø/Glimt,Odd,2,False,Bodø/Glimt,Odd,3,1,2.0,1.0,1.6666666666666667,0.6666666666666666,4
+2024,Sarpsborg 08,Brann,0,True,Sarpsborg 08,Brann,1,1,1.2,1.6,1.0,1.3333333333333333,2
+2024,Brann,Sarpsborg 08,0,True,Sarpsborg 08,Brann,1,1,1.2,1.6,1.0,1.3333333333333333,2
+2024,KFUM,Molde,1,False,Molde,KFUM,2,3,2.2,1.0,1.3333333333333333,1.3333333333333333,5
+2024,Tromsø,Strømsgodset,1,False,Strømsgodset,Tromsø,0,1,1.2,0.8,1.6666666666666667,1.6666666666666667,1
+2024,Fredrikstad,HamKam,1,False,HamKam,Fredrikstad,0,1,1.4,0.6,1.3333333333333333,0.3333333333333333,1
+2024,Haugesund,Viking,1,False,Haugesund,Viking,1,0,0.8,2.6,1.0,2.3333333333333335,1
+2024,KFUM,Bodø/Glimt,0,True,KFUM,Bodø/Glimt,1,1,1.4,2.4,0.6666666666666666,2.0,2
+2024,Bodø/Glimt,KFUM,0,True,KFUM,Bodø/Glimt,1,1,1.4,2.4,0.6666666666666666,2.0,2
+2024,Fredrikstad,Rosenborg,0,True,Fredrikstad,Rosenborg,2,2,1.0,1.4,1.6666666666666667,0.0,4
+2024,Rosenborg,Fredrikstad,0,True,Fredrikstad,Rosenborg,2,2,1.0,1.4,1.6666666666666667,0.0,4
+2024,Viking,Molde,1,False,Viking,Molde,1,0,2.0,1.6,3.0,2.3333333333333335,1
+2024,Tromsø,Kristiansund,0,True,Tromsø,Kristiansund,0,0,1.4,1.4,0.0,0.3333333333333333,0
+2024,Kristiansund,Tromsø,0,True,Tromsø,Kristiansund,0,0,1.4,1.4,0.0,0.3333333333333333,0
+2024,Odd,Strømsgodset,2,False,Odd,Strømsgodset,2,0,0.4,0.6,1.3333333333333333,1.3333333333333333,2
+2024,Lillestrøm,Sarpsborg 08,0,True,Lillestrøm,Sarpsborg 08,2,2,1.8,1.4,2.0,2.0,4
+2024,Sarpsborg 08,Lillestrøm,0,True,Lillestrøm,Sarpsborg 08,2,2,1.8,1.4,2.0,2.0,4
+2024,Sandefjord Fotball,Haugesund,1,False,Sandefjord Fotball,Haugesund,4,3,1.0,1.4,1.0,0.6666666666666666,7
+2024,Bodø/Glimt,Haugesund,2,False,Bodø/Glimt,Haugesund,4,2,2.0,0.8,2.3333333333333335,0.3333333333333333,6
+2024,Fredrikstad,KFUM,0,True,Fredrikstad,KFUM,0,0,1.2,1.4,1.0,2.0,0
+2024,KFUM,Fredrikstad,0,True,Fredrikstad,KFUM,0,0,1.2,1.4,1.0,2.0,0
+2024,HamKam,Viking,0,True,HamKam,Viking,3,3,1.4,2.4,0.3333333333333333,1.3333333333333333,6
+2024,Viking,HamKam,0,True,HamKam,Viking,3,3,1.4,2.4,0.3333333333333333,1.3333333333333333,6
+2024,Kristiansund,Lillestrøm,1,False,Kristiansund,Lillestrøm,2,1,1.6,2.0,2.3333333333333335,1.0,3
+2024,Sarpsborg 08,Sandefjord Fotball,1,False,Sarpsborg 08,Sandefjord Fotball,2,1,1.6,1.4,1.3333333333333333,1.0,3
+2024,Brann,Strømsgodset,1,False,Strømsgodset,Brann,2,3,0.4,1.2,0.6666666666666666,1.3333333333333333,5
+2024,Rosenborg,Tromsø,1,False,Rosenborg,Tromsø,1,0,1.0,1.6,2.3333333333333335,2.3333333333333335,1
+2024,Sandefjord Fotball,Strømsgodset,0,True,Sandefjord Fotball,Strømsgodset,2,2,1.4,0.2,2.0,0.3333333333333333,4
+2024,Strømsgodset,Sandefjord Fotball,0,True,Sandefjord Fotball,Strømsgodset,2,2,1.4,0.2,2.0,0.3333333333333333,4
+2024,Viking,Bodø/Glimt,0,True,Viking,Bodø/Glimt,1,1,2.0,2.0,3.0,1.3333333333333333,2
+2024,Bodø/Glimt,Viking,0,True,Viking,Bodø/Glimt,1,1,2.0,2.0,3.0,1.3333333333333333,2
+2024,HamKam,Haugesund,1,False,Haugesund,HamKam,0,1,0.8,1.6,1.0,2.0,1
+2024,Odd,Sarpsborg 08,0,True,Odd,Sarpsborg 08,1,1,0.8,2.2,1.3333333333333333,1.3333333333333333,2
+2024,Sarpsborg 08,Odd,0,True,Odd,Sarpsborg 08,1,1,0.8,2.2,1.3333333333333333,1.3333333333333333,2
+2024,Molde,Lillestrøm,1,False,Lillestrøm,Molde,1,2,1.4,1.4,2.3333333333333335,1.3333333333333333,3
+2024,KFUM,Rosenborg,1,False,KFUM,Rosenborg,1,0,1.6,1.4,0.6666666666666666,0.3333333333333333,1
+2024,Fredrikstad,Haugesund,1,False,Fredrikstad,Haugesund,1,0,1.2,0.8,1.0,0.3333333333333333,1
+2024,Strømsgodset,Lillestrøm,1,False,Strømsgodset,Lillestrøm,3,2,0.2,0.8,0.3333333333333333,1.0,5
+2024,Rosenborg,Viking,1,False,Rosenborg,Viking,2,1,1.4,1.6,2.3333333333333335,1.3333333333333333,3
+2024,Brann,Fredrikstad,4,False,Fredrikstad,Brann,0,4,1.8,1.2,1.6666666666666667,1.3333333333333333,4
+2024,HamKam,Odd,1,False,HamKam,Odd,1,0,1.6,0.8,0.6666666666666666,0.3333333333333333,1
+2024,Tromsø,KFUM,1,False,KFUM,Tromsø,0,1,2.2,1.0,1.3333333333333333,1.3333333333333333,1
+2024,Sarpsborg 08,Haugesund,0,True,Sarpsborg 08,Haugesund,2,2,1.8,0.6,2.3333333333333335,0.0,4
+2024,Haugesund,Sarpsborg 08,0,True,Sarpsborg 08,Haugesund,2,2,1.8,0.6,2.3333333333333335,0.0,4
+2024,Rosenborg,Lillestrøm,4,False,Rosenborg,Lillestrøm,4,0,1.4,0.8,3.0,0.0,4
+2024,Bodø/Glimt,Sarpsborg 08,6,False,Bodø/Glimt,Sarpsborg 08,6,0,1.6,1.4,3.0,1.6666666666666667,6
+2024,Tromsø,Lillestrøm,1,False,Lillestrøm,Tromsø,0,1,0.2,1.4,1.3333333333333333,2.0,1
+2024,Haugesund,Fredrikstad,1,False,Haugesund,Fredrikstad,1,0,0.2,1.6,1.0,1.3333333333333333,1
+2024,Molde,HamKam,3,False,Molde,HamKam,3,0,1.4,2.0,1.3333333333333333,3.0,3
+2024,Sandefjord Fotball,Kristiansund,1,False,Sandefjord Fotball,Kristiansund,1,0,1.6,1.6,2.3333333333333335,0.6666666666666666,1
+2024,Viking,Strømsgodset,3,False,Viking,Strømsgodset,5,2,1.0,0.8,2.3333333333333335,0.3333333333333333,7
+2024,Rosenborg,Odd,2,False,Odd,Rosenborg,1,3,0.8,2.0,1.3333333333333333,0.3333333333333333,4
+2024,KFUM,Lillestrøm,2,False,KFUM,Lillestrøm,2,0,1.6,0.0,1.3333333333333333,0.0,2
+2024,Fredrikstad,Odd,2,False,Fredrikstad,Odd,2,0,1.0,0.8,1.3333333333333333,0.0,2
+2024,Bodø/Glimt,Strømsgodset,1,False,Strømsgodset,Bodø/Glimt,0,1,0.8,2.2,1.0,0.6666666666666666,1
+2024,Rosenborg,Molde,1,False,Rosenborg,Molde,2,1,2.4,1.4,3.0,1.3333333333333333,3
+2024,Sarpsborg 08,Brann,2,False,Brann,Sarpsborg 08,1,3,1.6,1.2,1.6666666666666667,0.6666666666666666,4
+2024,Kristiansund,Haugesund,0,True,Kristiansund,Haugesund,2,2,1.4,0.8,3.0,0.3333333333333333,4
+2024,Haugesund,Kristiansund,0,True,Kristiansund,Haugesund,2,2,1.4,0.8,3.0,0.3333333333333333,4
+2024,Tromsø,Viking,0,True,Tromsø,Viking,2,2,2.0,1.6,0.3333333333333333,0.3333333333333333,4
+2024,Viking,Tromsø,0,True,Tromsø,Viking,2,2,2.0,1.6,0.3333333333333333,0.3333333333333333,4
+2024,HamKam,Sandefjord Fotball,0,True,HamKam,Sandefjord Fotball,1,1,1.4,2.0,1.3333333333333333,0.6666666666666666,2
+2024,Sandefjord Fotball,HamKam,0,True,HamKam,Sandefjord Fotball,1,1,1.4,2.0,1.3333333333333333,0.6666666666666666,2
+2024,Bodø/Glimt,HamKam,3,False,Bodø/Glimt,HamKam,3,0,2.2,1.6,3.0,2.0,3
+2024,Viking,KFUM,1,False,Viking,KFUM,1,0,1.2,1.6,2.3333333333333335,2.3333333333333335,1
+2024,Molde,Fredrikstad,5,False,Molde,Fredrikstad,6,1,1.2,1.4,2.0,1.0,7
+2024,Odd,Tromsø,1,False,Odd,Tromsø,1,0,0.8,1.6,1.3333333333333333,2.0,1
+2024,Haugesund,Strømsgodset,0,True,Haugesund,Strømsgodset,0,0,1.0,0.8,2.0,0.3333333333333333,0
+2024,Strømsgodset,Haugesund,0,True,Haugesund,Strømsgodset,0,0,1.0,0.8,2.0,0.3333333333333333,0
+2024,Sandefjord Fotball,Brann,0,True,Sandefjord Fotball,Brann,2,2,1.6,1.6,2.3333333333333335,2.3333333333333335,4
+2024,Brann,Sandefjord Fotball,0,True,Sandefjord Fotball,Brann,2,2,1.6,1.6,2.3333333333333335,2.3333333333333335,4
+2024,Kristiansund,Sarpsborg 08,2,False,Sarpsborg 08,Kristiansund,0,2,1.6,1.0,1.6666666666666667,0.3333333333333333,2
+2024,Lillestrøm,Rosenborg,0,True,Lillestrøm,Rosenborg,1,1,0.0,2.4,0.3333333333333333,1.3333333333333333,2
+2024,Rosenborg,Lillestrøm,0,True,Lillestrøm,Rosenborg,1,1,0.0,2.4,0.3333333333333333,1.3333333333333333,2
+2024,Brann,KFUM,2,False,Brann,KFUM,2,0,1.6,1.4,0.6666666666666666,1.3333333333333333,2
+2024,Molde,Kristiansund,4,False,Kristiansund,Molde,0,4,1.6,1.8,2.3333333333333335,1.0,4
+2024,Strømsgodset,Sarpsborg 08,1,False,Strømsgodset,Sarpsborg 08,2,1,1.0,1.0,1.0,1.3333333333333333,3
+2024,HamKam,Lillestrøm,5,False,HamKam,Lillestrøm,5,0,1.4,0.2,1.6666666666666667,0.0,5
+2024,Brann,Bodø/Glimt,3,False,Brann,Bodø/Glimt,4,1,2.0,2.6,1.3333333333333333,1.6666666666666667,5
+2024,Kristiansund,Odd,0,True,Kristiansund,Odd,0,0,1.4,0.8,1.3333333333333333,0.0,0
+2024,Odd,Kristiansund,0,True,Kristiansund,Odd,0,0,1.4,0.8,1.3333333333333333,0.0,0
+2024,Rosenborg,Haugesund,4,False,Rosenborg,Haugesund,4,0,2.6,1.2,3.0,0.6666666666666666,4
+2024,Tromsø,Sandefjord Fotball,3,False,Tromsø,Sandefjord Fotball,3,0,1.4,1.2,0.6666666666666666,0.6666666666666666,3
+2024,Fredrikstad,Viking,1,False,Fredrikstad,Viking,3,2,1.2,1.6,2.0,0.6666666666666666,5
+2024,KFUM,Molde,0,True,KFUM,Molde,1,1,1.2,2.4,2.0,2.0,2
+2024,Molde,KFUM,0,True,KFUM,Molde,1,1,1.2,2.4,2.0,2.0,2
+2024,Molde,Tromsø,2,False,Molde,Tromsø,5,3,2.0,2.0,2.0,2.0,8
+2024,Brann,Haugesund,1,False,Haugesund,Brann,0,1,1.2,2.0,1.3333333333333333,2.3333333333333335,1
+2024,Fredrikstad,Sarpsborg 08,1,False,Sarpsborg 08,Fredrikstad,0,1,0.8,1.2,1.3333333333333333,1.0,1
+2024,Rosenborg,Sandefjord Fotball,1,False,Sandefjord Fotball,Rosenborg,0,1,1.2,2.6,1.6666666666666667,1.3333333333333333,1
+2024,Strømsgodset,HamKam,0,True,Strømsgodset,HamKam,1,1,1.4,1.4,2.0,1.0,2
+2024,HamKam,Strømsgodset,0,True,Strømsgodset,HamKam,1,1,1.4,1.4,2.0,1.0,2
+2024,Bodø/Glimt,Kristiansund,4,False,Bodø/Glimt,Kristiansund,4,0,2.0,1.0,3.0,1.3333333333333333,4
+2024,Viking,Lillestrøm,3,False,Lillestrøm,Viking,1,4,0.2,1.4,0.3333333333333333,0.3333333333333333,5
+2024,KFUM,Odd,2,False,Odd,KFUM,1,3,0.8,0.8,1.3333333333333333,0.3333333333333333,4
+2024,Kristiansund,Sandefjord Fotball,1,False,Kristiansund,Sandefjord Fotball,2,1,1.0,1.0,0.6666666666666666,0.3333333333333333,3
+2024,Sandefjord Fotball,Molde,1,False,Molde,Sandefjord Fotball,0,1,2.0,0.4,3.0,0.3333333333333333,1
+2024,Tromsø,Bodø/Glimt,0,True,Tromsø,Bodø/Glimt,0,0,1.4,2.4,1.6666666666666667,1.3333333333333333,0
+2024,Bodø/Glimt,Tromsø,0,True,Tromsø,Bodø/Glimt,0,0,1.4,2.4,1.6666666666666667,1.3333333333333333,0
+2024,Brann,Rosenborg,1,False,Rosenborg,Brann,1,2,2.6,2.0,3.0,2.3333333333333335,3
+2024,Sarpsborg 08,HamKam,2,False,HamKam,Sarpsborg 08,0,2,1.0,0.6,2.3333333333333335,1.0,2
+2024,KFUM,Haugesund,0,True,KFUM,Haugesund,0,0,1.4,1.0,1.3333333333333333,0.6666666666666666,0
+2024,Haugesund,KFUM,0,True,KFUM,Haugesund,0,0,1.4,1.0,1.3333333333333333,0.6666666666666666,0
+2024,Kristiansund,Strømsgodset,0,True,Kristiansund,Strømsgodset,0,0,1.4,1.0,1.3333333333333333,0.6666666666666666,0
+2024,Strømsgodset,Kristiansund,0,True,Kristiansund,Strømsgodset,0,0,1.4,1.0,1.3333333333333333,0.6666666666666666,0
+2024,Viking,Odd,0,True,Viking,Odd,3,3,2.0,0.8,2.3333333333333335,0.3333333333333333,6
+2024,Odd,Viking,0,True,Viking,Odd,3,3,2.0,0.8,2.3333333333333335,0.3333333333333333,6
+2024,Fredrikstad,Lillestrøm,1,False,Fredrikstad,Lillestrøm,2,1,1.8,0.2,2.0,0.0,3
+2024,Strømsgodset,Fredrikstad,2,False,Strømsgodset,Fredrikstad,2,0,1.2,2.4,1.3333333333333333,1.0,2
+2024,Brann,Tromsø,4,False,Brann,Tromsø,4,0,2.6,1.0,2.0,1.0,4
+2024,Viking,Sarpsborg 08,1,False,Sarpsborg 08,Viking,1,2,1.2,1.6,0.3333333333333333,1.3333333333333333,3
+2024,Sandefjord Fotball,KFUM,1,False,Sandefjord Fotball,KFUM,2,1,0.8,1.0,1.3333333333333333,1.0,3
+2024,HamKam,Kristiansund,1,False,HamKam,Kristiansund,1,0,1.0,1.0,1.3333333333333333,1.0,1
+2024,Molde,Haugesund,3,False,Haugesund,Molde,0,3,0.6,2.0,1.3333333333333333,1.3333333333333333,3
+2024,Lillestrøm,Odd,3,False,Lillestrøm,Odd,3,0,0.2,1.0,0.3333333333333333,0.6666666666666666,3
+2024,Rosenborg,Bodø/Glimt,1,False,Bodø/Glimt,Rosenborg,2,3,2.0,2.0,3.0,2.3333333333333335,5
+2024,Viking,Sandefjord Fotball,1,False,Viking,Sandefjord Fotball,3,2,2.0,1.2,2.3333333333333335,1.0,5
+2024,Brann,Odd,3,False,Odd,Brann,0,3,1.0,3.0,1.0,2.3333333333333335,3
+2024,Tromsø,HamKam,0,True,Tromsø,HamKam,3,3,0.8,1.4,1.6666666666666667,0.3333333333333333,6
+2024,HamKam,Tromsø,0,True,Tromsø,HamKam,3,3,0.8,1.4,1.6666666666666667,0.3333333333333333,6
+2024,Molde,Bodø/Glimt,0,True,Molde,Bodø/Glimt,3,3,2.0,1.4,2.0,1.3333333333333333,6
+2024,Bodø/Glimt,Molde,0,True,Molde,Bodø/Glimt,3,3,2.0,1.4,2.0,1.3333333333333333,6
+2024,Rosenborg,Strømsgodset,1,False,Rosenborg,Strømsgodset,1,0,2.0,1.8,2.0,0.6666666666666666,1
+2024,Sarpsborg 08,KFUM,1,False,KFUM,Sarpsborg 08,1,2,1.0,0.6,1.6666666666666667,2.0,3
+2024,Fredrikstad,Kristiansund,0,True,Fredrikstad,Kristiansund,1,1,1.8,1.0,3.0,1.0,2
+2024,Kristiansund,Fredrikstad,0,True,Fredrikstad,Kristiansund,1,1,1.8,1.0,3.0,1.0,2
+2024,Haugesund,Lillestrøm,1,False,Lillestrøm,Haugesund,0,1,0.8,0.4,1.3333333333333333,0.6666666666666666,1
+2024,Brann,Lillestrøm,1,False,Brann,Lillestrøm,2,1,3.0,0.6,3.0,0.0,3
+2024,Rosenborg,HamKam,2,False,HamKam,Rosenborg,0,2,1.6,2.4,2.0,2.3333333333333335,2
+2024,Haugesund,Tromsø,2,False,Haugesund,Tromsø,2,0,0.8,1.0,0.3333333333333333,0.0,2
+2024,Viking,Kristiansund,1,False,Kristiansund,Viking,0,1,1.0,2.0,1.6666666666666667,2.0,1
+2024,Sandefjord Fotball,Odd,1,False,Sandefjord Fotball,Odd,1,0,1.2,0.4,1.3333333333333333,0.6666666666666666,1
+2024,Sarpsborg 08,Molde,0,True,Sarpsborg 08,Molde,2,2,1.2,1.6,0.0,2.3333333333333335,4
+2024,Molde,Sarpsborg 08,0,True,Sarpsborg 08,Molde,2,2,1.2,1.6,0.0,2.3333333333333335,4
+2024,Strømsgodset,KFUM,1,False,Strømsgodset,KFUM,1,0,1.6,1.0,2.3333333333333335,1.0,1
+2024,Bodø/Glimt,Fredrikstad,0,True,Bodø/Glimt,Fredrikstad,2,2,1.0,2.0,2.0,1.0,4
+2024,Fredrikstad,Bodø/Glimt,0,True,Bodø/Glimt,Fredrikstad,2,2,1.0,2.0,2.0,1.0,4
+2024,Viking,Haugesund,4,False,Viking,Haugesund,5,1,2.6,1.4,2.3333333333333335,1.3333333333333333,6
+2024,Tromsø,Strømsgodset,2,False,Tromsø,Strømsgodset,2,0,0.4,1.6,1.6666666666666667,0.6666666666666666,2
+2024,Rosenborg,Sarpsborg 08,0,True,Rosenborg,Sarpsborg 08,1,1,2.4,1.4,2.0,2.0,2
+2024,Sarpsborg 08,Rosenborg,0,True,Rosenborg,Sarpsborg 08,1,1,2.4,1.4,2.0,2.0,2
+2024,Bodø/Glimt,Odd,2,False,Odd,Bodø/Glimt,0,2,0.2,1.2,1.0,0.6666666666666666,2
+2024,Sandefjord Fotball,Lillestrøm,3,False,Lillestrøm,Sandefjord Fotball,0,3,0.6,1.8,1.0,1.0,3
+2024,Kristiansund,KFUM,1,False,KFUM,Kristiansund,1,2,0.8,1.0,0.6666666666666666,0.3333333333333333,3
+2024,Fredrikstad,HamKam,1,False,Fredrikstad,HamKam,1,0,1.6,1.0,2.3333333333333335,0.6666666666666666,1
+2024,Molde,Brann,1,False,Molde,Brann,2,1,1.6,3.0,1.3333333333333333,3.0,3
+2024,Sarpsborg 08,Tromsø,1,False,Sarpsborg 08,Tromsø,2,1,1.6,1.0,0.3333333333333333,0.0,3
+2024,Bodø/Glimt,Lillestrøm,3,False,Bodø/Glimt,Lillestrøm,5,2,1.2,0.6,1.3333333333333333,0.0,7
+2024,Brann,Viking,0,True,Brann,Viking,1,1,2.4,2.6,3.0,3.0,2
+2024,Viking,Brann,0,True,Brann,Viking,1,1,2.4,2.6,3.0,3.0,2
+2024,KFUM,HamKam,2,False,HamKam,KFUM,0,2,0.8,0.2,1.0,1.0,2
+2024,Haugesund,Odd,1,False,Haugesund,Odd,2,1,1.4,0.2,1.0,0.3333333333333333,3
+2024,Rosenborg,Kristiansund,4,False,Kristiansund,Rosenborg,0,4,1.0,2.0,1.3333333333333333,3.0,4
+2024,Fredrikstad,Sandefjord Fotball,1,False,Sandefjord Fotball,Fredrikstad,0,1,2.4,1.6,2.0,1.3333333333333333,1
+2024,Strømsgodset,Molde,1,False,Strømsgodset,Molde,1,0,1.4,1.6,2.3333333333333335,1.6666666666666667,1

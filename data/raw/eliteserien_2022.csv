@@ -1,0 +1,241 @@
+Runde,Dato,Dag,Tid,Hjemmelag,Resultat,Bortelag,Bane
+1,02.04.2022,lørdag,16,HamKam,2 - 2,Lillestrøm,Briskeby
+1,02.04.2022,lørdag,18,Molde,1 - 0,Vålerenga,Aker stadion
+1,03.04.2022,søndag,18,Aalesund,1 - 0,Kristiansund,Color Line Stadion
+1,03.04.2022,søndag,18,Haugesund,1 - 3,Sandefjord Fotball,Haugesund Sparebank Arena
+1,03.04.2022,søndag,18,Jerv,1 - 0,Strømsgodset,Levermyr stadion
+1,03.04.2022,søndag,18,Sarpsborg 08,0 - 1,Viking,Sarpsborg st KG
+1,03.04.2022,søndag,18,Odd,2 - 0,Tromsø,Skagerak Arena
+1,03.04.2022,søndag,20,Bodø/Glimt,2 - 2,Rosenborg,Aspmyra stadion
+2,09.04.2022,lørdag,16,Lillestrøm,4 - 0,Jerv,Åråsen stadion
+2,10.04.2022,søndag,18,Vålerenga,2 - 1,Haugesund,Intility Arena
+2,10.04.2022,søndag,18,Tromsø,2 - 1,HamKam,Romssa Arena
+2,10.04.2022,søndag,18,Sandefjord Fotball,1 - 2,Bodø/Glimt,Jotun Arena
+2,10.04.2022,søndag,18,Rosenborg,1 - 0,Odd,Lerkendal stadion
+2,10.04.2022,søndag,18,Strømsgodset,1 - 3,Molde,Marienlyst stadion
+2,10.04.2022,søndag,18,Kristiansund,2 - 3,Sarpsborg 08,Nordmøre stadion
+2,10.04.2022,søndag,20,Viking,1 - 0,Aalesund,Lyse Arena
+3,18.04.2022,mandag,18,Aalesund,2 - 2,Tromsø,Color Line Stadion
+3,18.04.2022,mandag,18,HamKam,3 - 0,Sandefjord Fotball,Briskeby
+3,18.04.2022,mandag,18,Haugesund,0 - 1,Strømsgodset,Haugesund Sparebank Arena
+3,18.04.2022,mandag,18,Jerv,1 - 0,Kristiansund,Levermyr stadion
+3,18.04.2022,mandag,18,Molde,1 - 2,Lillestrøm,Aker stadion
+3,18.04.2022,mandag,18,Sarpsborg 08,1 - 1,Rosenborg,Sarpsborg st KG
+3,18.04.2022,mandag,18,Odd,2 - 1,Viking,Skagerak Arena
+3,18.04.2022,mandag,20,Bodø/Glimt,5 - 1,Vålerenga,Aspmyra stadion
+4,23.04.2022,lørdag,16,Odd,2 - 3,Aalesund,Skagerak Arena
+4,23.04.2022,lørdag,18,Strømsgodset,0 - 5,Sandefjord Fotball,Marienlyst stadion
+4,24.04.2022,søndag,18,Kristiansund,2 - 2,HamKam,Nordmøre stadion
+4,24.04.2022,søndag,18,Lillestrøm,1 - 0,Haugesund,Åråsen stadion
+4,24.04.2022,søndag,18,Tromsø,2 - 5,Sarpsborg 08,Romssa Arena
+4,24.04.2022,søndag,18,Viking,2 - 0,Bodø/Glimt,Lyse Arena
+4,24.04.2022,søndag,18,Vålerenga,1 - 0,Jerv,Intility Arena
+4,24.04.2022,søndag,20,Rosenborg,0 - 0,Molde,Lerkendal stadion
+5,07.05.2022,lørdag,16,Sarpsborg 08,1 - 0,Odd,Sarpsborg st KG
+5,07.05.2022,lørdag,18,Molde,3 - 4,Viking,Aker stadion
+5,08.05.2022,søndag,18,Bodø/Glimt,1 - 1,Lillestrøm,Aspmyra stadion
+5,08.05.2022,søndag,18,Haugesund,2 - 0,Kristiansund,Haugesund Sparebank Arena
+5,08.05.2022,søndag,18,Jerv,1 - 1,Tromsø,Levermyr stadion
+5,08.05.2022,søndag,18,Strømsgodset,3 - 0,Rosenborg,Marienlyst stadion
+5,08.05.2022,søndag,18,Sandefjord Fotball,1 - 3,Vålerenga,Jotun Arena
+5,08.05.2022,søndag,20,HamKam,0 - 0,Aalesund,Briskeby
+6,16.05.2022,mandag,18,Aalesund,0 - 2,Molde,Color Line Stadion
+6,16.05.2022,mandag,18,Bodø/Glimt,1 - 1,Tromsø,Aspmyra stadion
+6,16.05.2022,mandag,18,Kristiansund,0 - 3,Strømsgodset,Nordmøre stadion
+6,16.05.2022,mandag,18,Lillestrøm,1 - 0,Sarpsborg 08,Åråsen stadion
+6,16.05.2022,mandag,18,Rosenborg,3 - 0,Sandefjord Fotball,Lerkendal stadion
+6,16.05.2022,mandag,18,Odd,0 - 4,Haugesund,Skagerak Arena
+6,16.05.2022,mandag,18,Viking,3 - 0,Jerv,Lyse Arena
+6,16.05.2022,mandag,20,Vålerenga,1 - 1,HamKam,Intility Arena
+7,21.05.2022,lørdag,16,Sandefjord Fotball,1 - 4,Lillestrøm,Jotun Arena
+7,21.05.2022,lørdag,18,Molde,2 - 1,Kristiansund,Aker stadion
+7,22.05.2022,søndag,18,Haugesund,1 - 4,Bodø/Glimt,Haugesund Sparebank Arena
+7,22.05.2022,søndag,18,Jerv,0 - 1,Odd,Levermyr stadion
+7,22.05.2022,søndag,18,Strømsgodset,3 - 2,Vålerenga,Marienlyst stadion
+7,22.05.2022,søndag,18,Sarpsborg 08,1 - 2,Aalesund,Sarpsborg st KG
+7,22.05.2022,søndag,18,Tromsø,1 - 1,Viking,Romssa Arena
+7,22.05.2022,søndag,20,HamKam,1 - 1,Rosenborg,Briskeby
+8,25.05.2022,onsdag,18,Aalesund,2 - 1,Jerv,Color Line Stadion
+8,25.05.2022,onsdag,18,Bodø/Glimt,2 - 2,Strømsgodset,Aspmyra stadion
+8,25.05.2022,onsdag,18,Odd,0 - 1,Sandefjord Fotball,Skagerak Arena
+8,25.05.2022,onsdag,18,Viking,1 - 1,HamKam,Lyse Arena
+8,25.05.2022,onsdag,20,Lillestrøm,2 - 0,Vålerenga,Åråsen stadion
+8,26.05.2022,torsdag,18,Rosenborg,3 - 3,Haugesund,Lerkendal stadion
+8,26.05.2022,torsdag,20,Sarpsborg 08,1 - 2,Molde,Sarpsborg st KG
+8,03.08.2022,onsdag,18,Kristiansund,1 - 1,Tromsø,Nordmøre stadion
+9,28.05.2022,lørdag,16,HamKam,1 - 2,Odd,Briskeby
+9,28.05.2022,lørdag,18,Strømsgodset,3 - 2,Viking,Marienlyst stadion
+9,29.05.2022,søndag,18,Haugesund,2 - 2,Aalesund,Haugesund Sparebank Arena
+9,29.05.2022,søndag,18,Jerv,0 - 5,Sarpsborg 08,Levermyr stadion
+9,29.05.2022,søndag,18,Molde,3 - 1,Bodø/Glimt,Aker stadion
+9,29.05.2022,søndag,18,Tromsø,2 - 2,Lillestrøm,Romssa Arena
+9,29.05.2022,søndag,20,Vålerenga,0 - 4,Rosenborg,Intility Arena
+9,27.07.2022,onsdag,19,Sandefjord Fotball,2 - 0,Kristiansund,Jotun Arena
+10,18.06.2022,lørdag,16,Sarpsborg 08,5 - 1,Strømsgodset,Sarpsborg st KG
+10,18.06.2022,lørdag,18,Kristiansund,0 - 2,Bodø/Glimt,Nordmøre stadion
+10,19.06.2022,søndag,18,Jerv,1 - 2,HamKam,Levermyr stadion
+10,19.06.2022,søndag,18,Lillestrøm,3 - 1,Rosenborg,Åråsen stadion
+10,19.06.2022,søndag,18,Odd,1 - 2,Molde,Skagerak Arena
+10,19.06.2022,søndag,18,Tromsø,1 - 1,Haugesund,Romssa Arena
+10,19.06.2022,søndag,18,Viking,1 - 2,Sandefjord Fotball,Lyse Arena
+10,19.06.2022,søndag,20,Aalesund,2 - 2,Vålerenga,Color Line Stadion
+11,25.06.2022,lørdag,16,Haugesund,4 - 2,Viking,Haugesund Sparebank Arena
+11,25.06.2022,lørdag,18,Rosenborg,3 - 1,Kristiansund,Lerkendal stadion
+11,26.06.2022,søndag,18,Bodø/Glimt,2 - 0,Aalesund,Aspmyra stadion
+11,26.06.2022,søndag,18,HamKam,3 - 2,Sarpsborg 08,Briskeby
+11,26.06.2022,søndag,18,Strømsgodset,3 - 0,Lillestrøm,Marienlyst stadion
+11,26.06.2022,søndag,18,Sandefjord Fotball,2 - 2,Tromsø,Jotun Arena
+11,26.06.2022,søndag,20,Vålerenga,0 - 1,Odd,Intility Arena
+11,06.07.2022,onsdag,19,Molde,1 - 1,Jerv,Aker stadion
+12,12.05.2022,torsdag,19,Tromsø,1 - 0,Vålerenga,Romssa Arena
+12,02.07.2022,lørdag,16,Jerv,1 - 0,Haugesund,Levermyr stadion
+12,02.07.2022,lørdag,18,Odd,3 - 2,Bodø/Glimt,Skagerak Arena
+12,03.07.2022,søndag,18,Aalesund,1 - 0,Strømsgodset,Color Line Stadion
+12,03.07.2022,søndag,18,HamKam,0 - 0,Molde,Briskeby
+12,03.07.2022,søndag,18,Kristiansund,1 - 3,Lillestrøm,Nordmøre stadion
+12,03.07.2022,søndag,18,Sarpsborg 08,4 - 3,Sandefjord Fotball,Sarpsborg st KG
+12,03.07.2022,søndag,20,Viking,1 - 1,Rosenborg,Lyse Arena
+13,09.07.2022,lørdag,16,Bodø/Glimt,4 - 1,Sarpsborg 08,Aspmyra stadion
+13,09.07.2022,lørdag,18,Strømsgodset,0 - 0,Odd,Marienlyst stadion
+13,10.07.2022,søndag,18,Lillestrøm,0 - 1,Viking,Åråsen stadion
+13,10.07.2022,søndag,18,Molde,5 - 1,Tromsø,Aker stadion
+13,10.07.2022,søndag,18,Rosenborg,3 - 2,Jerv,Lerkendal stadion
+13,10.07.2022,søndag,18,Vålerenga,3 - 0,Kristiansund,Intility Arena
+13,10.07.2022,søndag,20,Haugesund,1 - 1,HamKam,Haugesund Sparebank Arena
+13,12.07.2022,tirsdag,20,Sandefjord Fotball,2 - 2,Aalesund,Jotun Arena
+14,16.07.2022,lørdag,16,Jerv,1 - 2,Sandefjord Fotball,Levermyr stadion
+14,16.07.2022,lørdag,18,HamKam,0 - 2,Bodø/Glimt,Briskeby
+14,17.07.2022,søndag,18,Molde,1 - 0,Haugesund,Aker stadion
+14,17.07.2022,søndag,18,Sarpsborg 08,0 - 1,Vålerenga,Sarpsborg st KG
+14,17.07.2022,søndag,18,Odd,1 - 2,Lillestrøm,Skagerak Arena
+14,17.07.2022,søndag,18,Viking,2 - 1,Kristiansund,Lyse Arena
+14,17.07.2022,søndag,20,Aalesund,0 - 0,Rosenborg,Color Line Stadion
+14,31.08.2022,onsdag,19,Tromsø,1 - 0,Strømsgodset,Romssa Arena
+15,28.04.2022,torsdag,20,Lillestrøm,2 - 0,Aalesund,Åråsen stadion
+15,23.07.2022,lørdag,16,Bodø/Glimt,5 - 0,Jerv,Aspmyra stadion
+15,23.07.2022,lørdag,18,Rosenborg,3 - 0,Tromsø,Lerkendal stadion
+15,24.07.2022,søndag,18,Haugesund,3 - 1,Sarpsborg 08,Haugesund Sparebank Arena
+15,24.07.2022,søndag,18,Kristiansund,2 - 2,Odd,Nordmøre stadion
+15,24.07.2022,søndag,18,Sandefjord Fotball,2 - 3,Molde,Jotun Arena
+15,24.07.2022,søndag,18,Vålerenga,4 - 2,Viking,Intility Arena
+15,24.07.2022,søndag,20,Strømsgodset,1 - 1,HamKam,Marienlyst stadion
+16,30.04.2022,lørdag,18,Viking,5 - 1,Haugesund,Lyse Arena
+16,30.07.2022,lørdag,16,Aalesund,1 - 2,Bodø/Glimt,Color Line Stadion
+16,30.07.2022,lørdag,18,HamKam,0 - 1,Kristiansund,Briskeby
+16,30.07.2022,lørdag,18,Odd,2 - 3,Rosenborg,Skagerak Arena
+16,30.07.2022,lørdag,18,Tromsø,3 - 0,Sandefjord Fotball,Romssa Arena
+16,30.07.2022,lørdag,20,Jerv,2 - 5,Vålerenga,Levermyr stadion
+16,31.07.2022,søndag,15.3,Molde,3 - 0,Strømsgodset,Aker stadion
+16,31.07.2022,søndag,15.3,Sarpsborg 08,0 - 2,Lillestrøm,Sarpsborg st KG
+17,06.08.2022,lørdag,16,Bodø/Glimt,7 - 0,Odd,Aspmyra stadion
+17,06.08.2022,lørdag,18,Rosenborg,2 - 1,HamKam,Lerkendal stadion
+17,07.08.2022,søndag,18,Haugesund,3 - 1,Jerv,Haugesund Sparebank Arena
+17,07.08.2022,søndag,18,Kristiansund,2 - 3,Molde,Nordmøre stadion
+17,07.08.2022,søndag,18,Lillestrøm,1 - 1,Tromsø,Åråsen stadion
+17,07.08.2022,søndag,18,Strømsgodset,3 - 1,Sarpsborg 08,Marienlyst stadion
+17,07.08.2022,søndag,18,Sandefjord Fotball,2 - 2,Viking,Jotun Arena
+17,07.08.2022,søndag,20,Vålerenga,4 - 0,Aalesund,Intility Arena
+18,11.05.2022,onsdag,19,Molde,3 - 0,Odd,Aker stadion
+18,12.05.2022,torsdag,19,Viking,0 - 0,Strømsgodset,Lyse Arena
+18,12.08.2022,fredag,19,Sandefjord Fotball,2 - 5,Rosenborg,Jotun Arena
+18,12.08.2022,fredag,19,Sarpsborg 08,1 - 4,Bodø/Glimt,Sarpsborg st KG
+18,13.08.2022,lørdag,16,Aalesund,1 - 2,Haugesund,Color Line Stadion
+18,14.08.2022,søndag,18,Jerv,1 - 0,Lillestrøm,Levermyr stadion
+18,14.08.2022,søndag,18,Tromsø,2 - 1,Kristiansund,Romssa Arena
+18,14.08.2022,søndag,20,HamKam,1 - 1,Vålerenga,Briskeby
+19,20.08.2022,lørdag,18,Bodø/Glimt,2 - 2,HamKam,Aspmyra stadion
+19,20.08.2022,lørdag,18,Odd,1 - 0,Sarpsborg 08,Skagerak Arena
+19,21.08.2022,søndag,18,Haugesund,0 - 1,Molde,Haugesund Sparebank Arena
+19,21.08.2022,søndag,18,Lillestrøm,3 - 0,Sandefjord Fotball,Åråsen stadion
+19,21.08.2022,søndag,18,Strømsgodset,6 - 0,Jerv,Marienlyst stadion
+19,21.08.2022,søndag,18,Vålerenga,1 - 0,Tromsø,Intility Arena
+19,21.08.2022,søndag,20,Rosenborg,2 - 1,Aalesund,Lerkendal stadion
+19,31.08.2022,onsdag,19,Kristiansund,2 - 1,Viking,Nordmøre stadion
+20,27.08.2022,lørdag,18,Jerv,0 - 2,Bodø/Glimt,Levermyr stadion
+20,27.08.2022,lørdag,18,Sandefjord Fotball,2 - 2,Strømsgodset,Jotun Arena
+20,28.08.2022,søndag,18,Aalesund,1 - 1,Odd,Color Line Stadion
+20,28.08.2022,søndag,18,HamKam,1 - 0,Haugesund,Briskeby
+20,28.08.2022,søndag,18,Lillestrøm,1 - 1,Kristiansund,Åråsen stadion
+20,28.08.2022,søndag,18,Molde,4 - 1,Sarpsborg 08,Aker stadion
+20,28.08.2022,søndag,18,Viking,1 - 2,Vålerenga,Lyse Arena
+20,28.08.2022,søndag,20,Tromsø,4 - 3,Rosenborg,Romssa Arena
+21,03.09.2022,lørdag,18,Bodø/Glimt,1 - 4,Molde,Aspmyra stadion
+21,04.09.2022,søndag,18,Haugesund,2 - 1,Tromsø,Haugesund Sparebank Arena
+21,04.09.2022,søndag,18,Kristiansund,3 - 1,Sandefjord Fotball,Nordmøre stadion
+21,04.09.2022,søndag,18,Strømsgodset,1 - 2,Aalesund,Marienlyst stadion
+21,04.09.2022,søndag,18,Rosenborg,4 - 1,Viking,Lerkendal stadion
+21,04.09.2022,søndag,18,Sarpsborg 08,2 - 1,HamKam,Sarpsborg st KG
+21,04.09.2022,søndag,18,Odd,2 - 1,Jerv,Skagerak Arena
+21,04.09.2022,søndag,20,Vålerenga,3 - 1,Lillestrøm,Intility Arena
+22,10.09.2022,lørdag,16,Sandefjord Fotball,1 - 3,Odd,Jotun Arena
+22,10.09.2022,lørdag,18,Lillestrøm,2 - 1,Strømsgodset,Åråsen stadion
+22,11.09.2022,søndag,18,Aalesund,1 - 3,Sarpsborg 08,Color Line Stadion
+22,11.09.2022,søndag,18,HamKam,1 - 2,Viking,Briskeby
+22,11.09.2022,søndag,18,Jerv,2 - 4,Molde,Levermyr stadion
+22,11.09.2022,søndag,18,Kristiansund,3 - 2,Vålerenga,Nordmøre stadion
+22,11.09.2022,søndag,18,Tromsø,3 - 2,Bodø/Glimt,Romssa Arena
+22,11.09.2022,søndag,20,Haugesund,2 - 1,Rosenborg,Haugesund Sparebank Arena
+23,17.09.2022,lørdag,18,Odd,2 - 0,HamKam,Skagerak Arena
+23,18.09.2022,søndag,18,Bodø/Glimt,1 - 1,Haugesund,Aspmyra stadion
+23,18.09.2022,søndag,18,Strømsgodset,4 - 1,Kristiansund,Marienlyst stadion
+23,18.09.2022,søndag,18,Rosenborg,3 - 1,Lillestrøm,Lerkendal stadion
+23,18.09.2022,søndag,18,Sarpsborg 08,4 - 3,Jerv,Sarpsborg st KG
+23,18.09.2022,søndag,18,Viking,2 - 2,Tromsø,Lyse Arena
+23,18.09.2022,søndag,18,Vålerenga,4 - 0,Sandefjord Fotball,Intility Arena
+23,18.09.2022,søndag,20,Molde,3 - 0,Aalesund,Aker stadion
+24,01.10.2022,lørdag,16,Tromsø,0 - 1,Molde,Romssa Arena
+24,01.10.2022,lørdag,18,Lillestrøm,1 - 4,Bodø/Glimt,Åråsen stadion
+24,01.10.2022,lørdag,18,Vålerenga,4 - 0,Strømsgodset,Intility Arena
+24,02.10.2022,søndag,17,Aalesund,2 - 1,Viking,Color Line Stadion
+24,02.10.2022,søndag,17,HamKam,2 - 1,Jerv,Briskeby
+24,02.10.2022,søndag,17,Haugesund,2 - 2,Odd,Haugesund Sparebank Arena
+24,02.10.2022,søndag,17,Sandefjord Fotball,1 - 1,Sarpsborg 08,Jotun Arena
+24,02.10.2022,søndag,19,Kristiansund,4 - 4,Rosenborg,Nordmøre stadion
+25,08.10.2022,lørdag,18,Sarpsborg 08,4 - 0,Haugesund,Sarpsborg st KG
+25,09.10.2022,søndag,17,Bodø/Glimt,4 - 1,Sandefjord Fotball,Aspmyra stadion
+25,09.10.2022,søndag,17,Molde,5 - 0,HamKam,Aker stadion
+25,09.10.2022,søndag,17,Strømsgodset,1 - 2,Tromsø,Marienlyst stadion
+25,09.10.2022,søndag,17,Odd,1 - 1,Kristiansund,Skagerak Arena
+25,09.10.2022,søndag,17,Viking,0 - 3,Lillestrøm,Lyse Arena
+25,09.10.2022,søndag,19,Rosenborg,3 - 0,Vålerenga,Lerkendal stadion
+25,19.10.2022,onsdag,18,Jerv,0 - 1,Aalesund,Levermyr stadion
+26,15.10.2022,lørdag,16,Tromsø,3 - 2,Odd,Romssa Arena
+26,15.10.2022,lørdag,18,Rosenborg,3 - 0,Strømsgodset,Lerkendal stadion
+26,16.10.2022,søndag,17,Aalesund,0 - 0,HamKam,Color Line Stadion
+26,16.10.2022,søndag,17,Kristiansund,0 - 1,Haugesund,Nordmøre stadion
+26,16.10.2022,søndag,17,Sandefjord Fotball,1 - 2,Jerv,Jotun Arena
+26,16.10.2022,søndag,17,Viking,0 - 1,Sarpsborg 08,Lyse Arena
+26,16.10.2022,søndag,17,Vålerenga,0 - 6,Bodø/Glimt,Intility Arena
+26,16.10.2022,søndag,19,Lillestrøm,0 - 1,Molde,Åråsen stadion
+27,22.10.2022,lørdag,18,HamKam,1 - 1,Strømsgodset,Briskeby
+27,22.10.2022,lørdag,18,Odd,2 - 1,Vålerenga,Skagerak Arena
+27,23.10.2022,søndag,17,Aalesund,1 - 0,Sandefjord Fotball,Color Line Stadion
+27,23.10.2022,søndag,17,Bodø/Glimt,5 - 0,Kristiansund,Aspmyra stadion
+27,23.10.2022,søndag,17,Haugesund,0 - 1,Lillestrøm,Haugesund Sparebank Arena
+27,23.10.2022,søndag,17,Jerv,2 - 2,Viking,Levermyr stadion
+27,23.10.2022,søndag,17,Sarpsborg 08,1 - 1,Tromsø,Sarpsborg st KG
+27,23.10.2022,søndag,19,Molde,2 - 1,Rosenborg,Aker stadion
+28,29.10.2022,lørdag,18,Strømsgodset,1 - 2,Haugesund,Marienlyst stadion
+28,29.10.2022,lørdag,18,Vålerenga,3 - 3,Sarpsborg 08,Intility Arena
+28,30.10.2022,søndag,17,Kristiansund,4 - 0,Aalesund,Nordmøre stadion
+28,30.10.2022,søndag,17,Lillestrøm,0 - 2,Odd,Åråsen stadion
+28,30.10.2022,søndag,17,Rosenborg,3 - 2,Bodø/Glimt,Lerkendal stadion
+28,30.10.2022,søndag,17,Sandefjord Fotball,1 - 2,HamKam,Jotun Arena
+28,30.10.2022,søndag,17,Tromsø,2 - 2,Jerv,Romssa Arena
+28,30.10.2022,søndag,19,Viking,1 - 4,Molde,Lyse Arena
+29,06.11.2022,søndag,17,Aalesund,2 - 1,Lillestrøm,Color Line Stadion
+29,06.11.2022,søndag,17,Bodø/Glimt,5 - 4,Viking,Aspmyra stadion
+29,06.11.2022,søndag,17,HamKam,1 - 2,Tromsø,Briskeby
+29,06.11.2022,søndag,17,Haugesund,1 - 1,Vålerenga,Haugesund Sparebank Arena
+29,06.11.2022,søndag,17,Jerv,2 - 4,Rosenborg,Levermyr stadion
+29,06.11.2022,søndag,17,Molde,2 - 1,Sandefjord Fotball,Aker stadion
+29,06.11.2022,søndag,17,Sarpsborg 08,2 - 2,Kristiansund,Sarpsborg st KG
+29,06.11.2022,søndag,17,Odd,5 - 1,Strømsgodset,Skagerak Arena
+30,13.11.2022,søndag,17,Kristiansund,1 - 1,Jerv,Nordmøre stadion
+30,13.11.2022,søndag,17,Lillestrøm,3 - 1,HamKam,Åråsen stadion
+30,13.11.2022,søndag,17,Strømsgodset,2 - 4,Bodø/Glimt,Marienlyst stadion
+30,13.11.2022,søndag,17,Rosenborg,2 - 3,Sarpsborg 08,Lerkendal stadion
+30,13.11.2022,søndag,17,Sandefjord Fotball,2 - 2,Haugesund,Jotun Arena
+30,13.11.2022,søndag,17,Tromsø,2 - 2,Aalesund,Romssa Arena
+30,13.11.2022,søndag,17,Viking,1 - 1,Odd,Lyse Arena
+30,13.11.2022,søndag,17,Vålerenga,1 - 2,Molde,Intility Arena
