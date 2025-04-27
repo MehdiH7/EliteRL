@@ -2,6 +2,53 @@
 
 A machine learning project that uses reinforcement learning techniques to predict and rank football teams in the Norwegian Eliteserien league. This project compares the performance of a dueling bandit reinforcement learning approach against traditional models like Bradley-Terry, Logistic Regression, and Random Forest.
 
+## Reinforcement Learning Workflow
+
+```mermaid
+graph TD
+    A[Match Data<br>2019-2023] --> B[Pairwise Comparisons]
+    B --> C[Team Mapping<br>names to indices]
+    
+    subgraph "Dueling Bandit RL Model"
+        D[Initialize Team Values<br>& Parameters]
+        E[Match Selection<br>Thompson Sampling]
+        F[Team Strength Update<br>Double Learning]
+        G[Feature Weight Update]
+        H[Exploration-Exploitation<br>Balance]
+        
+        D --> E
+        E --> F
+        F --> G
+        G --> H
+        H -->|Next iteration| E
+    end
+    
+    C --> D
+    
+    subgraph "Features"
+        I1[Home Advantage]
+        I2[Team Form]
+        I3[Home/Away Form]
+        I4[Goal Difference]
+        I5[Total Goals]
+        
+        I1 & I2 & I3 & I4 & I5 --> G
+    end
+    
+    subgraph "Learning Mechanisms"
+        J1[Learning Rate Decay<br>α: 0.05 → 0.005]
+        J2[Reward Shaping<br>based on features]
+        J3[Double Value Estimates<br>for stability]
+        J4[Beta Distributions<br>for Thompson Sampling]
+        
+        J1 & J2 & J3 & J4 --> F
+    end
+    
+    H --> K[Final Team Rankings]
+    K --> L[Prediction on 2024 Season]
+    K --> M[Team Strength Evolution<br>Visualization]
+```
+
 ## Overview
 
 This project implements and evaluates several approaches to ranking football teams based on match outcomes:

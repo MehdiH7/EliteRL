@@ -1,17 +1,17 @@
 ,Reference,RL,Bradley-Terry,Logistic Regression,Random Forest
 Bodø/Glimt,1,1.0,1.0,1.0,1.0
-Brann,2,10.0,9.0,7.0,11.0
-Viking,3,3.0,4.0,3.0,4.0
-Rosenborg,4,4.0,3.0,4.0,3.0
+Brann,2,13.0,9.0,7.0,9.0
+Viking,3,3.0,4.0,3.0,3.0
+Rosenborg,4,4.0,3.0,4.0,4.0
 Molde,5,2.0,2.0,2.0,2.0
 Fredrikstad,6,,,,
-Strømsgodset,7,8.0,13.0,13.0,15.0
+Strømsgodset,7,9.0,13.0,13.0,16.0
 KFUM,8,,,,
-Sarpsborg 08,9,7.0,12.0,12.0,13.0
-Sandefjord Fotball,10,15.0,16.0,15.0,16.0
-Kristiansund,11,13.0,10.0,10.0,6.0
-HamKam,12,18.0,15.0,16.0,14.0
-Tromsø,13,11.0,6.0,5.0,5.0
-Haugesund,14,9.0,11.0,11.0,8.0
-Lillestrøm,15,12.0,5.0,6.0,7.0
-Odd,16,6.0,8.0,9.0,9.0
+Sarpsborg 08,9,10.0,12.0,12.0,12.0
+Sandefjord Fotball,10,15.0,16.0,15.0,14.0
+Kristiansund,11,14.0,10.0,10.0,10.0
+HamKam,12,18.0,15.0,16.0,15.0
+Tromsø,13,7.0,6.0,5.0,5.0
+Haugesund,14,8.0,11.0,11.0,13.0
+Lillestrøm,15,11.0,5.0,6.0,6.0
+Odd,16,6.0,8.0,9.0,7.0
