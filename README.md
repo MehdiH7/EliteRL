@@ -2,51 +2,49 @@
 
 A machine learning project that uses reinforcement learning techniques to predict and rank football teams in the Norwegian Eliteserien league. This project compares the performance of a dueling bandit reinforcement learning approach against traditional models like Bradley-Terry, Logistic Regression, and Random Forest.
 
-## Reinforcement Learning Workflow
+## Workflow Diagram
 
 ```mermaid
 graph TD
-    A[Match Data<br>2019-2023] --> B[Pairwise Comparisons]
-    B --> C[Team Mapping<br>names to indices]
+    A[Raw Match Data<br>2019-2024] --> B[Data Preprocessing]
+    B --> C[Feature Engineering<br>Home advantage, form, etc.]
     
-    subgraph "Dueling Bandit RL Model"
-        D[Initialize Team Values<br>& Parameters]
-        E[Match Selection<br>Thompson Sampling]
-        F[Team Strength Update<br>Double Learning]
-        G[Feature Weight Update]
-        H[Exploration-Exploitation<br>Balance]
-        
-        D --> E
-        E --> F
-        F --> G
-        G --> H
-        H -->|Next iteration| E
+    subgraph Train-Test Split
+        C --> D1[Training Data<br>2019-2023 Seasons]
+        C --> D2[Test Data<br>2024 Season]
     end
     
-    C --> D
-    
-    subgraph "Features"
-        I1[Home Advantage]
-        I2[Team Form]
-        I3[Home/Away Form]
-        I4[Goal Difference]
-        I5[Total Goals]
-        
-        I1 & I2 & I3 & I4 & I5 --> G
+    subgraph Model Training
+        D1 --> E1[Dueling Bandit RL<br>Double Thompson Sampling]
+        D1 --> E2[Bradley-Terry Model]
+        D1 --> E3[Logistic Regression]
+        D1 --> E4[Random Forest]
     end
     
-    subgraph "Learning Mechanisms"
-        J1[Learning Rate Decay<br>α: 0.05 → 0.005]
-        J2[Reward Shaping<br>based on features]
-        J3[Double Value Estimates<br>for stability]
-        J4[Beta Distributions<br>for Thompson Sampling]
+    subgraph Evaluation
+        E1 --> F1[Team Rankings]
+        E2 --> F1
+        E3 --> F1
+        E4 --> F1
         
-        J1 & J2 & J3 & J4 --> F
+        D2 --> F2[Prediction Accuracy]
+        E1 --> F2
+        E2 --> F2
+        E3 --> F2
+        E4 --> F2
+        
+        F1 --> G[Ranking Correlation<br>Kendall's Tau]
+        F1 --> H[Rank Distance<br>Mean Absolute Difference]
+        F2 --> I[Match Prediction<br>Accuracy]
     end
     
-    H --> K[Final Team Rankings]
-    K --> L[Prediction on 2024 Season]
-    K --> M[Team Strength Evolution<br>Visualization]
+    subgraph Visualization
+        G --> J[Comparative Analysis]
+        H --> J
+        I --> J
+        E1 --> K[Team Strength Evolution]
+        J --> L[Results & Plots]
+    end
 ```
 
 ## Overview
